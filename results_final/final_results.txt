@@ -1,0 +1,645 @@
+FINAL ANALYSIS REPORT - AQP4ex readthrough extension
+generated 2026-10-09 12:15:16   script final_analysis.py (md5 a027de9095c6d45c2ef156be94526118)
+
+====================================================================================================
+0. PROVENANCE
+====================================================================================================
+  cds_aqp4.fna           md5 a697602343176ff771f1ef38034d4643
+  3p_utr_aqp4.fna        md5 c3c7a9159be45c15910f52fdccfd0205
+  cds_aqp1.fna           md5 80a09d9c49f0504fbdfc0069f550b57b
+  3p_utr_aqp1.fna        md5 e4486e5921ddd030086591e7f66bfc1b
+  cds_aqp2.fna           md5 d37eab25246be01ab777f1cb03a2f335
+  3p_utr_aqp2.fna        md5 2840ee22b9c82b26562c84e9998706c0
+  cds_aqp5.fna           md5 246ea41010033f63a0b5f4021062a2ee
+  3p_utr_aqp5.fna        md5 62dc3b6d9f4f61e30da1f16f0209f7a3
+  cds_aqp6.fna           md5 2ff365243adfaf610e2f147e5c9575ad
+  3p_utr_aqp6.fna        md5 8ba7883a5ff4629ef7a92efe1302cccf
+  cds_aqp8.fna           md5 cdbad72c4f8bf43c57b67b8ce90dbe99
+  3p_utr_aqp8.fna        md5 f9215eac385ff3ff034c94a6e6c57656
+  species_tree.nwk       md5 a4a0d0e55d4174818a400ab531b704b8
+  hyphy   hyphy: HYPHY 2.5.101(MP) for Linux on x86_64 x86 SSE4 SIMD zlib (v1.3.2)
+  mafft   v7.526 (2024/Apr/26)  (L-INS-i: --maxiterate 1000 --globalpair)
+  muscle  MUSCLE v3.8.1551 by Robert C. Edgar
+  prank   This is PRANK v.170427.
+  iqtree2 IQ-TREE multicore version 2.0.7 for Linux 64-bit built Jan 21 2022  model GTR+F+R4, UFBoot 1000, seed 20260926
+  settings: A1 length tolerance 25%; frameshift rule ORF>35 without terminal motif (AQP4 only); selection set ORF>=10; FEL filters alpha<=10, alpha>0.01, column occupancy>=50% (primary); BH q<=0.2; shuffle seed 20260926
+
+====================================================================================================
+1. SPECIES SETS
+====================================================================================================
+
+AQP4
+----
+  CDS records 1751; failures: internal stop 12, no initiator ATG 1
+  3'UTR records 1621
+  species with a valid CDS 759; length outliers (>25%) removed 0: []
+  A1 759 | A2 697 | A3 687 | A4 685 | genus-pruned A4 530 | SELECTION SET 524
+  curated (NM_) records in A1: 11 (1.4%)
+  truncated (ORF ran off the 3'UTR record) 10: Apteryx_mantelli(10 cod,31 nt), Callorhinchus_milii(28 cod,84 nt), Ciconia_boyciana(23 cod,69 nt), Dama_dama(19 cod,57 nt), Gymnodraco_acuticeps(10 cod,32 nt), Myripristis_murdjan(1 cod,5 nt), Ovis_aries(19 cod,57 nt), Sardina_pilchardus(3 cod,9 nt), Stenella_coeruleoalba(19 cod,57 nt), Sus_scrofa(4 cod,14 nt)
+  frameshifted 2: Festucalex_cinctus(55), Syngnathoides_biaculeatus(53)
+  removed from selection set by ORF < 10: 6: Hippocampus_comes(5), Corythoichthys_intestinalis(5), Stigmatopora_argus(5), Rattus_rattus(7), Syngnathus_acus(9), Gadus_morhua(9)
+  deduplicated selection set (identical extension nt): 371 (153 removed)
+  selection set by clade: Cyclostomata 3; Chondrichthyes 16; Teleostei: Ostariophysi 39; Teleostei: Acanthomorpha 69; Teleostei: other 6; Actinopterygii: non-teleost 6; Sarcopterygian fishes 2; Amphibia 30; Aves 133; Non-avian reptiles 48; Monotremata 2; Marsupialia 11; Eutheria 159
+
+AQP1
+----
+  CDS records 623; failures: internal stop 1
+  3'UTR records 597
+  species with a valid CDS 548; length outliers (>25%) removed 9: [('Centrocercus_urophasianus', 143), ('Chlamydotis_macqueenii', 143), ('Fulmarus_glacialis', 143), ('Lepidothrix_coronata', 135), ('Merops_nubicus', 143), ('Nanorana_parkeri', 393), ('Peromyscus_maniculatus_bairdii', 351), ('Petaurus_breviceps_papuanus', 383)]
+  A1 539 | A2 521 | A3 475 | A4 475 | genus-pruned A4 362 | SELECTION SET 334
+  curated (NM_) records in A1: 11 (2.0%)
+  truncated (ORF ran off the 3'UTR record) 46: Amblyraja_radiata(5 cod,15 nt), Antrostomus_carolinensis(10 cod,32 nt), Apaloderma_vittatum(12 cod,37 nt), Bison_bison_bison(19 cod,58 nt), Bubalus_kerabau(8 cod,24 nt), Canis_lupus_familiaris(32 cod,98 nt), Cariama_cristata(44 cod,134 nt), Charadrius_vociferus(8 cod,26 nt), Ciconia_boyciana(2 cod,6 nt), Cynocephalus_volans(23 cod,69 nt), Dasypus_novemcinctus(24 cod,72 nt), Delphinus_delphis(3 cod,11 nt), Diceros_bicornis_minor(7 cod,21 nt), Dipodomys_ordii(9 cod,28 nt), Dromiciops_gliroides(8 cod,26 nt), Dryobates_pubescens(7 cod,21 nt), Echinops_telfairi(10 cod,32 nt), Elgaria_multicarinata_webbii(3 cod,10 nt), Eptesicus_fuscus(18 cod,54 nt), Eulemur_rufifrons(86 cod,260 nt), Euleptes_europaea(3 cod,9 nt), Falco_rusticolus(25 cod,77 nt), Ficedula_albicollis(12 cod,36 nt), Globicephala_melas(7 cod,21 nt), Haliaeetus_leucocephalus(43 cod,129 nt), Hyla_sarda(58 cod,174 nt), Indicator_indicator(5 cod,17 nt), Lacerta_agilis(40 cod,122 nt), Leptosomus_discolor(42 cod,126 nt), Lontra_canadensis(12 cod,36 nt), Loxodonta_africana(27 cod,83 nt), Malurus_melanocephalus(17 cod,51 nt), Manacus_candei(16 cod,50 nt), Mesoplodon_densirostris(15 cod,45 nt), Miniopterus_natalensis(14 cod,42 nt), Monodelphis_domestica(9 cod,28 nt), Natrix_helvetica(1 cod,4 nt), Phyllostomus_discolor(46 cod,140 nt), Psammomys_obesus(16 cod,49 nt), Pteropus_vampyrus(6 cod,20 nt), Sciurus_vulgaris(23 cod,71 nt), Sorex_araneus(10 cod,30 nt), Spea_bombifrons(1 cod,3 nt), Suncus_etruscus(1 cod,3 nt), Tachyglossus_aculeatus(8 cod,25 nt), Trichechus_manatus_latirostris(137 cod,412 nt)
+  removed from selection set by ORF < 10: 28: Pelobates_fuscus(1), Ovis_canadensis(2), Budorcas_taxicolor(2), Cervus_canadensis(2), Capra_hircus(2), Muntiacus_reevesi(2), Protopterus_annectens(2), Oryx_dammah(2), Dama_dama(2), Odocoileus_virginianus(2), Engystomops_pustulosus(2), Ascaphus_truei(3), Phasianus_colchicus(3), Pyxicephalus_adspersus(3), Chinchilla_lanigera(4), Cavia_porcellus(4), Heterocephalus_glaber(4), Hemicordylus_capensis(5), Bombina_bombina(5), Lissotriton_helveticus(6), Triturus_cristatus(6), Eleutherodactylus_coqui(7), Dendrobates_tinctorius(7), Anolis_carolinensis(7), Pleurodeles_waltl(7), Sceloporus_undulatus(8), Ranitomeya_imitator(8), Ambystoma_mexicanum(9)
+  selection set by clade: Amphibia 16; Aves 121; Non-avian reptiles 40; Monotremata 1; Marsupialia 7; Eutheria 149
+
+AQP2
+----
+  CDS records 488; failures: 
+  3'UTR records 349
+  species with a valid CDS 416; length outliers (>25%) removed 0: []
+  A1 416 | A2 279 | A3 218 | A4 218 | genus-pruned A4 173 | SELECTION SET 141
+  curated (NM_) records in A1: 9 (2.2%)
+  truncated (ORF ran off the 3'UTR record) 61: Acomys_russatus(8 cod,26 nt), Antrostomus_carolinensis(11 cod,35 nt), Apaloderma_vittatum(11 cod,35 nt), Apus_apus(12 cod,36 nt), Bison_bison_bison(51 cod,155 nt), Bos_javanicus(30 cod,91 nt), Calidris_pugnax(11 cod,35 nt), Canis_lupus_dingo(7 cod,23 nt), Cariama_cristata(11 cod,35 nt), Castor_canadensis(25 cod,76 nt), Cebus_imitator(2 cod,8 nt), Chaetura_pelagica(12 cod,36 nt), Chlamydotis_macqueenii(12 cod,37 nt), Echinops_telfairi(1 cod,5 nt), Elephantulus_edwardii(0 cod,1 nt), Enhydra_lutris_kenyoni(1 cod,4 nt), Equus_quagga(45 cod,135 nt), Erinaceus_europaeus(122 cod,368 nt), Eumetopias_jubatus(2 cod,8 nt), Eurypyga_helias(11 cod,34 nt), Fulmarus_glacialis(11 cod,35 nt), Galeopterus_variegatus(1 cod,4 nt), Gallus_gallus(12 cod,36 nt), Globicephala_melas(43 cod,130 nt), Grampus_griseus(39 cod,117 nt), Haliaeetus_leucocephalus(11 cod,35 nt), Larus_michahellis(12 cod,38 nt), Leptosomus_discolor(12 cod,36 nt), Leucopleurus_acutus(49 cod,148 nt), Lontra_canadensis(47 cod,141 nt), Microtus_oregoni(32 cod,96 nt), Microtus_pennsylvanicus(31 cod,95 nt), Mirounga_leonina(1 cod,4 nt), Molossus_molossus(4 cod,12 nt), Muntiacus_reevesi(45 cod,137 nt), Nannospalax_galili(2 cod,8 nt), Neofelis_nebulosa(11 cod,33 nt), Neomonachus_schauinslandi(1 cod,4 nt), Nestor_notabilis(12 cod,36 nt), Nipponia_nippon(11 cod,35 nt), Ochotona_curzoniae(0 cod,1 nt), Octodon_degus(6 cod,20 nt), Odobenus_rosmarus_divergens(4 cod,13 nt), Otolemur_garnettii(4 cod,13 nt), Panthera_pardus(11 cod,33 nt), Peromyscus_leucopus(12 cod,36 nt), Phoca_vitulina(1 cod,4 nt), Phyllostomus_discolor(194 cod,584 nt), Propithecus_coquereli(33 cod,101 nt), Pygoscelis_adeliae(11 cod,35 nt), Rhinolophus_ferrumequinum(4 cod,12 nt), Streptopelia_decaocto(48 cod,144 nt), Talpa_occidentalis(0 cod,1 nt), Tamandua_tetradactyla(29 cod,88 nt), Tauraco_erythrolophus(11 cod,35 nt), Tinamus_guttatus(0 cod,1 nt), Trichechus_manatus_latirostris(3 cod,10 nt), Tyto_alba(11 cod,35 nt), Ursus_americanus(21 cod,63 nt), Vulpes_vulpes(47 cod,141 nt), Zonotrichia_albicollis(85 cod,255 nt)
+  removed from selection set by ORF < 10: 32: Mauremys_mutica(0), Ornithorhynchus_anatinus(0), Phascolarctos_cinereus(0), Pantherophis_guttatus(2), Dipodomys_merriami(2), Erythrolamprus_reginae(2), Pseudonaja_textilis(2), Thamnophis_sirtalis(2), Ahaetulla_prasina(2), Natrix_helvetica(2), Notechis_scutatus(2), Heterocephalus_glaber(2), Sapajus_apella(4), Candoia_aspera(6), Dromaius_novaehollandiae(6), Charadrius_vociferus(6), Paroedura_picta(6), Buceros_rhinoceros_silvestris(6), Aquila_chrysaetos_chrysaetos(6), Calypte_anna(6), Python_bivittatus(6), Pogona_vitticeps(6), Crotalus_tigris(6), Strix_aluco(6), Aptenodytes_forsteri(6), Heliangelus_exortis(6), Struthio_camelus(6), Apteryx_rowi(6), Athene_cunicularia(6), Microcebus_murinus(9), Eublepharis_macularius(9), Monodelphis_domestica(9)
+  selection set by clade: Aves 36; Non-avian reptiles 4; Monotremata 1; Marsupialia 8; Eutheria 92
+
+AQP5
+----
+  CDS records 455; failures: internal stop 1, no initiator ATG 1
+  3'UTR records 365
+  species with a valid CDS 402; length outliers (>25%) removed 19: [('Acomys_minous', 392), ('Alexandromys_fortis', 391), ('Camelus_bactrianus', 342), ('Chinchilla_lanigera', 383), ('Hippopotamus_amphibius_kiboko', 392), ('Ictidomys_tridecemlineatus', 384), ('Lutra_lutra', 398), ('Manacus_vitellinus', 122)]
+  A1 383 | A2 298 | A3 285 | A4 285 | genus-pruned A4 225 | SELECTION SET 203
+  curated (NM_) records in A1: 7 (1.8%)
+  truncated (ORF ran off the 3'UTR record) 13: Acomys_russatus(35 cod,105 nt), Apodemus_sylvaticus(4 cod,13 nt), Athene_cunicularia(29 cod,88 nt), Catharus_ustulatus(81 cod,243 nt), Chiroxiphia_lanceolata(26 cod,80 nt), Erinaceus_europaeus(5 cod,15 nt), Lepus_europaeus(58 cod,175 nt), Ovis_aries(0 cod,1 nt), Passer_montanus(166 cod,499 nt), Phaenicophaeus_curvirostris(22 cod,68 nt), Rhea_pennata(20 cod,62 nt), Sorex_fumeus(18 cod,56 nt), Vidua_macroura(187 cod,562 nt)
+  removed from selection set by ORF < 10: 22: Apus_apus(1), Opisthocomus_hoazin(1), Marmota_marmota_marmota(1), Heliangelus_exortis(1), Phacochoerus_africanus(2), Dendropsophus_ebraccatus(3), Macrotis_lagotis(4), Vipera_berus(6), Cnephaeus_nilssonii(6), Myotis_lucifugus(6), Phalacrocorax_aristotelis(6), Rhinolophus_ferrumequinum(6), Hipposideros_armiger(6), Eptesicus_fuscus(6), Melospiza_melodia_melodia(7), Serinus_canaria(7), Camarhynchus_parvulus(7), Ammospiza_caudacuta(7), Zonotrichia_albicollis(7), Sylvia_atricapilla(7), Sciurus_carolinensis(8), Dasypus_novemcinctus(9)
+  selection set by clade: Amphibia 2; Aves 61; Non-avian reptiles 12; Monotremata 1; Marsupialia 9; Eutheria 118
+
+AQP6
+----
+  CDS records 399; failures: internal stop 5, no initiator ATG 2
+  3'UTR records 325
+  species with a valid CDS 285; length outliers (>25%) removed 9: [('Balaenoptera_acutorostrata', 379), ('Miniopterus_natalensis', 368), ('Myotis_daubentonii', 358), ('Papio_anubis', 369), ('Piliocolobus_tephrosceles', 367), ('Pteropus_alecto', 378), ('Talpa_occidentalis', 383), ('Tenrec_ecaudatus', 360)]
+  A1 276 | A2 209 | A3 188 | A4 188 | genus-pruned A4 136 | SELECTION SET 122
+  curated (NM_) records in A1: 4 (1.4%)
+  truncated (ORF ran off the 3'UTR record) 21: Acomys_russatus(2 cod,6 nt), Alexandromys_fortis(12 cod,37 nt), Bos_mutus(21 cod,63 nt), Cercocebus_atys(30 cod,92 nt), Chionomys_nivalis(13 cod,39 nt), Delphinus_delphis(19 cod,57 nt), Lipotes_vexillifer(1 cod,3 nt), Mesoplodon_bidens(9 cod,28 nt), Mesoplodon_mirus(9 cod,28 nt), Microtus_ochrogaster(2 cod,8 nt), Molossus_molossus(5 cod,16 nt), Orcinus_orca(1 cod,3 nt), Phocoena_phocoena(3 cod,9 nt), Psammomys_obesus(1 cod,4 nt), Sagmatias_obliquidens(1 cod,3 nt), Stenella_coeruleoalba(20 cod,62 nt), Sturnira_hondurensis(14 cod,42 nt), Sus_scrofa(1 cod,3 nt), Tachyglossus_aculeatus(4 cod,12 nt), Terrapene_triunguis(25 cod,76 nt), Tursiops_truncatus(20 cod,60 nt)
+  removed from selection set by ORF < 10: 14: Dasypus_novemcinctus(1), Phascolarctos_cinereus(2), Antechinus_flavipes(2), Vombatus_ursinus(2), Sarcophilus_harrisii(2), Sminthopsis_crassicaudata(2), Notamacropus_eugenii(2), Nannospalax_galili(4), Ursus_americanus(5), Ailuropoda_melanoleuca(5), Macrotis_lagotis(8), Hippopotamus_amphibius_kiboko(8), Erinaceus_europaeus(8), Phyllostomus_hastatus(9)
+  selection set by clade: Non-avian reptiles 17; Monotremata 1; Marsupialia 4; Eutheria 100
+
+AQP8
+----
+  CDS records 746; failures: no initiator ATG 8, length not a multiple of 3 2, no terminal stop 1, internal stop 2
+  3'UTR records 585
+  species with a valid CDS 531; length outliers (>25%) removed 14: [('Camelus_ferus', 331), ('Chiroxiphia_lanceolata', 355), ('Clangula_hyemalis', 388), ('Corapipo_altera', 348), ('Cynocephalus_volans', 402), ('Erinaceus_europaeus', 110), ('Gavia_stellata', 360), ('Geospiza_fortis', 146)]
+  A1 517 | A2 378 | A3 328 | A4 328 | genus-pruned A4 245 | SELECTION SET 179
+  curated (NM_) records in A1: 6 (1.2%)
+  truncated (ORF ran off the 3'UTR record) 50: Agelaius_phoeniceus(113 cod,341 nt), Agelaius_tricolor(153 cod,459 nt), Ahaetulla_prasina(44 cod,132 nt), Alligator_mississippiensis(47 cod,141 nt), Anomalospiza_imberbis(67 cod,203 nt), Apteryx_rowi(31 cod,95 nt), Caprimulgus_europaeus(22 cod,66 nt), Chroicocephalus_ridibundus(28 cod,86 nt), Crocodylus_porosus(22 cod,67 nt), Dryobates_pubescens(55 cod,167 nt), Eleutherodactylus_coqui(29 cod,88 nt), Elgaria_multicarinata_webbii(52 cod,158 nt), Eptesicus_fuscus(149 cod,448 nt), Erithacus_rubecula(42 cod,128 nt), Eumetopias_jubatus(2 cod,8 nt), Gavialis_gangeticus(38 cod,114 nt), Haliaeetus_leucocephalus(9 cod,27 nt), Heliangelus_exortis(37 cod,112 nt), Heteronotia_binoei(2 cod,6 nt), Lathamus_discolor(11 cod,34 nt), Lichenostomus_cassidix(124 cod,372 nt), Lontra_canadensis(10 cod,31 nt), Motacilla_alba_alba(32 cod,97 nt), Neopsephotus_bourkii(65 cod,196 nt), Octodon_degus(10 cod,32 nt), Oxyura_jamaicensis(50 cod,152 nt), Pelophylax_lessonae(78 cod,236 nt), Pezoporus_flaviventris(80 cod,240 nt), Pezoporus_occidentalis(73 cod,220 nt), Pezoporus_wallicus(31 cod,94 nt), Phaenicophaeus_curvirostris(3 cod,10 nt), Phalacrocorax_aristotelis(127 cod,382 nt), Phalacrocorax_carbo(127 cod,382 nt), Pipistrellus_kuhlii(58 cod,176 nt), Pipra_filicauda(7 cod,21 nt), Pithys_albifrons_albifrons(5 cod,17 nt), Pituophis_catenifer_annectens(17 cod,51 nt), Pogoniulus_pusillus(6 cod,20 nt), Pyrgilauda_ruficollis(9 cod,28 nt), Rhinoderma_darwinii(13 cod,39 nt), Rissa_tridactyla(10 cod,30 nt), Saccopteryx_bilineata(32 cod,96 nt), Saccopteryx_leptura(32 cod,96 nt), Strigops_habroptila(24 cod,73 nt), Suncus_etruscus(9 cod,29 nt), Tyto_alba(32 cod,97 nt), Varanus_komodoensis(33 cod,99 nt), Vipera_berus(6 cod,19 nt), Vipera_ursinii(6 cod,19 nt), Zonotrichia_leucophrys_gambelii(123 cod,370 nt)
+  removed from selection set by ORF < 10: 66: Nannospalax_galili(0), Delphinapterus_leucas(1), Dasypus_novemcinctus(1), Grampus_griseus(1), Mirounga_angustirostris(1), Odobenus_rosmarus_divergens(1), Delphinus_delphis(1), Macaca_fascicularis(1), Sagmatias_obliquidens(1), Canis_aureus(1), Manis_javanica(1), Ceratotherium_simum_simum(1), Equus_asinus(1), Vulpes_lagopus(1), Lagenorhynchus_albirostris(1), Eubalaena_glacialis(1), Cervus_canadensis(1), Neophocaena_asiaeorientalis_asiaeorientalis(1), Giraffa_tippelskirchi(1), Monodon_monoceros(1), Echinops_telfairi(1), Stenella_coeruleoalba(1), Elephas_maximus_indicus(1), Saimiri_boliviensis(1), Capra_hircus(1), Rhinatrema_bivittatum(1), Hyaena_hyaena(1), Pseudorca_crassidens(1), Phocoena_phocoena(1), Physeter_macrocephalus(1), Ailuropoda_melanoleuca(1), Lipotes_vexillifer(1), Oryx_dammah(1), Microcaecilia_unicolor(1), Diceros_bicornis_minor(1), Bos_indicus(1), Sus_scrofa(1), Balaenoptera_musculus(1), Leucopleurus_acutus(1), Capricornis_sumatraensis(1), Mandrillus_leucophaeus(1), Dama_dama(1), Leptonychotes_weddellii(1), Tursiops_truncatus(1), Papio_anubis(1), Bubalus_bubalis(1), Ursus_arctos(1), Pteropus_medius(1), Odocoileus_virginianus(1), Trichechus_manatus_latirostris(1), Phacochoerus_africanus(1), Geotrypetes_seraphini(1), Vicugna_pacos(1), Crocuta_crocuta(1), Cercocebus_atys(1), Camelus_bactrianus(1), Theropithecus_gelada(1), Bison_bison_bison(1), Nyctereutes_procyonoides(1), Loxodonta_africana(1), Pelobates_fuscus(2), Paroedura_picta(3), Sminthopsis_crassicaudata(3), Gekko_japonicus(6), Macrotis_lagotis(8), Ovis_aries(9)
+  selection set by clade: Cyclostomata 2; Sarcopterygian fishes 1; Amphibia 22; Aves 38; Non-avian reptiles 36; Marsupialia 6; Eutheria 74
+
+====================================================================================================
+2. STOP-CODON CONTEXT (set A2)
+====================================================================================================
+  AQP4: A2 697, resolvable 697;  UGA 694 (99.57%), +4 C 693 (99.43%), UGA-C 692 (99.28%)
+  AQP1: A2 521, resolvable 519;  UGA 7 (1.35%), +4 C 3 (0.58%), UGA-C 0 (0.00%)
+  AQP2: A2 279, resolvable 275;  UGA 161 (58.55%), +4 C 79 (28.73%), UGA-C 0 (0.00%)
+  AQP5: A2 298, resolvable 297;  UGA 188 (63.30%), +4 C 178 (59.93%), UGA-C 174 (58.59%)
+  AQP6: A2 209, resolvable 205;  UGA 64 (31.22%), +4 C 39 (19.02%), UGA-C 29 (14.15%)
+  AQP8: A2 378, resolvable 378;  UGA 360 (95.24%), +4 C 93 (24.60%), UGA-C 87 (23.02%)
+
+AQP4 detail
+-----------
+  UGA-CUA[G/U] 665/697 (95.41%);  UGA-CUAG 566 (81.21%);  UGA-CUAU 99 (14.20%)
+  all contexts (stop + 4 nt):
+     TGA-CTAG   566  81.21%
+     TGA-CTAT    99  14.20%
+     TGA-CGAG     7  1.00%
+     TGA-CAAT     5  0.72%
+     TGA-CGAT     5  0.72%
+     TGA-CTAC     3  0.43%
+     TGA-CAAG     2  0.29%
+     TGA-CTAA     2  0.29%
+     TGA-AAGC     1  0.14%
+     TAA-AGGT     1  0.14%
+     TGA-CAGG     1  0.14%
+     TGA-CTGA     1  0.14%
+     TGA-CTCC     1  0.14%
+     TAA-ATCA     1  0.14%
+     TGA-TGAG     1  0.14%
+     TAG-CTGA     1  0.14%
+  species lacking UGA-C:
+     Alligator_mississippiensis         TAA-AGGT  Non-avian reptiles  XM_059724154.1
+     Camelus_ferus                      TGA-AAGC  Eutheria  XM_006187167.3
+     Gymnodraco_acuticeps               TAG-CTGA  Teleostei: Acanthomorpha  XM_034237460.1
+     Hippocampus_zosterae               TGA-TGAG  Teleostei: Acanthomorpha  XM_052087853.1
+     Rattus_rattus                      TAA-ATCA  Eutheria  XM_032885626.1
+  cyclostomes:
+     Lampetra_fluviatilis               TGA-CTAC  XM_078868929.1  curated=False
+     Lampetra_planeri                   TGA-CTAC  XM_078606468.1  curated=False
+     Lethenteron_reissneri              TGA-CTAC  XM_061548651.1  curated=False
+     Petromyzon_marinus                 TGA-CTCC  XM_032960701.2  curated=False
+
+====================================================================================================
+3. UGA-CUAG BY CLADE (set A2, NCBI taxonomy)
+====================================================================================================
+  clade                             n         UGA-C      CUA[G/U]          CUAG          CUAU
+  Cyclostomata                      4     4  100.0%     0    0.0%     0    0.0%     0    0.0%
+  Chondrichthyes                   17    17  100.0%    17  100.0%    16   94.1%     1    5.9%
+  Teleostei: Ostariophysi          47    47  100.0%    38   80.9%    36   76.6%     2    4.3%
+  Teleostei: Acanthomorpha        100    98   98.0%    86   86.0%     1    1.0%    85   85.0%
+  Teleostei: other                 12    12  100.0%    12  100.0%    12  100.0%     0    0.0%
+  Actinopterygii: non-teleost       6     6  100.0%     6  100.0%     6  100.0%     0    0.0%
+  Sarcopterygian fishes             2     2  100.0%     1   50.0%     1   50.0%     0    0.0%
+  Amphibia                         33    33  100.0%    32   97.0%    32   97.0%     0    0.0%
+  Aves                            170   170  100.0%   170  100.0%   170  100.0%     0    0.0%
+  Non-avian reptiles               66    65   98.5%    65   98.5%    65   98.5%     0    0.0%
+  Monotremata                       2     2  100.0%     2  100.0%     2  100.0%     0    0.0%
+  Marsupialia                      11    11  100.0%    11  100.0%     0    0.0%    11  100.0%
+  Eutheria                        227   225   99.1%   225   99.1%   225   99.1%     0    0.0%
+
+====================================================================================================
+4. ANCESTRAL STATE OF UGA-CUAG  (TimeTree species tree)
+====================================================================================================
+tree set T (one species per genus from A2): 540 species submitted to TimeTree
+tree tips 600, all in T; matched by name 484, by NCBI species 115, by synonym file 1
+     Tupaia_chinensis -> Tupaia_belangeri_chinensis  (synonym file)
+species returned as several subspecies tips, each a clade collapsed to one tip: 39 (115 tips)
+     Ailuropoda_melanoleuca: 2 tips
+     Alexandromys_fortis: 2 tips
+     Artibeus_jamaicensis: 6 tips
+     Capra_hircus: 2 tips
+     Cervus_canadensis: 5 tips
+     Cyanistes_caeruleus: 6 tips
+     Cyprinus_carpio: 2 tips
+     Dipodomys_merriami: 7 tips
+     Equus_asinus: 3 tips
+     Galeopterus_variegatus: 2 tips
+     Hipposideros_armiger: 2 tips
+     Homo_sapiens: 3 tips
+     Ictidomys_tridecemlineatus: 2 tips
+     Macaca_fascicularis: 3 tips
+     Malaclemys_terrapin_pileata: 3 tips
+     Meles_meles: 2 tips
+     Miniopterus_natalensis: 2 tips
+     Moschus_berezovskii: 3 tips
+     Muntiacus_reevesi: 2 tips
+     Natrix_helvetica: 2 tips
+     Nyctereutes_procyonoides: 2 tips
+     Ochotona_curzoniae: 2 tips
+     Oryctolagus_cuniculus: 2 tips
+     Ovis_aries: 2 tips
+     Panthera_leo: 3 tips
+     Phoca_vitulina: 4 tips
+     Prinia_subflava: 2 tips
+     Prionailurus_bengalensis: 2 tips
+     Rana_temporaria: 3 tips
+     Rattus_rattus: 2 tips
+     Rhinolophus_ferrumequinum: 3 tips
+     Rutilus_rutilus: 2 tips
+     Saimiri_boliviensis: 2 tips
+     Sapajus_apella: 2 tips
+     Sus_scrofa: 4 tips
+     Tyto_alba: 5 tips
+     Urocitellus_parryii: 7 tips
+     Vicugna_pacos: 3 tips
+     Zootoca_vivipara: 2 tips
+T species not resolved by TimeTree 16: Amia_ocellicauda, Carettochelys_insculpta, Cetorhinus_maximus, Dermochelys_coriacea, Dromaius_novaehollandiae, Dromiciops_gliroides, Eurypyga_helias, Hemitrygon_akajei, Leptosomus_discolor, Leucoraja_erinaceus, Opisthocomus_hoazin, Phascolarctos_cinereus, Protopterus_annectens, Raja_brachyura, Stegostoma_tigrinum, Struthio_camelus
+tips scored 524: with UGA-CUAG 423, without 101
+root children sizes: [521, 3]  (outgroup = ['Gnathostomata', 'Petromyzontidae'])
+parsimony cost with root = absent: 9;  root = present: 9
+ROOT STATE: EQUIVOCAL (equal cost)
+
+  root = present, DELTRAN-like: 9 changes (0 gains, 9 losses)
+     loss    77 tips  Acanthomorphata              e.g. Genypterus_blacodes, Eucyclogobius_newberryi, Periophthalmus_magnuspinnatus
+     loss     9 tips  Metatheria                   e.g. Monodelphis_domestica, Gracilinanus_agilis, Petaurus_breviceps_papuanus
+     loss     6 tips  Siluroidei                   e.g. Clarias_gariepinus, Pangasianodon_hypophthalmus, Ictalurus_furcatus
+     loss     3 tips  Petromyzontidae              e.g. Lethenteron_reissneri, Lampetra_fluviatilis, Petromyzon_marinus
+     loss     2 tips  Catostomidae                 e.g. Myxocyprinus_asiaticus, Xyrauchen_texanus
+     loss     1 tips  Rhinoderma darwinii          e.g. Rhinoderma_darwinii
+     loss     1 tips  Rattus rattus                e.g. Rattus_rattus
+     loss     1 tips  Alligator mississippiensis   e.g. Alligator_mississippiensis
+     loss     1 tips  Latimeria chalumnae          e.g. Latimeria_chalumnae
+
+  root = present, ACCTRAN-like: 9 changes (0 gains, 9 losses)
+     loss    77 tips  Acanthomorphata              e.g. Genypterus_blacodes, Eucyclogobius_newberryi, Periophthalmus_magnuspinnatus
+     loss     9 tips  Metatheria                   e.g. Monodelphis_domestica, Gracilinanus_agilis, Petaurus_breviceps_papuanus
+     loss     6 tips  Siluroidei                   e.g. Clarias_gariepinus, Pangasianodon_hypophthalmus, Ictalurus_furcatus
+     loss     3 tips  Petromyzontidae              e.g. Lethenteron_reissneri, Lampetra_fluviatilis, Petromyzon_marinus
+     loss     2 tips  Catostomidae                 e.g. Myxocyprinus_asiaticus, Xyrauchen_texanus
+     loss     1 tips  Rhinoderma darwinii          e.g. Rhinoderma_darwinii
+     loss     1 tips  Rattus rattus                e.g. Rattus_rattus
+     loss     1 tips  Alligator mississippiensis   e.g. Alligator_mississippiensis
+     loss     1 tips  Latimeria chalumnae          e.g. Latimeria_chalumnae
+
+  root = absent, DELTRAN-like: 9 changes (1 gains, 8 losses)
+     gain   521 tips  Gnathostomata                e.g. Amblyraja_radiata, Rhinoraja_longicauda, Hypanus_sabinus
+     loss    77 tips  Acanthomorphata              e.g. Genypterus_blacodes, Eucyclogobius_newberryi, Periophthalmus_magnuspinnatus
+     loss     9 tips  Metatheria                   e.g. Monodelphis_domestica, Gracilinanus_agilis, Petaurus_breviceps_papuanus
+     loss     6 tips  Siluroidei                   e.g. Clarias_gariepinus, Pangasianodon_hypophthalmus, Ictalurus_furcatus
+     loss     2 tips  Catostomidae                 e.g. Myxocyprinus_asiaticus, Xyrauchen_texanus
+     loss     1 tips  Rhinoderma darwinii          e.g. Rhinoderma_darwinii
+     loss     1 tips  Rattus rattus                e.g. Rattus_rattus
+     loss     1 tips  Alligator mississippiensis   e.g. Alligator_mississippiensis
+     loss     1 tips  Latimeria chalumnae          e.g. Latimeria_chalumnae
+
+  root = absent, ACCTRAN-like: 9 changes (1 gains, 8 losses)
+     gain   521 tips  Gnathostomata                e.g. Amblyraja_radiata, Rhinoraja_longicauda, Hypanus_sabinus
+     loss    77 tips  Acanthomorphata              e.g. Genypterus_blacodes, Eucyclogobius_newberryi, Periophthalmus_magnuspinnatus
+     loss     9 tips  Metatheria                   e.g. Monodelphis_domestica, Gracilinanus_agilis, Petaurus_breviceps_papuanus
+     loss     6 tips  Siluroidei                   e.g. Clarias_gariepinus, Pangasianodon_hypophthalmus, Ictalurus_furcatus
+     loss     2 tips  Catostomidae                 e.g. Myxocyprinus_asiaticus, Xyrauchen_texanus
+     loss     1 tips  Rhinoderma darwinii          e.g. Rhinoderma_darwinii
+     loss     1 tips  Rattus rattus                e.g. Rattus_rattus
+     loss     1 tips  Alligator mississippiensis   e.g. Alligator_mississippiensis
+     loss     1 tips  Latimeria chalumnae          e.g. Latimeria_chalumnae
+
+  Mk model (maximum likelihood, TimeTree branch lengths in My):
+    ER   lnL -46.71  AIC 95.43  rate gain 3.10e-04 loss 3.10e-04 /My   P(root = present): flat prior 0.819, stationary prior 0.819
+    ARD  lnL -45.20  AIC 94.40  rate gain 5.11e-18 loss 3.69e-04 /My   P(root = present): flat prior 1.000, stationary prior 0.806
+  NOTE: with a single outgroup lineage, the root state is determined by priors and branch lengths, not by outgroup evidence.
+
+====================================================================================================
+5. EXTENSION LENGTH AND TERMINAL SEQUENCE (AQP4, set A4)
+====================================================================================================
+  n = 685; median 28.0; mean 25.01
+      28 codons   490  71.53%
+      11 codons    88  12.85%
+      24 codons    36  5.26%
+      27 codons    19  2.77%
+      26 codons    14  2.04%
+      21 codons    12  1.75%
+      25 codons     6  0.88%
+      15 codons     3  0.44%
+       5 codons     3  0.44%
+       9 codons     3  0.44%
+      43 codons     2  0.29%
+      23 codons     2  0.29%
+      16 codons     2  0.29%
+       0 codons     1  0.15%
+      22 codons     1  0.15%
+       7 codons     1  0.15%
+      19 codons     1  0.15%
+       2 codons     1  0.15%
+  25-35 codons 529 (77.23%);  > 35 codons: [('Alosa_alosa', 43), ('Alosa_sapidissima', 43)]
+  28 + 11 codons: 578 (84.38%)
+  C-terminal hexapeptides (denominator A4 = 685):
+     KETDLL   499  72.85%
+     EMETNL    64  9.34%
+     KETDLI    36  5.26%
+     KETDIL    18  2.63%
+     EKETNL     7  1.02%
+     EIETNL     5  0.73%
+     KETELI     5  0.73%
+     KETDII     5  0.73%
+  KETDLI + KETDIL = 54 (7.88%)
+  terminal D-[LI]-[LI]: 564 (82.34%);  top tripeptides DLL 502, TNL 86, DLI 36, DIL 21, ELI 5
+  N-terminal pentapeptides:
+     LARST   229  33.43%
+     LEDST    84  12.26%
+     LSRAL    69  10.07%
+     LEDGT    48  7.01%
+     LEDRT    28  4.09%
+     LVRGT    13  1.90%
+     LEEST    11  1.61%
+     LGDST    10  1.46%
+  ratio KETDLL / top N-pentapeptide = 2.18
+  11-codon forms:
+     LSRALEMETNL  54
+     LSHALEMETNL  7
+     LSRALEIETNL  5
+     LSRALQIETNL  4
+     LSRALEVETNL  3
+     LSKTLEKETNL  2
+  11-codon forms ending in KETDLL: 0; clades: {'Teleostei: Acanthomorpha': 88}
+  mean GC of first 100 nt of 3'UTR: 44.66% (n=677)
+
+====================================================================================================
+6. LENGTH OF THE DOWNSTREAM ORF AGAINST CHANCE (all genes, set A4)
+====================================================================================================
+  Observed = codons before the first in-frame stop. Geometric null: mean (1-p)/p, median ceil(ln .5/ln(1-p))-1.
+  Empirical null: same species' 3'UTR, dinucleotide-shuffled; species are phylogenetically non-independent, so species-level p-values are liberal.
+  AQP4  A4 n=685  observed ORF median 28.0, mean 25.01 codons
+    [manuscript formula] GC(first 100 nt) 44.7%  P(stop) 5.54%  1/P 18.1  median/(1/P) 1.55
+    [4-base, 300 nt downstream of ORF stop, n=628] A 0.319 C 0.197 G 0.178 U 0.305  P(stop) 6.59%
+       geometric null: mean 14.2, median 10 codons;  observed/null  median 2.80, mean 1.77
+    [all A4, n=608, first 600 nt, 200 dinucleotide shuffles]
+       median observed 28.0; median of species' shuffle-null medians 11.0; ratio 2.55
+       species with observed > own null median: 528/597 (ties excluded), one-sided sign test p = 7.56e-89
+       species with empirical P(null >= observed) <= 0.05: 0/608
+       other frames (+1/+2, same sequence): median of max 4.0; frame 0 > both in 497/608; Wilcoxon frame0 > max(+1,+2) p = 2.38e-38
+    [genus-pruned A4, n=466, first 600 nt, 200 dinucleotide shuffles]
+       median observed 28.0; median of species' shuffle-null medians 11.0; ratio 2.55
+       species with observed > own null median: 404/458 (ties excluded), one-sided sign test p = 1.26e-67
+       species with empirical P(null >= observed) <= 0.05: 0/466
+       other frames (+1/+2, same sequence): median of max 4.0; frame 0 > both in 377/466; Wilcoxon frame0 > max(+1,+2) p = 6.75e-30
+    clade-level (clades with >= 5 species; treats clades, not species, as replicates):
+       Chondrichthyes                 n=  14  observed median  28.0  null median  13.0
+       Teleostei: Ostariophysi        n=  42  observed median  24.0  null median  11.0
+       Teleostei: Acanthomorpha       n=  86  observed median  11.0  null median  13.0
+       Teleostei: other               n=  11  observed median  28.0  null median  13.0
+       Actinopterygii: non-teleost    n=   6  observed median  28.0  null median   9.5
+       Amphibia                       n=  30  observed median  26.5  null median  10.0
+       Aves                           n= 157  observed median  28.0  null median  11.0
+       Non-avian reptiles             n=  59  observed median  28.0  null median  10.5
+       Marsupialia                    n=   8  observed median  24.0  null median  11.5
+       Eutheria                       n= 189  observed median  28.0  null median  11.0
+       clades with observed > null: 9/10; one-sided sign test p = 0.0107
+  AQP1  A4 n=475  observed ORF median 26.0, mean 35.50 codons
+    [manuscript formula] GC(first 100 nt) 49.5%  P(stop) 4.77%  1/P 21.0  median/(1/P) 1.24
+    [4-base, 300 nt downstream of ORF stop, n=452] A 0.242 C 0.244 G 0.221 U 0.293  P(stop) 4.84%
+       geometric null: mean 19.6, median 13 codons;  observed/null  median 2.00, mean 1.81
+    [all A4, n=447, first 600 nt, 200 dinucleotide shuffles]
+       median observed 27.0; median of species' shuffle-null medians 15.0; ratio 1.80
+       species with observed > own null median: 329/439 (ties excluded), one-sided sign test p = 9.92e-27
+       species with empirical P(null >= observed) <= 0.05: 36/447
+       other frames (+1/+2, same sequence): median of max 43.0; frame 0 > both in 151/447; Wilcoxon frame0 > max(+1,+2) p = 1.00e+00
+    [genus-pruned A4, n=339, first 600 nt, 200 dinucleotide shuffles]
+       median observed 26.0; median of species' shuffle-null medians 14.0; ratio 1.86
+       species with observed > own null median: 244/333 (ties excluded), one-sided sign test p = 3.98e-18
+       species with empirical P(null >= observed) <= 0.05: 23/339
+       other frames (+1/+2, same sequence): median of max 43.0; frame 0 > both in 108/339; Wilcoxon frame0 > max(+1,+2) p = 1.00e+00
+    clade-level (clades with >= 5 species; treats clades, not species, as replicates):
+       Amphibia                       n=  26  observed median  11.5  null median  10.2
+       Aves                           n= 139  observed median  27.0  null median  11.5
+       Non-avian reptiles             n=  58  observed median  22.0  null median  11.2
+       Marsupialia                    n=   7  observed median  74.0  null median  23.5
+       Eutheria                       n= 215  observed median  27.0  null median  25.0
+       clades with observed > null: 5/5; one-sided sign test p = 0.0312
+  AQP2  A4 n=218  observed ORF median 34.0, mean 47.91 codons
+    [manuscript formula] GC(first 100 nt) 69.4%  P(stop) 1.98%  1/P 50.6  median/(1/P) 0.67
+    [4-base, 300 nt downstream of ORF stop, n=189] A 0.190 C 0.288 G 0.310 U 0.212  P(stop) 3.26%
+       geometric null: mean 29.7, median 20 codons;  observed/null  median 1.70, mean 1.62
+    [all A4, n=196, first 600 nt, 200 dinucleotide shuffles]
+       median observed 37.0; median of species' shuffle-null medians 24.0; ratio 1.54
+       species with observed > own null median: 128/195 (ties excluded), one-sided sign test p = 7.46e-06
+       species with empirical P(null >= observed) <= 0.05: 21/196
+       other frames (+1/+2, same sequence): median of max 61.0; frame 0 > both in 53/196; Wilcoxon frame0 > max(+1,+2) p = 1.00e+00
+    [genus-pruned A4, n=157, first 600 nt, 200 dinucleotide shuffles]
+       median observed 29.0; median of species' shuffle-null medians 24.0; ratio 1.21
+       species with observed > own null median: 99/156 (ties excluded), one-sided sign test p = 4.83e-04
+       species with empirical P(null >= observed) <= 0.05: 19/157
+       other frames (+1/+2, same sequence): median of max 61.0; frame 0 > both in 42/157; Wilcoxon frame0 > max(+1,+2) p = 1.00e+00
+    clade-level (clades with >= 5 species; treats clades, not species, as replicates):
+       Aves                           n=  46  observed median  18.0  null median  24.5
+       Non-avian reptiles             n=  18  observed median   6.0  null median  12.8
+       Marsupialia                    n=   9  observed median  19.0  null median  12.0
+       Eutheria                       n= 121  observed median  55.0  null median  26.0
+       clades with observed > null: 2/4; one-sided sign test p = 0.688
+  AQP5  A4 n=285  observed ORF median 11.0, mean 28.73 codons
+    [manuscript formula] GC(first 100 nt) 56.2%  P(stop) 3.75%  1/P 26.7  median/(1/P) 0.41
+    [4-base, 300 nt downstream of ORF stop, n=249] A 0.231 C 0.279 G 0.302 U 0.188  P(stop) 3.62%
+       geometric null: mean 26.6, median 18 codons;  observed/null  median 0.61, mean 1.08
+    [all A4, n=252, first 600 nt, 200 dinucleotide shuffles]
+       median observed 12.0; median of species' shuffle-null medians 20.0; ratio 0.60
+       species with observed > own null median: 118/248 (ties excluded), one-sided sign test p = 7.95e-01
+       species with empirical P(null >= observed) <= 0.05: 13/252
+       other frames (+1/+2, same sequence): median of max 60.0; frame 0 > both in 51/252; Wilcoxon frame0 > max(+1,+2) p = 1.00e+00
+    [genus-pruned A4, n=197, first 600 nt, 200 dinucleotide shuffles]
+       median observed 13.0; median of species' shuffle-null medians 20.0; ratio 0.65
+       species with observed > own null median: 92/193 (ties excluded), one-sided sign test p = 7.64e-01
+       species with empirical P(null >= observed) <= 0.05: 10/197
+       other frames (+1/+2, same sequence): median of max 59.0; frame 0 > both in 39/197; Wilcoxon frame0 > max(+1,+2) p = 1.00e+00
+    clade-level (clades with >= 5 species; treats clades, not species, as replicates):
+       Aves                           n=  82  observed median  43.0  null median  18.0
+       Non-avian reptiles             n=  13  observed median  12.0  null median  12.5
+       Marsupialia                    n=  10  observed median  14.0  null median  13.5
+       Eutheria                       n= 145  observed median  11.0  null median  23.0
+       clades with observed > null: 2/4; one-sided sign test p = 0.688
+  AQP6  A4 n=188  observed ORF median 24.0, mean 31.59 codons
+    [manuscript formula] GC(first 100 nt) 56.7%  P(stop) 3.67%  1/P 27.2  median/(1/P) 0.88
+    [4-base, 300 nt downstream of ORF stop, n=163] A 0.230 C 0.262 G 0.270 U 0.238  P(stop) 4.22%
+       geometric null: mean 22.7, median 16 codons;  observed/null  median 1.50, mean 1.39
+    [all A4, n=158, first 600 nt, 200 dinucleotide shuffles]
+       median observed 24.0; median of species' shuffle-null medians 19.0; ratio 1.26
+       species with observed > own null median: 95/154 (ties excluded), one-sided sign test p = 2.32e-03
+       species with empirical P(null >= observed) <= 0.05: 12/158
+       other frames (+1/+2, same sequence): median of max 35.0; frame 0 > both in 62/158; Wilcoxon frame0 > max(+1,+2) p = 9.82e-01
+    [genus-pruned A4, n=113, first 600 nt, 200 dinucleotide shuffles]
+       median observed 24.0; median of species' shuffle-null medians 18.0; ratio 1.33
+       species with observed > own null median: 71/109 (ties excluded), one-sided sign test p = 1.02e-03
+       species with empirical P(null >= observed) <= 0.05: 10/113
+       other frames (+1/+2, same sequence): median of max 34.0; frame 0 > both in 47/113; Wilcoxon frame0 > max(+1,+2) p = 9.02e-01
+    clade-level (clades with >= 5 species; treats clades, not species, as replicates):
+       Non-avian reptiles             n=  14  observed median  25.0  null median  15.5
+       Marsupialia                    n=  10  observed median   5.0  null median  11.0
+       Eutheria                       n= 133  observed median  27.0  null median  20.0
+       clades with observed > null: 2/3; one-sided sign test p = 0.5
+  AQP8  A4 n=328  observed ORF median 22.0, mean 36.91 codons
+    [manuscript formula] GC(first 100 nt) 61.9%  P(stop) 2.93%  1/P 34.1  median/(1/P) 0.65
+    [4-base, 300 nt downstream of ORF stop, n=291] A 0.204 C 0.288 G 0.276 U 0.232  P(stop) 3.58%
+       geometric null: mean 26.9, median 18 codons;  observed/null  median 1.22, mean 1.37
+    [all A4, n=293, first 600 nt, 200 dinucleotide shuffles]
+       median observed 28.0; median of species' shuffle-null medians 21.0; ratio 1.33
+       species with observed > own null median: 154/289 (ties excluded), one-sided sign test p = 1.45e-01
+       species with empirical P(null >= observed) <= 0.05: 29/293
+       other frames (+1/+2, same sequence): median of max 63.0; frame 0 > both in 72/293; Wilcoxon frame0 > max(+1,+2) p = 1.00e+00
+    [genus-pruned A4, n=218, first 600 nt, 200 dinucleotide shuffles]
+       median observed 23.0; median of species' shuffle-null medians 20.5; ratio 1.12
+       species with observed > own null median: 109/215 (ties excluded), one-sided sign test p = 4.46e-01
+       species with empirical P(null >= observed) <= 0.05: 25/218
+       other frames (+1/+2, same sequence): median of max 56.5; frame 0 > both in 59/218; Wilcoxon frame0 > max(+1,+2) p = 1.00e+00
+    clade-level (clades with >= 5 species; treats clades, not species, as replicates):
+       Amphibia                       n=  26  observed median  81.0  null median  15.0
+       Aves                           n=  45  observed median  53.0  null median  40.0
+       Non-avian reptiles             n=  48  observed median  35.0  null median  22.2
+       Marsupialia                    n=   8  observed median  23.0  null median  13.5
+       Eutheria                       n= 164  observed median  18.0  null median  19.8
+       clades with observed > null: 4/5; one-sided sign test p = 0.188
+
+====================================================================================================
+7. AQP4 SELECTION ANALYSIS - PRIMARY (joint channel+extension, MAFFT, selection set)
+====================================================================================================
+  taxa 524; joint global dN/dS 0.1497
+  EXTENSION: columns 59, tested 28, purifying (q<=0.2) 16, diversifying 0, Bonferroni purifying 12
+     expected false discoveries among 16 calls <= 3.2
+     purifying: D327(dom R), E330(dom E), Q333(dom E), D334(dom Q), S335(dom P), S340(dom S), L343(dom L), P344(dom P), P345(dom P), I346(dom I), K347(dom K), E348(dom E), T349(dom T), D350(dom D), L351(dom L), L352(dom L)
+     Bonferroni: 327, 330, 333, 334, 345, 346, 347, 348, 349, 350, 351, 352
+     excluded columns: {'occupancy #': 31}
+  CHANNEL (positive control): tested 316, purifying 308 (97.5%), diversifying 1 [149 q=0.050], Bonferroni purifying 278
+  per-column table (extension; occ = non-gap taxa):
+   col     human       occ       dominant        2nd  human%   alpha    beta   omega         p         q  bonf  call / reason
+     1      L325  524/524    L  98.1%         R 1.3%   98.1%   0.029   0.061   2.084  3.71e-01  5.19e-01        -
+     2      E326  524/524    A  43.1%        E 30.5%   30.5%   0.331   0.279   0.841  5.40e-01  6.87e-01        -
+     3      D327  524/524    R  55.3%        D 25.6%   25.6%   1.389   0.384   0.276  2.69e-09  1.26e-08     Y  purifying
+     4      R328  511/524    S  58.3%        A 15.5%    5.7%   0.298   0.331   1.112  7.51e-01  8.09e-01        -
+     5      T329  512/524    T  80.7%        L 12.9%   80.7%   0.211   0.185   0.879  7.10e-01  8.08e-01        -
+     6      E330  523/524    E  92.4%         G 3.6%   92.4%   0.561   0.155   0.276  7.90e-05  2.01e-04     Y  purifying
+     7      S331  454/524    S  73.3%         N 7.5%   73.3%   0.356   0.325   0.915  8.62e-01  8.93e-01        -
+     8      R332  450/524    R  83.1%         E 7.3%   83.1%   0.332   0.220   0.661  2.52e-01  3.91e-01        -
+     9   ins>332    1/524    V 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    10   ins>332    1/524    E 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    11   ins>332    1/524    V 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    12   ins>332    1/524    Y 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    13   ins>332    1/524    T 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    14   ins>332    1/524    L 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    15   ins>332    1/524    H 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    16      Q333  449/524    E  48.8%        Q 25.2%   25.2%   1.559   0.493   0.316  5.70e-06  1.77e-05     Y  purifying
+    17      D334  448/524    Q  38.2%        E 24.1%   15.8%   1.655   0.662   0.400  2.07e-04  4.84e-04     Y  purifying
+    18      S335  448/524    P  69.6%        S 15.6%   15.6%   0.758   0.464   0.612  4.98e-02  9.30e-02        purifying
+    19      L336  430/524    L  30.5%        A 28.6%   30.5%   1.122   0.978   0.872  5.32e-01  6.87e-01        -
+    20   ins>336    1/524    G 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    21   ins>336    1/524    A 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    22   ins>336    1/524    D 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    23   ins>336    1/524    A 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    24   ins>336    1/524    A 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    25   ins>336    1/524    N 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    26   ins>336    2/524    P 100.0%                   0.0% 190.335   0.000   0.000  1.14e-02         -        [occupancy 2/524]
+    27   ins>336    1/524    N 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    28   ins>336    1/524    V 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    29   ins>336    1/524    N 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    30   ins>336    1/524    A 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    31   ins>336    1/524    K 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    32   ins>336    1/524    A 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    33   ins>336    1/524    N 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    34   ins>336    4/524    V  75.0%        A 25.0%    0.0%   8.831   0.131   0.015  9.82e-02         -        [occupancy 4/524]
+    35      E337  404/524    E  40.6%        S 37.1%   40.6%   0.625   0.538   0.861  6.35e-01  7.73e-01        -
+    36      L338  412/524    L  42.7%        T 23.5%   42.7%   1.447   1.050   0.725  1.27e-01  2.10e-01        -
+    37      S339  376/524    S  79.3%         L 5.3%   79.3%   0.402   0.561   1.395  3.41e-01  5.02e-01        -
+    38      S340  418/524    S  45.9%        T 42.6%   45.9%   0.814   0.525   0.646  9.51e-02  1.66e-01        purifying
+    39      D341  438/524    D  79.2%         Y 5.0%   79.2%   0.417   0.433   1.037  9.50e-01  9.50e-01        -
+    40      F342  439/524    F  36.2%        I 33.0%   36.2%   0.594   0.536   0.903  7.22e-01  8.08e-01        -
+    41      L343  447/524    L  75.6%         F 8.9%   75.6%   0.666   0.376   0.566  4.79e-02  9.30e-02        purifying
+    42      P344  449/524    P  77.5%         N 4.5%   77.5%   0.815   0.380   0.466  3.45e-03  7.43e-03        purifying
+    43      P345  454/524    P  83.3%         E 4.8%   83.3%   0.925   0.263   0.284  1.25e-06  4.38e-06     Y  purifying
+    44      I346  454/524    I  85.9%        L 11.7%   85.9%   0.813   0.155   0.191  1.45e-07  5.79e-07     Y  purifying
+    45      K347  523/524    K  85.7%        M 10.5%   85.7%   0.606   0.107   0.177  1.24e-05  3.48e-05     Y  purifying
+    46      E348  523/524    E  99.2%         D 0.4%   99.2%   0.748   0.026   0.035  1.97e-14  1.38e-13     Y  purifying
+    47   ins>348    1/524    G 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    48   ins>348    1/524    A 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    49   ins>348    1/524    F 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    50   ins>348    1/524    D 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    51   ins>348    1/524    L 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    52   ins>348    1/524    S 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    53   ins>348    1/524    F 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    54   ins>348    1/524    M 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+    55      T349  523/524    T  99.2%         S 0.6%   99.2%   0.784   0.013   0.016  0.00e+00  0.00e+00     Y  purifying
+    56      D350  523/524    D  84.1%        N 13.4%   84.1%   0.659   0.076   0.115  1.31e-09  7.33e-09     Y  purifying
+    57      L351  522/524    L  94.1%         I 5.0%   94.1%   0.902   0.044   0.049  0.00e+00  0.00e+00     Y  purifying
+    58      L352  449/524    L  90.6%         I 8.7%   90.6%   1.196   0.087   0.073  9.88e-15  9.22e-14     Y  purifying
+    59   ins>352    1/524    S 100.0%                   0.0%   0.000   0.000     nan  1.00e+00         -        [occupancy 1/524]
+
+  SYNONYMOUS RATE, extension vs channel (tested sites, same joint fit):
+     median alpha extension 0.707 (n=28), channel 1.009 (n=316); ratio 0.70
+     Mann-Whitney two-sided p = 0.000125; permutation (10,000) on the difference in medians p = 0.0012
+     extension sites with alpha < 0.25: 325(a=0.029,b=0.061), 329(a=0.211,b=0.185)
+     among purifying calls: alpha median 0.813 range 0.561-1.655; beta median 0.209 range 0.013-0.662; omega median 0.276
+     beta vs human residue position (Spearman): rho -0.32, p 0.093
+
+  SENSITIVITY - no occupancy filter: tested 29, purifying 17 (327, 330, 333, 334, 335, ins>336, 340, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352), Bonferroni 12
+  module global dN/dS, extension-only fit: 0.4297
+  module global dN/dS, channel-only fit: 0.1336
+
+====================================================================================================
+8. AQP4 ROBUSTNESS
+====================================================================================================
+  run                         taxa    dN/dS  tested  purif.  Bonf.  div.  ext-only dN/dS
+  MAFFT (primary)              524   0.1497      28      16     12     0  0.4297
+  MUSCLE                       524   0.1508      28      16     13     0  
+  PRANK                        524   0.1488      28      16     13     0  
+  MAFFT dedup                  371   0.1517      28      16     12     0  
+  gnathostomes (joint)         521   0.1502      28      16     12     0  0.4339
+  osteichthyans (joint)        505   0.1438      28      16     12     0  0.4332
+  tetrapods (joint)            383   0.1148      27      17     12     1  0.3916
+  mammals (joint)              172   0.0769      25      17      8     0  0.3347
+
+  site x run  (q = q<=0.20, B = also Bonferroni, . = not called)
+        site MAFFT (pr    MUSCLE     PRANK MAFFT ded gnathosto osteichth tetrapods mammals (
+         326         .         .         .         .         .         .         .         q
+         327         B         B         B         B         B         B         B         q
+         330         B         B         B         B         B         B         q         q
+         332         .         .         .         .         .         .         q         B
+         333         B         B         B         B         B         B         B         q
+         334         B         B         B         B         B         B         B         q
+         335         q         q         q         q         q         q         q         .
+         338         .         .         q         .         .         .         .         .
+         340         q         q         .         q         q         q         q         q
+         343         q         q         q         q         q         q         q         B
+         344         q         B         B         q         q         q         B         B
+         345         B         B         B         B         B         B         B         q
+         346         B         B         B         B         B         B         B         B
+         347         B         B         B         B         B         B         B         q
+         348         B         B         B         B         B         B         B         B
+         349         B         B         B         B         B         B         B         B
+         350         B         B         B         B         B         B         B         q
+         351         B         B         B         B         B         B         B         B
+         352         B         B         B         B         B         B         B         B
+
+  called in all 4 alignment/dedup runs: ['327', '330', '333', '334', '335', '343', '344', '345', '346', '347', '348', '349', '350', '351', '352']
+  Bonferroni in all 4 alignment/dedup runs: ['327', '330', '333', '334', '345', '346', '347', '348', '349', '350', '351', '352']
+  called in every run listed above (8): ['327', '330', '333', '334', '343', '344', '345', '346', '347', '348', '349', '350', '351', '352']
+
+====================================================================================================
+9. PARALOGUE COMPARISON (identical rules; joint fits; occupancy >= 50% primary)
+====================================================================================================
+  gene     A2   UGA-C   A4    S ORFmed  null  top C-hexa    %A4   ext w  chan w tested purif     % | nofilt purif  chan%
+  aqp4    697   99.3%  685  524   28.0  11.0      KETDLL  72.8%   0.430   0.134     28    16 57.1%       29    17  97.5%
+  aqp1    521    0.0%  475  334   26.0  15.0      SVIDSL   9.7%   0.896   0.083     21     7 33.3%      207    15  95.5%
+  aqp2    279    0.0%  218  141   34.0  24.0      PPLPQV   6.9%   0.725   0.065     30     8 26.7%      226    11  92.8%
+  aqp5    298   58.6%  285  203   11.0  20.0      GQPLSP  16.8%   0.855   0.077     11     3 27.3%      178     7  94.6%
+  aqp6    209   14.1%  188  122   24.0  19.0      LLRGAL  10.1%   0.859   0.198     17     1  5.9%      137     7  78.8%
+  aqp8    378   23.0%  328  179   22.0  21.0      DTITYG   4.6%   0.670   0.198     23     4 17.4%      291    10  90.4%
+  (ORFmed = median ORF codons in A4; null = median of dinucleotide-shuffle null medians; ext w / chan w = module-specific global dN/dS; tested/purif = extension, joint fit)
+
+  AQP1: extension columns 440 (with any residue 440; >=50% occupancy 21), taxa 334
+     purifying ['272/R', '276/G', '280/G', '283/G', '285/G', '286/G', '300/L']; diversifying ['291', '297', '298']; Bonferroni 5
+     sites beta<alpha among tested: 12/21
+     median alpha extension 1.510 vs channel 0.792
+     UGA-C species in selection set: 0 (< 50, no separate fit)
+
+  AQP2: extension columns 414 (with any residue 414; >=50% occupancy 30), taxa 141
+     purifying ['273/A', '279/P', '281/P', 'ins>291/P', '294/P', '296/P', '299/P', 'ins>301/P']; diversifying []; Bonferroni 6
+     sites beta<alpha among tested: 23/30
+     median alpha extension 2.114 vs channel 0.709
+     UGA-C species in selection set: 0 (< 50, no separate fit)
+
+  AQP5: extension columns 410 (with any residue 410; >=50% occupancy 11), taxa 203
+     purifying ['267/P', '272/G', '275/L']; diversifying []; Bonferroni 1
+     sites beta<alpha among tested: 7/11
+     median alpha extension 0.888 vs channel 0.869
+     UGA-C species only (n=124): tested 11, purifying 0 []
+
+  AQP6: extension columns 231 (with any residue 231; >=50% occupancy 17), taxa 122
+     purifying ['290/P']; diversifying []; Bonferroni 1
+     sites beta<alpha among tested: 8/17
+     median alpha extension 1.737 vs channel 0.785
+     UGA-C species in selection set: 13 (< 50, no separate fit)
+
+  AQP8: extension columns 505 (with any residue 505; >=50% occupancy 23), taxa 179
+     purifying ['269/P', '272/P', '277/P', '278/P']; diversifying []; Bonferroni 4
+     sites beta<alpha among tested: 19/23
+     median alpha extension 1.736 vs channel 0.857
+     UGA-C species in selection set: 42 (< 50, no separate fit)
+
+====================================================================================================
+10. RUN LOG
+====================================================================================================
+  aqp1  channel                  taxa  334  cached 0.0 min
+  aqp1  ext_mafft                taxa  334  cached 0.0 min
+  aqp1  joint_mafft              taxa  334  cached 0.0 min
+  aqp2  channel                  taxa  141  cached 0.0 min
+  aqp2  ext_mafft                taxa  141  cached 0.0 min
+  aqp2  joint_mafft              taxa  141  cached 0.0 min
+  aqp4  channel                  taxa  524  cached 0.0 min
+  aqp4  depth_gnathostomes_ext   taxa  521  cached 0.0 min
+  aqp4  depth_gnathostomes_joint taxa  521  cached 0.0 min
+  aqp4  depth_mammals_ext        taxa  172  cached 0.0 min
+  aqp4  depth_mammals_joint      taxa  172  cached 0.0 min
+  aqp4  depth_osteichthyans_ext  taxa  505  cached 0.0 min
+  aqp4  depth_osteichthyans_joint taxa  505  cached 0.0 min
+  aqp4  depth_tetrapods_ext      taxa  383  cached 0.0 min
+  aqp4  depth_tetrapods_joint    taxa  383  cached 0.0 min
+  aqp4  ext_mafft                taxa  524  cached 0.0 min
+  aqp4  joint_dedup              taxa  371  cached 0.0 min
+  aqp4  joint_mafft              taxa  524  cached 0.0 min
+  aqp4  joint_muscle             taxa  524  cached 0.0 min
+  aqp4  joint_prank              taxa  524  cached 0.0 min
+  aqp5  channel                  taxa  203  cached 0.0 min
+  aqp5  ext_mafft                taxa  203  cached 0.0 min
+  aqp5  joint_mafft              taxa  203  cached 0.0 min
+  aqp5  joint_ugac               taxa  124  cached 0.0 min
+  aqp6  channel                  taxa  122  cached 0.0 min
+  aqp6  ext_mafft                taxa  122  cached 0.0 min
+  aqp6  joint_mafft              taxa  122  cached 0.0 min
+  aqp8  channel                  taxa  179  cached 0.0 min
+  aqp8  ext_mafft                taxa  179  cached 0.0 min
+  aqp8  joint_mafft              taxa  179  cached 0.0 min
+  missing/failed FEL runs: none
