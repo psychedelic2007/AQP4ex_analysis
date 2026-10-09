@@ -1,0 +1,2063 @@
+{
+ "MLE":{
+   "content":{
+     "0":      [
+[0, 0, 0, 0, 1, 0],
+      [1.991514103636, 0.374894213566761, 0.6892773312926898, 9.047485357955821, 0.002630563813646791, 6.648495730939681],
+      [4.168434160108861, 0.9756833743608407, 1.422517302145828, 13.18371592193699, 0.0002823922451822281, 13.72103764498874],
+      [0.001245674740485359, 0.3532732514066714, 0.2860134689953356, 2.930848048727825, 0.08690183299127219, 2.758772472671486],
+      [0.2595229619081503, 0.2886501867597247, 0.2813683805468311, 0.0216795357130195, 0.8829428086987314, 2.71396779200427],
+      [1.441236319415387, 0.1574163272555558, 0.3827695432603164, 9.421479112682078, 0.002144584673986483, 3.692043186052962],
+      [4.977710614618614e-06, 0.234858336695757, 0.2141933148260125, 1.771576993788713, 0.1831870340689608, 2.06602375352434],
+      [1.120854989084789, 0.0329416320691934, 0.214578289685803, 18.33303558589803, 1.85463064207303e-05, 2.06973706831889],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [3.811529256151202, 1.198944375901943, 1.71418927029129, 8.716166462883905, 0.003154005502639556, 16.53438975597878],
+      [2.798139594446218, 0.8509637616156448, 1.21541405810414, 8.12810589439033, 0.004358425567133617, 11.72340190192346],
+      [0.8495133972916756, 0.7683205311651233, 0.7979781593979495, 0.04826384975751807, 0.8261123208987586, 7.69698080189372],
+      [1.892002093958264, 1.235124145056982, 1.477930241588927, 0.9705077506456519, 0.3245535800592205, 14.25552887892404],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.8643585413795112, 0.5248897669480328, 0.6097569605559022, 0.6737342050329005, 0.4117527148487405, 5.881473777127923],
+      [0.9900502845952528, 1.323747563969019, 1.138778686581663, 0.6119951266210251, 0.4340375972035143, 10.98420750617768],
+      [0.3611453412721258, 0.5627941473375837, 0.5000335095129156, 0.4684423724715145, 0.493704624128504, 4.823124890947159],
+      [1.772040466659209, 0.5371781126302893, 0.9310398668844403, 6.137495866964088, 0.01323446037432319, 8.980441252444676],
+      [0.5919487239924779, 0.1259257614464464, 0.2084067281399132, 3.174875801923704, 0.07477889686562256, 2.010208633640603],
+      [0.9192176213268737, 0.4260220694658782, 0.5118641378859069, 1.366543335051404, 0.2424066755855613, 4.93723843953094],
+      [0.989625432560595, 0.1193955866505425, 0.4465383279167217, 10.27816926281071, 0.001346134477427929, 4.307131588510944],
+      [2.09555441900915, 0.1048957978553446, 0.5606890864826249, 24.597921699381, 7.062786540057431e-07, 5.408184526935037],
+      [0.8347764191645883, 0.1031992752159566, 0.3206885515312049, 8.478142236305644, 0.003594389786801377, 3.093234564696699],
+      [1.280897406414981, 0.09112910102531004, 0.3332376614891117, 13.46307378838387, 0.0002433048230848778, 3.21427830165779],
+      [0.1576594775353341, 3.982984769437641e-06, 0.05659174083157009, 4.058211445472011, 0.04395703374678883, 0.5458614845486199],
+      [1.214482336809483, 1.259067989147583e-05, 0.247267433454948, 18.59216152806655, 1.618848178885912e-05, 2.385043582736881],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.9049910965645389, 1.296109578799543e-06, 0.2130700084228369, 16.97657577732713, 3.784384556226872e-05, 2.055188785526707],
+      [0.2212979995281657, 2.858403034903689e-06, 0.03473800816867114, 3.650775680061422, 0.05604310477306385, 0.3350690477193228],
+      [0.3581540992019941, 5.863886744423299e-06, 0.1960386816052732, 8.450916561928281, 0.003648595165629098, 1.89091136264026],
+      [1.883519733698998, 5.277532326387817e-07, 0.7519451223342086, 25.79109864196647, 3.804389699935129e-07, 7.25296438570534],
+      [0, 0, 0, 0, 1, 0] 
+      ]
+    },
+   "headers":    [
+["alpha", "Synonymous substitution rate at a site"],
+    ["beta", "Non-synonymous substitution rate at a site"],
+    ["alpha=beta", "The rate estimate under the neutral model"],
+    ["LRT", "Likelihood ratio test statistic for beta = alpha, versus beta &neq; alpha"],
+    ["p-value", "Asymptotic p-value for evidence of selection, i.e. beta &neq; alpha"],
+    ["Total branch length", "The total length of branches contributing to inference at this site, and used to scale dN-dS"] 
+    ]
+  },
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond and Simon DW Frost",
+   "citation":"Not So Different After All: A Comparison of Methods for Detecting Amino Acid Sites Under Selection (2005). _Mol Biol Evol_ 22 (5): 1208-1222",
+   "contact":"spond@temple.edu",
+   "info":"FEL (Fixed Effects Likelihood)\n    estimates site-wise synonymous (&alpha;) and non-synonymous (&beta;) rates, and\n    uses a likelihood ratio test to determine if beta &neq; alpha at a site.\n    The estimates aggregate information over all branches,\n    so the signal is derived from\n    pervasive diversification or conservation. A subset of branches can be selected\n    for testing as well, in which case an additional (nuisance) parameter will be\n    inferred -- the non-synonymous rate on branches NOT selected for testing.\n    Multiple partitions within a NEXUS file are also supported\n    for recombination - aware analysis. Version 2.5 adds MH support. Version 2.6 adds substitution mapping.\n    ",
+   "requirements":"in-frame codon alignment and a phylogenetic tree",
+   "settings":{
+     "ci":0,
+     "multihit":"None",
+     "pvalue":0.1,
+     "resample":0,
+     "site-filter":{
+       "site-filter":null,
+       "site-save-filter":null
+      },
+     "srv":1
+    },
+   "version":"2.6"
+  },
+ "branch attributes":{
+   "0":{
+     "Acinonyx_jubatus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Acinonyx_jubatus"
+      },
+     "Acomys_minous":{
+       "Global MG94xREV":0.04466210927024394,
+       "Nucleotide GTR":0.04849292542697536,
+       "original name":"Acomys_minous"
+      },
+     "Ailuropoda_melanoleuca":{
+       "Global MG94xREV":0.0129194390566691,
+       "Nucleotide GTR":0.01241111365317296,
+       "original name":"Ailuropoda_melanoleuca"
+      },
+     "Alexandromys_fortis":{
+       "Global MG94xREV":0.03509363112084465,
+       "Nucleotide GTR":0.03662123603749309,
+       "original name":"Alexandromys_fortis"
+      },
+     "Antechinus_flavipes":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Antechinus_flavipes"
+      },
+     "Aotus_nancymaae":{
+       "Global MG94xREV":0.01195629102048652,
+       "Nucleotide GTR":0.01211087022657234,
+       "original name":"Aotus_nancymaae"
+      },
+     "Apodemus_sylvaticus":{
+       "Global MG94xREV":0.05581537990998484,
+       "Nucleotide GTR":0.06035517421562804,
+       "original name":"Apodemus_sylvaticus"
+      },
+     "Artibeus_jamaicensis":{
+       "Global MG94xREV":0.01194298632281574,
+       "Nucleotide GTR":0.01212091091090567,
+       "original name":"Artibeus_jamaicensis"
+      },
+     "Arvicanthis_niloticus":{
+       "Global MG94xREV":0.04670942686353502,
+       "Nucleotide GTR":0.0493797266820372,
+       "original name":"Arvicanthis_niloticus"
+      },
+     "Balaenoptera_acutorostrata":{
+       "Global MG94xREV":0.03685306087439351,
+       "Nucleotide GTR":0.03720587608530682,
+       "original name":"Balaenoptera_acutorostrata"
+      },
+     "Bison_bison_bison":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Bison_bison_bison"
+      },
+     "Bos_indicus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Bos_indicus"
+      },
+     "Bubalus_bubalis":{
+       "Global MG94xREV":0.011826772077351,
+       "Nucleotide GTR":0.01217645133098824,
+       "original name":"Bubalus_bubalis"
+      },
+     "Callithrix_jacchus":{
+       "Global MG94xREV":0.01208113050656589,
+       "Nucleotide GTR":0.01216423062213278,
+       "original name":"Callithrix_jacchus"
+      },
+     "Callorhinus_ursinus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Callorhinus_ursinus"
+      },
+     "Callospermophilus_lateralis":{
+       "Global MG94xREV":0.01161268737418679,
+       "Nucleotide GTR":0.01190493603769701,
+       "original name":"Callospermophilus_lateralis"
+      },
+     "Camelus_bactrianus":{
+       "Global MG94xREV":0.03530532647531105,
+       "Nucleotide GTR":0.03646728859245521,
+       "original name":"Camelus_bactrianus"
+      },
+     "Canis_aureus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Canis_aureus"
+      },
+     "Capra_hircus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Capra_hircus"
+      },
+     "Carlito_syrichta":{
+       "Global MG94xREV":0.06346573593925969,
+       "Nucleotide GTR":0.06298163448531893,
+       "original name":"Carlito_syrichta"
+      },
+     "Castor_canadensis":{
+       "Global MG94xREV":0.01194483731968685,
+       "Nucleotide GTR":0.01210270598941728,
+       "original name":"Castor_canadensis"
+      },
+     "Cavia_porcellus":{
+       "Global MG94xREV":0.07017772754290943,
+       "Nucleotide GTR":0.07404023129005324,
+       "original name":"Cavia_porcellus"
+      },
+     "Cebus_imitator":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Cebus_imitator"
+      },
+     "Ceratotherium_simum_simum":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Ceratotherium_simum_simum"
+      },
+     "Cercocebus_atys":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Cercocebus_atys"
+      },
+     "Cervus_canadensis":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Cervus_canadensis"
+      },
+     "Chinchilla_lanigera":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Chinchilla_lanigera"
+      },
+     "Chionomys_nivalis":{
+       "Global MG94xREV":0.01067681907430663,
+       "Nucleotide GTR":0.01171732042631383,
+       "original name":"Chionomys_nivalis"
+      },
+     "Chlorocebus_sabaeus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Chlorocebus_sabaeus"
+      },
+     "Choloepus_didactylus":{
+       "Global MG94xREV":0.06627826332885228,
+       "Nucleotide GTR":0.05709619041689782,
+       "original name":"Choloepus_didactylus"
+      },
+     "Chrysochloris_asiatica":{
+       "Global MG94xREV":0.06657877871667658,
+       "Nucleotide GTR":0.06444796145809825,
+       "original name":"Chrysochloris_asiatica"
+      },
+     "Colobus_angolensis_palliatus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Colobus_angolensis_palliatus"
+      },
+     "Condylura_cristata":{
+       "Global MG94xREV":0.09286851343464421,
+       "Nucleotide GTR":0.08984809381964805,
+       "original name":"Condylura_cristata"
+      },
+     "Crocuta_crocuta":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Crocuta_crocuta"
+      },
+     "Cynocephalus_volans":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Cynocephalus_volans"
+      },
+     "Delphinapterus_leucas":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Delphinapterus_leucas"
+      },
+     "Delphinus_delphis":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Delphinus_delphis"
+      },
+     "Desmodus_rotundus":{
+       "Global MG94xREV":0.03496387377512537,
+       "Nucleotide GTR":0.03639045138846218,
+       "original name":"Desmodus_rotundus"
+      },
+     "Diceros_bicornis_minor":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Diceros_bicornis_minor"
+      },
+     "Dipodomys_merriami":{
+       "Global MG94xREV":0.06653159998231213,
+       "Nucleotide GTR":0.06781000798373293,
+       "original name":"Dipodomys_merriami"
+      },
+     "Dromiciops_gliroides":{
+       "Global MG94xREV":0.01438826900470292,
+       "Nucleotide GTR":0.01414750957268603,
+       "original name":"Dromiciops_gliroides"
+      },
+     "Echinops_telfairi":{
+       "Global MG94xREV":0.1039610178460936,
+       "Nucleotide GTR":0.102178926785789,
+       "original name":"Echinops_telfairi"
+      },
+     "Elephantulus_edwardii":{
+       "Global MG94xREV":0.06338146619156962,
+       "Nucleotide GTR":0.06260166847716003,
+       "original name":"Elephantulus_edwardii"
+      },
+     "Elephas_maximus_indicus":{
+       "Global MG94xREV":0.01223398733105468,
+       "Nucleotide GTR":0.01213475548384575,
+       "original name":"Elephas_maximus_indicus"
+      },
+     "Enhydra_lutris_kenyoni":{
+       "Global MG94xREV":0.01190069539328025,
+       "Nucleotide GTR":0.01193703048398417,
+       "original name":"Enhydra_lutris_kenyoni"
+      },
+     "Equus_asinus":{
+       "Global MG94xREV":0.02464969497351256,
+       "Nucleotide GTR":0.02454027004909561,
+       "original name":"Equus_asinus"
+      },
+     "Erinaceus_europaeus":{
+       "Global MG94xREV":0.1147043333625417,
+       "Nucleotide GTR":0.1097323306569688,
+       "original name":"Erinaceus_europaeus"
+      },
+     "Eulemur_rufifrons":{
+       "Global MG94xREV":0.01232714289132118,
+       "Nucleotide GTR":0.01216179404958734,
+       "original name":"Eulemur_rufifrons"
+      },
+     "Felis_catus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Felis_catus"
+      },
+     "Fukomys_damarensis":{
+       "Global MG94xREV":0.03644082142285309,
+       "Nucleotide GTR":0.03781457319095682,
+       "original name":"Fukomys_damarensis"
+      },
+     "Galeopterus_variegatus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Galeopterus_variegatus"
+      },
+     "Giraffa_tippelskirchi":{
+       "Global MG94xREV":0.03572734683858549,
+       "Nucleotide GTR":0.0364835351086173,
+       "original name":"Giraffa_tippelskirchi"
+      },
+     "Globicephala_melas":{
+       "Global MG94xREV":0.01171559779253988,
+       "Nucleotide GTR":0.01210607182851706,
+       "original name":"Globicephala_melas"
+      },
+     "Gorilla_gorilla_gorilla":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Gorilla_gorilla_gorilla"
+      },
+     "Gracilinanus_agilis":{
+       "Global MG94xREV":0.01454699216937685,
+       "Nucleotide GTR":0.01428033408655371,
+       "original name":"Gracilinanus_agilis"
+      },
+     "Grampus_griseus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Grampus_griseus"
+      },
+     "Halichoerus_grypus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Halichoerus_grypus"
+      },
+     "Herpailurus_yagouaroundi":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Herpailurus_yagouaroundi"
+      },
+     "Heterocephalus_glaber":{
+       "Global MG94xREV":0.03858132251195582,
+       "Nucleotide GTR":0.03827145557711494,
+       "original name":"Heterocephalus_glaber"
+      },
+     "Hippopotamus_amphibius_kiboko":{
+       "Global MG94xREV":0.02505249609880424,
+       "Nucleotide GTR":0.02741449174785868,
+       "original name":"Hippopotamus_amphibius_kiboko"
+      },
+     "Hipposideros_armiger":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Hipposideros_armiger"
+      },
+     "Homo_sapiens":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Homo_sapiens"
+      },
+     "Hyaena_hyaena":{
+       "Global MG94xREV":0.01147367206655618,
+       "Nucleotide GTR":0.01202969105417027,
+       "original name":"Hyaena_hyaena"
+      },
+     "Hylobates_moloch":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Hylobates_moloch"
+      },
+     "Ictidomys_tridecemlineatus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Ictidomys_tridecemlineatus"
+      },
+     "Jaculus_jaculus":{
+       "Global MG94xREV":0.09182124512887679,
+       "Nucleotide GTR":0.0897181567544886,
+       "original name":"Jaculus_jaculus"
+      },
+     "Kogia_breviceps":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Kogia_breviceps"
+      },
+     "Lagenorhynchus_albirostris":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Lagenorhynchus_albirostris"
+      },
+     "Lemur_catta":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Lemur_catta"
+      },
+     "Leopardus_geoffroyi":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Leopardus_geoffroyi"
+      },
+     "Leptonychotes_weddellii":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Leptonychotes_weddellii"
+      },
+     "Lipotes_vexillifer":{
+       "Global MG94xREV":0.03437264705178385,
+       "Nucleotide GTR":0.03642478541873904,
+       "original name":"Lipotes_vexillifer"
+      },
+     "Lontra_canadensis":{
+       "Global MG94xREV":0.01184081729294233,
+       "Nucleotide GTR":0.01193600894256079,
+       "original name":"Lontra_canadensis"
+      },
+     "Loxodonta_africana":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Loxodonta_africana"
+      },
+     "Lutra_lutra":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Lutra_lutra"
+      },
+     "Lynx_canadensis":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Lynx_canadensis"
+      },
+     "Macaca_fascicularis":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Macaca_fascicularis"
+      },
+     "Macrotis_lagotis":{
+       "Global MG94xREV":0.02910922729256083,
+       "Nucleotide GTR":0.02854145714934045,
+       "original name":"Macrotis_lagotis"
+      },
+     "Mandrillus_leucophaeus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Mandrillus_leucophaeus"
+      },
+     "Manis_javanica":{
+       "Global MG94xREV":0.08923964126974944,
+       "Nucleotide GTR":0.08947878929408791,
+       "original name":"Manis_javanica"
+      },
+     "Marmota_flaviventris":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Marmota_flaviventris"
+      },
+     "Martes_martes":{
+       "Global MG94xREV":0.01182252146615542,
+       "Nucleotide GTR":0.01202032963401824,
+       "original name":"Martes_martes"
+      },
+     "Mastomys_coucha":{
+       "Global MG94xREV":0.07053702886541967,
+       "Nucleotide GTR":0.07442126460962821,
+       "original name":"Mastomys_coucha"
+      },
+     "Meles_meles":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Meles_meles"
+      },
+     "Meriones_unguiculatus":{
+       "Global MG94xREV":0.0319263121980498,
+       "Nucleotide GTR":0.03546863899485406,
+       "original name":"Meriones_unguiculatus"
+      },
+     "Mesocricetus_auratus":{
+       "Global MG94xREV":0.01089620071068272,
+       "Nucleotide GTR":0.01171451705610845,
+       "original name":"Mesocricetus_auratus"
+      },
+     "Microcebus_murinus":{
+       "Global MG94xREV":0.01221762773865547,
+       "Nucleotide GTR":0.01210572454216968,
+       "original name":"Microcebus_murinus"
+      },
+     "Micromys_minutus":{
+       "Global MG94xREV":0.05839900796203399,
+       "Nucleotide GTR":0.06128651799537531,
+       "original name":"Micromys_minutus"
+      },
+     "Microtus_ochrogaster":{
+       "Global MG94xREV":0.02429733283971387,
+       "Nucleotide GTR":0.02502838308430952,
+       "original name":"Microtus_ochrogaster"
+      },
+     "Miniopterus_natalensis":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Miniopterus_natalensis"
+      },
+     "Mirounga_angustirostris":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Mirounga_angustirostris"
+      },
+     "Molossus_molossus":{
+       "Global MG94xREV":0.01221432458029765,
+       "Nucleotide GTR":0.0121786730967699,
+       "original name":"Molossus_molossus"
+      },
+     "Monodelphis_domestica":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Monodelphis_domestica"
+      },
+     "Monodon_monoceros":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Monodon_monoceros"
+      },
+     "Moschus_berezovskii":{
+       "Global MG94xREV":0.01166381687345823,
+       "Nucleotide GTR":0.01197374258844491,
+       "original name":"Moschus_berezovskii"
+      },
+     "Muntiacus_reevesi":{
+       "Global MG94xREV":0.01161857722818391,
+       "Nucleotide GTR":0.01193271120667787,
+       "original name":"Muntiacus_reevesi"
+      },
+     "Mus_caroli":{
+       "Global MG94xREV":0.02203629079504061,
+       "Nucleotide GTR":0.02327489971739677,
+       "original name":"Mus_caroli"
+      },
+     "Mustela_erminea":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Mustela_erminea"
+      },
+     "Myodes_glareolus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Myodes_glareolus"
+      },
+     "Myotis_brandtii":{
+       "Global MG94xREV":0.04152983625491025,
+       "Nucleotide GTR":0.04664799872218012,
+       "original name":"Myotis_brandtii"
+      },
+     "Nannospalax_galili":{
+       "Global MG94xREV":0.07327678823156082,
+       "Nucleotide GTR":0.07785138537820481,
+       "original name":"Nannospalax_galili"
+      },
+     "Neofelis_nebulosa":{
+       "Global MG94xREV":0.01201304713998228,
+       "Nucleotide GTR":0.01204901055885643,
+       "original name":"Neofelis_nebulosa"
+      },
+     "Neogale_vison":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Neogale_vison"
+      },
+     "Neophocaena_asiaeorientalis_asiaeorientalis":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Neophocaena_asiaeorientalis_asiaeorientalis"
+      },
+     "Node100":{
+       "Global MG94xREV":0.02240320076716761,
+       "Nucleotide GTR":0.02127284303349006
+      },
+     "Node102":{
+       "Global MG94xREV":0.013165757429092,
+       "Nucleotide GTR":0.01516816482141883
+      },
+     "Node12":{
+       "Global MG94xREV":0.02471828995202232,
+       "Nucleotide GTR":0.02456667496822922
+      },
+     "Node130":{
+       "Global MG94xREV":0.0116753690556531,
+       "Nucleotide GTR":0.01202932087837975
+      },
+     "Node133":{
+       "Global MG94xREV":0.03406202486098633,
+       "Nucleotide GTR":0.0333415864006902
+      },
+     "Node136":{
+       "Global MG94xREV":0.03586931805354421,
+       "Nucleotide GTR":0.03694250025173433
+      },
+     "Node141":{
+       "Global MG94xREV":0.01154356049787462,
+       "Nucleotide GTR":0.01193053308703346
+      },
+     "Node155":{
+       "Global MG94xREV":0.03668796406931614,
+       "Nucleotide GTR":0.03695545467318535
+      },
+     "Node161":{
+       "Global MG94xREV":0.01219281702934442,
+       "Nucleotide GTR":0.01217036843520392
+      },
+     "Node167":{
+       "Global MG94xREV":0.04160980949566512,
+       "Nucleotide GTR":0.03774725815317921
+      },
+     "Node170":{
+       "Global MG94xREV":0.0624527650408133,
+       "Nucleotide GTR":0.06000861295103022
+      },
+     "Node173":{
+       "Global MG94xREV":0.01221117874675938,
+       "Nucleotide GTR":0.01228404402136099
+      },
+     "Node178":{
+       "Global MG94xREV":0.02218568039587619,
+       "Nucleotide GTR":0.02252072723016831
+      },
+     "Node180":{
+       "Global MG94xREV":0.02758400340791439,
+       "Nucleotide GTR":0.02628132419984187
+      },
+     "Node181":{
+       "Global MG94xREV":0.05187247068673368,
+       "Nucleotide GTR":0.05216560076151744
+      },
+     "Node183":{
+       "Global MG94xREV":0.01186988792633883,
+       "Nucleotide GTR":0.01176587106909336
+      },
+     "Node185":{
+       "Global MG94xREV":0.02199105587524739,
+       "Nucleotide GTR":0.0238282605222827
+      },
+     "Node197":{
+       "Global MG94xREV":0.04496879140430535,
+       "Nucleotide GTR":0.04815551798737213
+      },
+     "Node198":{
+       "Global MG94xREV":0.03217740525116673,
+       "Nucleotide GTR":0.03536144356213631
+      },
+     "Node199":{
+       "Global MG94xREV":0.0105327125188018,
+       "Nucleotide GTR":0.01171223570362464
+      },
+     "Node2":{
+       "Global MG94xREV":0.104115210225739,
+       "Nucleotide GTR":0.09738343931913399
+      },
+     "Node200":{
+       "Global MG94xREV":0.008704744612249975,
+       "Nucleotide GTR":0.01107549442185216
+      },
+     "Node209":{
+       "Global MG94xREV":0.09279091225154211,
+       "Nucleotide GTR":0.1017522502840017
+      },
+     "Node214":{
+       "Global MG94xREV":0.01522726646535307,
+       "Nucleotide GTR":0.01415433617146044
+      },
+     "Node215":{
+       "Global MG94xREV":0.02643469360498432,
+       "Nucleotide GTR":0.02557925051685125
+      },
+     "Node216":{
+       "Global MG94xREV":0.009700842083553977,
+       "Nucleotide GTR":0.01143416554617516
+      },
+     "Node220":{
+       "Global MG94xREV":0.01215064822210544,
+       "Nucleotide GTR":0.01183834656152667
+      },
+     "Node225":{
+       "Global MG94xREV":0.009559845290297094,
+       "Nucleotide GTR":0.009784285322873228
+      },
+     "Node228":{
+       "Global MG94xREV":0.03610468786627092,
+       "Nucleotide GTR":0.03682043628952696
+      },
+     "Node232":{
+       "Global MG94xREV":0.01168567803503479,
+       "Nucleotide GTR":0.01195344249001803
+      },
+     "Node239":{
+       "Global MG94xREV":0.04970228903426633,
+       "Nucleotide GTR":0.04972416558342205
+      },
+     "Node245":{
+       "Global MG94xREV":0.0243852662744841,
+       "Nucleotide GTR":0.02452588807375111
+      },
+     "Node255":{
+       "Global MG94xREV":0.0120595577359465,
+       "Nucleotide GTR":0.01216677025264922
+      },
+     "Node256":{
+       "Global MG94xREV":0.01222414524143015,
+       "Nucleotide GTR":0.01221650676155848
+      },
+     "Node28":{
+       "Global MG94xREV":0.03723632306088799,
+       "Nucleotide GTR":0.03731862648373285
+      },
+     "Node283":{
+       "Global MG94xREV":0.02427714431625646,
+       "Nucleotide GTR":0.02454651932803002
+      },
+     "Node289":{
+       "Global MG94xREV":0.01231677785764464,
+       "Nucleotide GTR":0.01221703736983417
+      },
+     "Node290":{
+       "Global MG94xREV":0.01240089830738531,
+       "Nucleotide GTR":0.0122159293670732
+      },
+     "Node297":{
+       "Global MG94xREV":0.02408377435483834,
+       "Nucleotide GTR":0.02493063773146123
+      },
+     "Node3":{
+       "Global MG94xREV":0.01212137403770729,
+       "Nucleotide GTR":0.01222803804299339
+      },
+     "Node301":{
+       "Global MG94xREV":0.05176672641587946,
+       "Nucleotide GTR":0.04802272179352647
+      },
+     "Node305":{
+       "Global MG94xREV":0.002355236408918757,
+       "Nucleotide GTR":0.009308940981364752
+      },
+     "Node31":{
+       "Global MG94xREV":0.03672438061540727,
+       "Nucleotide GTR":0.03680475258142062
+      },
+     "Node315":{
+       "Global MG94xREV":0.03740816671571088,
+       "Nucleotide GTR":0.03691946597568162
+      },
+     "Node319":{
+       "Global MG94xREV":0.2534492930811292,
+       "Nucleotide GTR":0.2510750218983754
+      },
+     "Node322":{
+       "Global MG94xREV":0.03107839152628728,
+       "Nucleotide GTR":0.02810926393932792
+      },
+     "Node323":{
+       "Global MG94xREV":0.01474584800445733,
+       "Nucleotide GTR":0.01427388763460132
+      },
+     "Node34":{
+       "Global MG94xREV":0.01195476184665532,
+       "Nucleotide GTR":0.01206735543138779
+      },
+     "Node37":{
+       "Global MG94xREV":0.01198081585670183,
+       "Nucleotide GTR":0.01206929454440987
+      },
+     "Node38":{
+       "Global MG94xREV":0.01195453618321826,
+       "Nucleotide GTR":0.01202785504232188
+      },
+     "Node4":{
+       "Global MG94xREV":0.01223947823977981,
+       "Nucleotide GTR":0.01215283629643623
+      },
+     "Node53":{
+       "Global MG94xREV":0.01179126804200696,
+       "Nucleotide GTR":0.01198162996919621
+      },
+     "Node63":{
+       "Global MG94xREV":0.03556976844687756,
+       "Nucleotide GTR":0.03636180977383784
+      },
+     "Node71":{
+       "Global MG94xREV":0.02575795481717967,
+       "Nucleotide GTR":0.02526841314914167
+      },
+     "Node82":{
+       "Global MG94xREV":0.02464577915788466,
+       "Nucleotide GTR":0.02453886120246057
+      },
+     "Node84":{
+       "Global MG94xREV":0.09529019400775481,
+       "Nucleotide GTR":0.09348646879566112
+      },
+     "Node86":{
+       "Global MG94xREV":0.03813443620343277,
+       "Nucleotide GTR":0.04227432661144616
+      },
+     "Node91":{
+       "Global MG94xREV":0.01218163108423744,
+       "Nucleotide GTR":0.01218361512145643
+      },
+     "Node94":{
+       "Global MG94xREV":0.02525932705639115,
+       "Nucleotide GTR":0.02475067587357398
+      },
+     "Nomascus_leucogenys":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Nomascus_leucogenys"
+      },
+     "Notamacropus_eugenii":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Notamacropus_eugenii"
+      },
+     "Nyctereutes_procyonoides":{
+       "Global MG94xREV":0.01184235408631119,
+       "Nucleotide GTR":0.0120897213722892,
+       "original name":"Nyctereutes_procyonoides"
+      },
+     "Nycticebus_coucang":{
+       "Global MG94xREV":0.01181422041059773,
+       "Nucleotide GTR":0.01204598513418132,
+       "original name":"Nycticebus_coucang"
+      },
+     "Ochotona_curzoniae":{
+       "Global MG94xREV":0.0688830958018648,
+       "Nucleotide GTR":0.0659818878916109,
+       "original name":"Ochotona_curzoniae"
+      },
+     "Octodon_degus":{
+       "Global MG94xREV":0.0247145148770089,
+       "Nucleotide GTR":0.02540998929005403,
+       "original name":"Octodon_degus"
+      },
+     "Odobenus_rosmarus_divergens":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Odobenus_rosmarus_divergens"
+      },
+     "Odocoileus_virginianus":{
+       "Global MG94xREV":0.01170396802611987,
+       "Nucleotide GTR":0.01197512388608919,
+       "original name":"Odocoileus_virginianus"
+      },
+     "Onychomys_torridus":{
+       "Global MG94xREV":0.01240480645744814,
+       "Nucleotide GTR":0.01097143819400803,
+       "original name":"Onychomys_torridus"
+      },
+     "Orcinus_orca":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Orcinus_orca"
+      },
+     "Ornithorhynchus_anatinus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":0.01062386264481456,
+       "original name":"Ornithorhynchus_anatinus"
+      },
+     "Oryctolagus_cuniculus":{
+       "Global MG94xREV":0.04511714835032829,
+       "Nucleotide GTR":0.04646388078560908,
+       "original name":"Oryctolagus_cuniculus"
+      },
+     "Oryx_dammah":{
+       "Global MG94xREV":0.01140971102563491,
+       "Nucleotide GTR":0.01190264404831841,
+       "original name":"Oryx_dammah"
+      },
+     "Otolemur_garnettii":{
+       "Global MG94xREV":0.0237167740878333,
+       "Nucleotide GTR":0.02431964091767364,
+       "original name":"Otolemur_garnettii"
+      },
+     "Ovis_canadensis":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Ovis_canadensis"
+      },
+     "Pan_paniscus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Pan_paniscus"
+      },
+     "Panthera_leo":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Panthera_leo"
+      },
+     "Papio_anubis":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Papio_anubis"
+      },
+     "Perognathus_longimembris_pacificus":{
+       "Global MG94xREV":0.03588666511907513,
+       "Nucleotide GTR":0.03425554866812795,
+       "original name":"Perognathus_longimembris_pacificus"
+      },
+     "Peromyscus_maniculatus_bairdii":{
+       "Global MG94xREV":0.05317724808107335,
+       "Nucleotide GTR":0.06143350637013738,
+       "original name":"Peromyscus_maniculatus_bairdii"
+      },
+     "Petaurus_breviceps_papuanus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Petaurus_breviceps_papuanus"
+      },
+     "Phacochoerus_africanus":{
+       "Global MG94xREV":0.06160616378982062,
+       "Nucleotide GTR":0.06235614979147313,
+       "original name":"Phacochoerus_africanus"
+      },
+     "Phascolarctos_cinereus":{
+       "Global MG94xREV":0.04603846046070986,
+       "Nucleotide GTR":0.04381483013502022,
+       "original name":"Phascolarctos_cinereus"
+      },
+     "Phoca_vitulina":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Phoca_vitulina"
+      },
+     "Phocoena_phocoena":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Phocoena_phocoena"
+      },
+     "Phodopus_roborovskii":{
+       "Global MG94xREV":0.04634995937076029,
+       "Nucleotide GTR":0.04869652023104033,
+       "original name":"Phodopus_roborovskii"
+      },
+     "Phyllostomus_discolor":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Phyllostomus_discolor"
+      },
+     "Physeter_macrocephalus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Physeter_macrocephalus"
+      },
+     "Piliocolobus_tephrosceles":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Piliocolobus_tephrosceles"
+      },
+     "Pipistrellus_hanaki":{
+       "Global MG94xREV":0.1225306476552003,
+       "Nucleotide GTR":0.1415472376284272,
+       "original name":"Pipistrellus_hanaki"
+      },
+     "Plecotus_auritus":{
+       "Global MG94xREV":0.02281644003407663,
+       "Nucleotide GTR":0.02076054222206798,
+       "original name":"Plecotus_auritus"
+      },
+     "Pongo_pygmaeus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Pongo_pygmaeus"
+      },
+     "Prionailurus_bengalensis":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Prionailurus_bengalensis"
+      },
+     "Propithecus_coquereli":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Propithecus_coquereli"
+      },
+     "Psammomys_obesus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Psammomys_obesus"
+      },
+     "Pseudorca_crassidens":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Pseudorca_crassidens"
+      },
+     "Pteronotus_mesoamericanus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Pteronotus_mesoamericanus"
+      },
+     "Pteropus_alecto":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Pteropus_alecto"
+      },
+     "Rhinolophus_ferrumequinum":{
+       "Global MG94xREV":0.01238367568007934,
+       "Nucleotide GTR":0.01223249641450164,
+       "original name":"Rhinolophus_ferrumequinum"
+      },
+     "Rhinopithecus_bieti":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Rhinopithecus_bieti"
+      },
+     "Rousettus_aegyptiacus":{
+       "Global MG94xREV":0.02529650543439733,
+       "Nucleotide GTR":0.02456431695062818,
+       "original name":"Rousettus_aegyptiacus"
+      },
+     "Saccopteryx_bilineata":{
+       "Global MG94xREV":0.05382690847963546,
+       "Nucleotide GTR":0.05239328127472072,
+       "original name":"Saccopteryx_bilineata"
+      },
+     "Sagmatias_obliquidens":{
+       "Global MG94xREV":0.01140840013836016,
+       "Nucleotide GTR":0.01196221663538175,
+       "original name":"Sagmatias_obliquidens"
+      },
+     "Saimiri_boliviensis":{
+       "Global MG94xREV":0.01200417678289894,
+       "Nucleotide GTR":0.01215124122545367,
+       "original name":"Saimiri_boliviensis"
+      },
+     "Sapajus_apella":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Sapajus_apella"
+      },
+     "Sarcophilus_harrisii":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Sarcophilus_harrisii"
+      },
+     "Sciurus_carolinensis":{
+       "Global MG94xREV":0.01152451168974043,
+       "Nucleotide GTR":0.01185331573973219,
+       "original name":"Sciurus_carolinensis"
+      },
+     "Sminthopsis_crassicaudata":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Sminthopsis_crassicaudata"
+      },
+     "Sorex_araneus":{
+       "Global MG94xREV":0.06365902689141906,
+       "Nucleotide GTR":0.06425417681666692,
+       "original name":"Sorex_araneus"
+      },
+     "Spermophilus_citellus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Spermophilus_citellus"
+      },
+     "Sturnira_hondurensis":{
+       "Global MG94xREV":0.01188426492756701,
+       "Nucleotide GTR":0.01207349388278244,
+       "original name":"Sturnira_hondurensis"
+      },
+     "Suncus_etruscus":{
+       "Global MG94xREV":0.04702556050494475,
+       "Nucleotide GTR":0.045589366574377,
+       "original name":"Suncus_etruscus"
+      },
+     "Suricata_suricatta":{
+       "Global MG94xREV":0.02423859282520257,
+       "Nucleotide GTR":0.02435644837267309,
+       "original name":"Suricata_suricatta"
+      },
+     "Symphalangus_syndactylus":{
+       "Global MG94xREV":0.0369828599074417,
+       "Nucleotide GTR":0.03714028611049264,
+       "original name":"Symphalangus_syndactylus"
+      },
+     "Tachyglossus_aculeatus":{
+       "Global MG94xREV":0.04164137558765247,
+       "Nucleotide GTR":0.03631588289000997,
+       "original name":"Tachyglossus_aculeatus"
+      },
+     "Talpa_occidentalis":{
+       "Global MG94xREV":0.03992521662765518,
+       "Nucleotide GTR":0.04243220181850236,
+       "original name":"Talpa_occidentalis"
+      },
+     "Tamandua_tetradactyla":{
+       "Global MG94xREV":0.06422593335382322,
+       "Nucleotide GTR":0.05441381656342542,
+       "original name":"Tamandua_tetradactyla"
+      },
+     "Theropithecus_gelada":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Theropithecus_gelada"
+      },
+     "Trachypithecus_francoisi":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Trachypithecus_francoisi"
+      },
+     "Trichechus_manatus_latirostris":{
+       "Global MG94xREV":0.02485450532466201,
+       "Nucleotide GTR":0.02459699498728667,
+       "original name":"Trichechus_manatus_latirostris"
+      },
+     "Trichosurus_vulpecula":{
+       "Global MG94xREV":0.01438826767065312,
+       "Nucleotide GTR":0.01414305731277518,
+       "original name":"Trichosurus_vulpecula"
+      },
+     "Tupaia_belangeri_chinensis":{
+       "Global MG94xREV":0.02381805041833085,
+       "Nucleotide GTR":0.02424704053504569,
+       "original name":"Tupaia_belangeri_chinensis"
+      },
+     "Tursiops_truncatus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Tursiops_truncatus"
+      },
+     "Urocitellus_parryii":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Urocitellus_parryii"
+      },
+     "Ursus_americanus":{
+       "Global MG94xREV":0.01194405804701598,
+       "Nucleotide GTR":0.01205870627218539,
+       "original name":"Ursus_americanus"
+      },
+     "Vicugna_pacos":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Vicugna_pacos"
+      },
+     "Vulpes_lagopus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Vulpes_lagopus"
+      },
+     "Zalophus_californianus":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"Zalophus_californianus"
+      }
+    },
+   "attributes":{
+     "Global MG94xREV":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":-1
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58] 
+      ],
+     "name":"fel.filter.default"
+    }
+  },
+ "fits":{
+   "Global MG94xREV":{
+     "AIC-c":4547.362867106112,
+     "Equilibrium frequencies":      [
+[0.04030923755503348],
+      [0.02035051455187152],
+      [0.01310770555040012],
+      [0.01715866748828335],
+      [0.02620786483939287],
+      [0.01323129801349832],
+      [0.008522239473034873],
+      [0.01115605418591851],
+      [0.01475267632128469],
+      [0.007448033561673382],
+      [0.004797256138515397],
+      [0.006279857494540619],
+      [0.0276589610887023],
+      [0.01396389820960524],
+      [0.008994105067993587],
+      [0.01177375076232737],
+      [0.04027870477475175],
+      [0.02033509977781175],
+      [0.01309777694053689],
+      [0.01714567042219814],
+      [0.02618801333568477],
+      [0.01322127578684279],
+      [0.008515784186824528],
+      [0.01114760388092813],
+      [0.01474150170593578],
+      [0.007442391947342199],
+      [0.004793622391599879],
+      [0.006275100731061291],
+      [0.02763801043240201],
+      [0.01395332106496617],
+      [0.008987292360769917],
+      [0.01176483257466313],
+      [0.04946878265766656],
+      [0.02497480087445868],
+      [0.01608619453861299],
+      [0.02105766430124563],
+      [0.03216312806441398],
+      [0.0162378711533538],
+      [0.01045876423915403],
+      [0.01369106570390688],
+      [0.01810495516220463],
+      [0.009140464465158765],
+      [0.005887345821050914],
+      [0.007706841517267948],
+      [0.0339439596882927],
+      [0.01713694149242181],
+      [0.01103785275524849],
+      [0.01444912265412917],
+      [0.02375180416720415],
+      [0.02002648674622328],
+      [0.03058812452722816],
+      [0.01544271514577641],
+      [0.009946606633144131],
+      [0.01302062479193118],
+      [0.008692862980772216],
+      [0.005599047043823123],
+      [0.007329443441250035],
+      [0.03228175020207343],
+      [0.01629775870481932],
+      [0.01049733763191733],
+      [0.01374156027885558] 
+      ],
+     "Log Likelihood":-2021.544477690012,
+     "Rate Distributions":{
+       "non-synonymous/synonymous rate ratio for *test*":        [
+[0.3346945547814316, 1] 
+        ]
+      },
+     "display order":1,
+     "estimated parameters":246
+    },
+   "Nucleotide GTR":{
+     "AIC-c":4852.880687858572,
+     "Equilibrium frequencies":      [
+[0.332425068119891],
+      [0.2490044015929574],
+      [0.1901767623838468],
+      [0.2283937679033047] 
+      ],
+     "Log Likelihood":-2073.381395301652,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.2233980637615449,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.05534346962367459,
+       "Substitution rate from nucleotide C to nucleotide G":0.1880953012640575,
+       "Substitution rate from nucleotide C to nucleotide T":0.715045530084627,
+       "Substitution rate from nucleotide G to nucleotide T":0.2780015484014358
+      },
+     "display order":0,
+     "estimated parameters":349
+    }
+  },
+ "input":{
+   "file name":"results_final/aqp4/fel/depth_mammals_ext.fna",
+   "number of sequences":172,
+   "number of sites":59,
+   "partition count":1,
+   "trees":{
+     "0":"(((((Condylura_cristata:0.052602275,Talpa_occidentalis:0.0208029986)Node167:0.031493527,(Sorex_araneus:0.0487174244,Suncus_etruscus:0.0423968327)Node170:0.0169647595,Erinaceus_europaeus:0.0641768342,(Ceratotherium_simum_simum:1.0513e-06,Diceros_bicornis_minor:1.0513e-06)Node161:0.0077116283,Equus_asinus:0.0230491397,(Pteronotus_mesoamericanus:0.0322118599,Desmodus_rotundus:0.0309240845,Phyllostomus_discolor:0.0148136966,Artibeus_jamaicensis:0.008321666199999999,Sturnira_hondurensis:0.0106749008)Node71:0.005192223,Molossus_molossus:0.0268004037,(Miniopterus_natalensis:0.0192387274,(Myotis_brandtii:0.0137538373,(Pipistrellus_hanaki:0.0520740718,Plecotus_auritus:0.0205168688)Node86:0.0215657169)Node84:0.0892167155)Node82:0.0134013024,Saccopteryx_bilineata:0.0472825156,((Canis_aureus:0.0472825156,Nyctereutes_procyonoides:0.0030996433,Vulpes_lagopus:0.0041378848)Node63:0.0282387052,(Ailuropoda_melanoleuca:0.0041279423,Ursus_americanus:0.0073166404)Node34:0.0240165633,((Odobenus_rosmarus_divergens:0.0046504531,Callorhinus_ursinus:0.0010263822,Zalophus_californianus:0.0020648379)Node38:0.0063557731,Phoca_vitulina:0.0030996433,Halichoerus_grypus:0.0020497848,Leptonychotes_weddellii:2.109e-06,Mirounga_angustirostris:0.0041221291)Node37:0.0282387052,Martes_martes:0.0215657169,Meles_meles:0.0520740718,(Lontra_canadensis:0.0309240845,Enhydra_lutris_kenyoni:0.008321666199999999,Lutra_lutra:0.0106749008)Node53:0.0322118599,Mustela_erminea:0.005192223,Neogale_vison:0.0268004037)Node31:0.011611172,(Crocuta_crocuta:0.0020648379,Hyaena_hyaena:0.0046504531)Node28:0.0063557731,(Lynx_canadensis:0.0041424396,Acinonyx_jubatus:0.0020584578,Herpailurus_yagouaroundi:0.0051839925,Felis_catus:0.0020644472,Prionailurus_bengalensis:0.0010326936,Leopardus_geoffroyi:0.0020744561,Neofelis_nebulosa:0.0020648379,Panthera_leo:0.0046504531)Node12:0.0073166404,Suricata_suricatta:0.0240165633,(Hipposideros_armiger:0.0195313866,Rhinolophus_ferrumequinum:0.0203880717)Node91:0.0055399706,(Pteropus_alecto:0.008353971599999999,Rousettus_aegyptiacus:0.0118944483)Node94:0.011717699,Manis_javanica:0.0563753213,Phacochoerus_africanus:0.0410883695,(Hippopotamus_amphibius_kiboko:0.0235974409,(Balaenoptera_acutorostrata:0.0109280069,(Kogia_breviceps:0.0043602633,Physeter_macrocephalus:0.0039740219)Node130:0.0032634153,Lipotes_vexillifer:0.004146876,Delphinapterus_leucas:1.0513e-06,Monodon_monoceros:0.0235974409,Orcinus_orca:0.0077116283,Delphinus_delphis:0.0010267586,Grampus_griseus:0.0010278107,Globicephala_melas:0.0410883695,Pseudorca_crassidens:0.0563753213,Lagenorhynchus_albirostris:0.0641768342,Sagmatias_obliquidens:0.052602275,Tursiops_truncatus:0.0208029986,Neophocaena_asiaeorientalis_asiaeorientalis:2.278e-06,Phocoena_phocoena:2.8834e-06)Node102:0.0141355459,(Moschus_berezovskii:0.0129094101,(Bison_bison_bison:2.6243e-06,Bos_indicus:0.0010246672)Node136:0.0041171723,Bubalus_bubalis:0.0051368857,(Oryx_dammah:0.0020466811,Capra_hircus:0.0030939733,Ovis_canadensis:0.0041322323)Node141:0.0051995877,Giraffa_tippelskirchi:0.0157276939,Odocoileus_virginianus:0.008301740199999999,Cervus_canadensis:0.0031802292,Muntiacus_reevesi:0.0135651742)Node133:0.024681562)Node100:0.0056883357,(Camelus_bactrianus:0.0104832974,Vicugna_pacos:0.0101238786)Node155:0.024057888)Node4:0.008881819900000001,((Ochotona_curzoniae:0.0651261117,Oryctolagus_cuniculus:0.0246069447)Node301:0.0213317261,(Cynocephalus_volans:0.0041006857,Galeopterus_variegatus:0.0052944876)Node239:0.0189044705,(Sciurus_carolinensis:0.0164214778,Callospermophilus_lateralis:0.008372189299999999,(Urocitellus_parryii:0.0031070767,Ictidomys_tridecemlineatus:0.0020662933,Spermophilus_citellus:0.0051865726)Node232:0.0029054556,Marmota_flaviventris:0.0012428874)Node228:0.0141257564,((((Cavia_porcellus:0.0243331127,Chinchilla_lanigera:0.0214447073)Node216:0.0025938337,Octodon_degus:0.0362516905)Node215:0.00682138,(Fukomys_damarensis:0.0373864289,Heterocephalus_glaber:0.0169574257)Node220:0.0157202918)Node214:0.0302171844,((((((Alexandromys_fortis:0.0120094629,Microtus_ochrogaster:0.008050668)Node200:0.004453907,Chionomys_nivalis:0.0127510034)Node199:0.0071986761,Myodes_glareolus:0.0179572163)Node198:0.0272883756,(Onychomys_torridus:0.0204492815,Peromyscus_maniculatus_bairdii:0.0185531196)Node209:0.0197965552,Mesocricetus_auratus:0.0282052971,Phodopus_roborovskii:0.0232886292)Node197:0.0142225925,(Acomys_minous:0.0324252024,(Meriones_unguiculatus:0.0049688418,Psammomys_obesus:0.0076123351)Node185:0.0568690016)Node183:0.009975030899999999,Arvicanthis_niloticus:0.0323327407,Apodemus_sylvaticus:0.0291828403,Mastomys_coucha:0.0260808842,Micromys_minutus:0.0576344731,Mus_caroli:0.0123848633)Node181:0.0651261117,Nannospalax_galili:0.0246069447)Node180:0.0213317261,Jaculus_jaculus:0.06715726850000001)Node178:0.0096345072,Castor_canadensis:0.0285201339,(Dipodomys_merriami:0.0305712752,Perognathus_longimembris_pacificus:0.0197711896)Node225:0.0292806346,Tupaia_belangeri_chinensis:0.0433643077,((Eulemur_rufifrons:0.0065595699,Lemur_catta:0.0070499077,Microcebus_murinus:0.0152002654,Propithecus_coquereli:0.0169098661)Node290:0.0126384455,(Nycticebus_coucang:0.0281180638,Otolemur_garnettii:0.0157324011)Node297:0.0341949312)Node289:0.0104376897,(((Chlorocebus_sabaeus:0.0041374908,Papio_anubis:1.0513e-06,Cercocebus_atys:1e-10,Theropithecus_gelada:1e-10,Macaca_fascicularis:0.0020585156,Mandrillus_leucophaeus:0.003097015,Colobus_angolensis_palliatus:0.0020566212,Piliocolobus_tephrosceles:0.00412354,Rhinopithecus_bieti:0.0031017154,Trachypithecus_francoisi:2.722e-06)Node256:0.0039112589,(Hylobates_moloch:0.0041168009,Nomascus_leucogenys:0.0030975815,Symphalangus_syndactylus:0.0051725305)Node283:0.0052114309,Pongo_pygmaeus:0.0082909527,Gorilla_gorilla_gorilla:0.0051720712,Homo_sapiens:0.0010284598,Pan_paniscus:2.0902e-06)Node255:0.0045764675,Callithrix_jacchus:0.0104670471,Saimiri_boliviensis:0.0148002852,Aotus_nancymaae:0.0070614623,Cebus_imitator:0.0010190811,Sapajus_apella:0.0020681267)Node245:0.0157263314,Carlito_syrichta:0.0411076611)Node173:0.0076222339)Node3:0.0046021665,(Choloepus_didactylus:0.0110884557,Tamandua_tetradactyla:0.0315723892)Node305:0.027341457,Chrysochloris_asiatica:0.036379727,Echinops_telfairi:0.06799357509999999,Elephantulus_edwardii:0.0655415273,(Elephas_maximus_indicus:0.0010311416,Loxodonta_africana:0.002050832)Node315:0.0153693376,Trichechus_manatus_latirostris:0.0112530203)Node2:0.0583147503,(Ornithorhynchus_anatinus:0.0245556787,Tachyglossus_aculeatus:0.0315182167)Node319:0.2237041469,((Dromiciops_gliroides:0.0268693945,Sminthopsis_crassicaudata:0.0052784132,Antechinus_flavipes:0.0020787562,Sarcophilus_harrisii:0.0072874399,Macrotis_lagotis:0.0262934797,Phascolarctos_cinereus:0.0193492567,Notamacropus_eugenii:0.0148745237,Petaurus_breviceps_papuanus:0.0031668227,Trichosurus_vulpecula:0.0147856073)Node323:0.0096160733,Gracilinanus_agilis:0.0040840637,Monodelphis_domestica:0.0116701911)Node322:0.0611162673)"
+    }
+  },
+ "runtime":"2.5.101",
+ "substitutions":{
+   "0":{
+     "0":null,
+     "1":{
+       "Bubalus_bubalis":"GCA",
+       "Dromiciops_gliroides":"TCG",
+       "Gracilinanus_agilis":"TCG",
+       "Macrotis_lagotis":"TCG",
+       "Manis_javanica":"GAC",
+       "Microcebus_murinus":"GGA",
+       "Myotis_brandtii":"GAG",
+       "Node133":"GGA",
+       "Node136":"GCA",
+       "Node155":"GAG",
+       "Node180":"GAG",
+       "Node197":"GAA",
+       "Node2":"GAA",
+       "Node322":"TCA",
+       "Octodon_degus":"GAG",
+       "Trichosurus_vulpecula":"TCG",
+       "root":"GCA"
+      },
+     "10":null,
+     "11":null,
+     "12":null,
+     "13":null,
+     "14":null,
+     "15":{
+       "Acomys_minous":"AGG",
+       "Aotus_nancymaae":"CGA",
+       "Arvicanthis_niloticus":"AAA",
+       "Condylura_cristata":"CGA",
+       "Desmodus_rotundus":"CAG",
+       "Echinops_telfairi":"CGG",
+       "Elephas_maximus_indicus":"CAG",
+       "Erinaceus_europaeus":"CGT",
+       "Fukomys_damarensis":"AGA",
+       "Heterocephalus_glaber":"CAA",
+       "Jaculus_jaculus":"CGG",
+       "Manis_javanica":"CAC",
+       "Mastomys_coucha":"CCA",
+       "Muntiacus_reevesi":"CGA",
+       "Myotis_brandtii":"CGC",
+       "Neofelis_nebulosa":"CAG",
+       "Node180":"AGA",
+       "Node2":"CGA",
+       "Node228":"AGA",
+       "Node239":"AGA",
+       "Node245":"CAA",
+       "Node283":"CAG",
+       "Node301":"CAA",
+       "Node31":"CAG",
+       "Node315":"CGG",
+       "Node34":"CAA",
+       "Node37":"CAT",
+       "Node38":"CGT",
+       "Node4":"CAA",
+       "Node82":"CAC",
+       "Phacochoerus_africanus":"CAG",
+       "Pipistrellus_hanaki":"CCC",
+       "Sagmatias_obliquidens":"CGA",
+       "Symphalangus_syndactylus":"CAA",
+       "Tamandua_tetradactyla":"CGC",
+       "Trichechus_manatus_latirostris":"CAA",
+       "root":"GAA"
+      },
+     "16":{
+       "Ailuropoda_melanoleuca":"GCA",
+       "Artibeus_jamaicensis":"GAC",
+       "Cavia_porcellus":"GAC",
+       "Condylura_cristata":"GAG",
+       "Desmodus_rotundus":"GAG",
+       "Elephantulus_edwardii":"GAG",
+       "Hyaena_hyaena":"GCA",
+       "Jaculus_jaculus":"GGC",
+       "Manis_javanica":"GGA",
+       "Meriones_unguiculatus":"GCC",
+       "Nannospalax_galili":"GAG",
+       "Node100":"GAG",
+       "Node173":"GAC",
+       "Node214":"GAT",
+       "Node232":"GAA",
+       "Node283":"GAA",
+       "Node322":"GAC",
+       "Node63":"GAG",
+       "Node84":"GAG",
+       "Node86":"GCG",
+       "Nyctereutes_procyonoides":"GAC",
+       "Ochotona_curzoniae":"CGT",
+       "Phacochoerus_africanus":"GAG",
+       "Pipistrellus_hanaki":"TCG",
+       "Saccopteryx_bilineata":"GAG",
+       "Sorex_araneus":"GAG",
+       "Symphalangus_syndactylus":"GAC",
+       "Tachyglossus_aculeatus":"GAG",
+       "root":"GAA"
+      },
+     "17":{
+       "Carlito_syrichta":"ACC",
+       "Castor_canadensis":"TCC",
+       "Chrysochloris_asiatica":"CCT",
+       "Condylura_cristata":"TCG",
+       "Jaculus_jaculus":"CCC",
+       "Lontra_canadensis":"CAC",
+       "Manis_javanica":"TCC",
+       "Node12":"CAC",
+       "Node178":"TCC",
+       "Node239":"CCT",
+       "Node255":"TCC",
+       "Node301":"CCT",
+       "Node319":"CCG",
+       "Node91":"TCC",
+       "Ochotona_curzoniae":"CCG",
+       "Otolemur_garnettii":"TCC",
+       "Perognathus_longimembris_pacificus":"CTC",
+       "Pipistrellus_hanaki":"TCC",
+       "Tachyglossus_aculeatus":"CCA",
+       "Tamandua_tetradactyla":"GCC",
+       "root":"CCC"
+      },
+     "18":{
+       "Condylura_cristata":"CAG",
+       "Echinops_telfairi":"GTA",
+       "Elephantulus_edwardii":"TCC",
+       "Fukomys_damarensis":"TTG",
+       "Martes_martes":"TCC",
+       "Microtus_ochrogaster":"TTA",
+       "Moschus_berezovskii":"CTA",
+       "Node161":"TCA",
+       "Node167":"CTA",
+       "Node170":"TTC",
+       "Node181":"CTA",
+       "Node209":"CTG",
+       "Node239":"GTA",
+       "Node297":"CTA",
+       "Node301":"GTA",
+       "Node31":"TCA",
+       "Node319":"ACG",
+       "Node322":"---",
+       "Ochotona_curzoniae":"GGA",
+       "Oryctolagus_cuniculus":"GTG",
+       "Phacochoerus_africanus":"CCA",
+       "Pipistrellus_hanaki":"TCG",
+       "Suncus_etruscus":"TTT",
+       "Tamandua_tetradactyla":"CTA",
+       "root":"TTA"
+      },
+     "19":null,
+     "2":{
+       "Acomys_minous":"GAG",
+       "Arvicanthis_niloticus":"AAC",
+       "Carlito_syrichta":"GAC",
+       "Cavia_porcellus":"GAC",
+       "Echinops_telfairi":"GAC",
+       "Elephantulus_edwardii":"GGG",
+       "Equus_asinus":"GAC",
+       "Jaculus_jaculus":"GAA",
+       "Meriones_unguiculatus":"GGC",
+       "Micromys_minutus":"GGC",
+       "Microtus_ochrogaster":"CAC",
+       "Node133":"GAC",
+       "Node136":"GGC",
+       "Node155":"GAC",
+       "Node170":"GAC",
+       "Node181":"GAC",
+       "Node2":"GAT",
+       "Node209":"GAT",
+       "Node239":"GAC",
+       "Node28":"GAC",
+       "Node289":"GAC",
+       "Node315":"GGT",
+       "Node63":"GGT",
+       "Node71":"GAA",
+       "Node86":"GCT",
+       "Oryctolagus_cuniculus":"GAA",
+       "Peromyscus_maniculatus_bairdii":"GCT",
+       "Phacochoerus_africanus":"GAG",
+       "Phascolarctos_cinereus":"CGT",
+       "Saccopteryx_bilineata":"CAA",
+       "Suncus_etruscus":"GGC",
+       "Tachyglossus_aculeatus":"AGG",
+       "Talpa_occidentalis":"GAC",
+       "root":"AGT"
+      },
+     "20":null,
+     "21":null,
+     "22":null,
+     "23":null,
+     "24":null,
+     "25":null,
+     "26":null,
+     "27":null,
+     "28":null,
+     "29":null,
+     "3":{
+       "Alexandromys_fortis":"GGC",
+       "Arvicanthis_niloticus":"CGC",
+       "Cavia_porcellus":"GGC",
+       "Micromys_minutus":"CGC",
+       "Node12":"GGC",
+       "Node209":"GGC",
+       "Node245":"CGC",
+       "Node31":"GGC",
+       "Node323":"GGC",
+       "Node82":"GGC",
+       "Suncus_etruscus":"AAC",
+       "root":"AGC"
+      },
+     "30":null,
+     "31":null,
+     "32":null,
+     "33":null,
+     "34":{
+       "Alexandromys_fortis":"GCG",
+       "Echinops_telfairi":"GAC",
+       "Lipotes_vexillifer":"GAG",
+       "Mastomys_coucha":"GAC",
+       "Mus_caroli":"GAC",
+       "Nannospalax_galili":"CAA",
+       "Node167":"GCA",
+       "Node170":"CAA",
+       "Node183":"GAC",
+       "Node185":"GCC",
+       "Node197":"GAG",
+       "Node319":"GAG",
+       "Node322":"---",
+       "Node84":"GAG",
+       "Sorex_araneus":"CAG",
+       "root":"GAA"
+      },
+     "35":{
+       "Balaenoptera_acutorostrata":"TGC",
+       "Carlito_syrichta":"TTG",
+       "Choloepus_didactylus":"CGA",
+       "Chrysochloris_asiatica":"CTA",
+       "Condylura_cristata":"ATG",
+       "Enhydra_lutris_kenyoni":"CAG",
+       "Erinaceus_europaeus":"CTA",
+       "Hippopotamus_amphibius_kiboko":"TTG",
+       "Jaculus_jaculus":"CTT",
+       "Mesocricetus_auratus":"CTA",
+       "Node167":"GTG",
+       "Node199":"TTG",
+       "Node209":"CTT",
+       "Node225":"CGG",
+       "Node228":"CGG",
+       "Node301":"GAG",
+       "Node315":"CTA",
+       "Node319":"TTG",
+       "Node322":"---",
+       "Node53":"CGG",
+       "Node94":"CTA",
+       "Ochotona_curzoniae":"---",
+       "Octodon_degus":"CAG",
+       "Perognathus_longimembris_pacificus":"CAA",
+       "Peromyscus_maniculatus_bairdii":"CTC",
+       "Rhinolophus_ferrumequinum":"CTA",
+       "Saccopteryx_bilineata":"CTA",
+       "Sorex_araneus":"CCA",
+       "Suncus_etruscus":"CGG",
+       "Symphalangus_syndactylus":"TTG",
+       "Tamandua_tetradactyla":"CTA",
+       "root":"CTG"
+      },
+     "36":{
+       "Callospermophilus_lateralis":"TCT",
+       "Chrysochloris_asiatica":"GCC",
+       "Echinops_telfairi":"GCC",
+       "Erinaceus_europaeus":"ACC",
+       "Node181":"GCC",
+       "Node198":"ACC",
+       "Node319":"GCT",
+       "Node322":"---",
+       "Node84":"CCC",
+       "Odocoileus_virginianus":"GCC",
+       "Peromyscus_maniculatus_bairdii":"ACC",
+       "Sturnira_hondurensis":"CCC",
+       "Talpa_occidentalis":"TCT",
+       "root":"TCC"
+      },
+     "37":{
+       "Acomys_minous":"TCG",
+       "Choloepus_didactylus":"ACA",
+       "Hippopotamus_amphibius_kiboko":"CCA",
+       "Meriones_unguiculatus":"TCG",
+       "Myotis_brandtii":"GCA",
+       "Node197":"TCG",
+       "Node200":"TCA",
+       "Node28":"TCG",
+       "Node319":"ACG",
+       "Onychomys_torridus":"TTG",
+       "Phascolarctos_cinereus":"GCA",
+       "Phodopus_roborovskii":"TCC",
+       "Pipistrellus_hanaki":"CCG",
+       "Rousettus_aegyptiacus":"TCG",
+       "Suricata_suricatta":"TCG",
+       "Tachyglossus_aculeatus":"ACA",
+       "Ursus_americanus":"TCG",
+       "root":"TCA"
+      },
+     "38":{
+       "Apodemus_sylvaticus":"GGT",
+       "Erinaceus_europaeus":"GAG",
+       "Mastomys_coucha":"GAC",
+       "Micromys_minutus":"GAC",
+       "Node209":"GAC",
+       "Node84":"GAG",
+       "root":"GAT"
+      },
+     "39":{
+       "Arvicanthis_niloticus":"TTT",
+       "Carlito_syrichta":"TTT",
+       "Choloepus_didactylus":"TAC",
+       "Erinaceus_europaeus":"CTC",
+       "Giraffa_tippelskirchi":"CCC",
+       "Node102":"TTT",
+       "Node136":"CTC",
+       "Node197":"GTC",
+       "Node209":"TTC",
+       "Node84":"GTC",
+       "Phodopus_roborovskii":"GTT",
+       "Plecotus_auritus":"GCC",
+       "root":"TTC"
+      },
+     "4":{
+       "Alexandromys_fortis":"ACC",
+       "Camelus_bactrianus":"GCT",
+       "Echinops_telfairi":"GCT",
+       "Node319":"ACC",
+       "Otolemur_garnettii":"GCT",
+       "Plecotus_auritus":"GCT",
+       "Rousettus_aegyptiacus":"GCT",
+       "Suricata_suricatta":"GCT",
+       "root":"ACT"
+      },
+     "40":{
+       "Cavia_porcellus":"CTT",
+       "Equus_asinus":"CTC",
+       "Erinaceus_europaeus":"CTC",
+       "Giraffa_tippelskirchi":"CTC",
+       "Node178":"CTC",
+       "Node181":"CTG",
+       "Node215":"CTG",
+       "Node319":"CTC",
+       "Node84":"CTC",
+       "Nycticebus_coucang":"TTT",
+       "Phodopus_roborovskii":"GTG",
+       "Tupaia_belangeri_chinensis":"CTC",
+       "root":"CTT"
+      },
+     "41":{
+       "Acomys_minous":"CCG",
+       "Apodemus_sylvaticus":"CCG",
+       "Cavia_porcellus":"CCG",
+       "Dipodomys_merriami":"CCC",
+       "Globicephala_melas":"CCT",
+       "Heterocephalus_glaber":"TCA",
+       "Manis_javanica":"CCG",
+       "Myotis_brandtii":"CCG",
+       "Nannospalax_galili":"CCG",
+       "Node100":"CCG",
+       "Node130":"CCA",
+       "Node133":"CCA",
+       "Node319":"CCC",
+       "Peromyscus_maniculatus_bairdii":"CCC",
+       "Tamandua_tetradactyla":"TCA",
+       "root":"CCA"
+      },
+     "42":{
+       "Callithrix_jacchus":"CCT",
+       "Dipodomys_merriami":"CCT",
+       "Erinaceus_europaeus":"CCT",
+       "Eulemur_rufifrons":"CCT",
+       "Heterocephalus_glaber":"CCG",
+       "Molossus_molossus":"CCT",
+       "Node28":"CCG",
+       "Node94":"CAC",
+       "Oryx_dammah":"CTC",
+       "root":"CCC"
+      },
+     "43":{
+       "Apodemus_sylvaticus":"GTT",
+       "Chionomys_nivalis":"ATT",
+       "Dipodomys_merriami":"ATC",
+       "Lipotes_vexillifer":"CTT",
+       "Macrotis_lagotis":"ATC",
+       "Mastomys_coucha":"ATC",
+       "Node198":"ATC",
+       "Node209":"ATC",
+       "Pipistrellus_hanaki":"ATC",
+       "root":"ATT"
+      },
+     "44":{
+       "Choloepus_didactylus":"AAG",
+       "Node3":"AAG",
+       "root":"AAA"
+      },
+     "45":{
+       "Desmodus_rotundus":"GAG",
+       "Dipodomys_merriami":"GAG",
+       "Node209":"GAG",
+       "Node228":"GAG",
+       "Node319":"GAG",
+       "Node86":"GAG",
+       "root":"GAA"
+      },
+     "46":null,
+     "47":null,
+     "48":null,
+     "49":null,
+     "5":{
+       "Cavia_porcellus":"GAA",
+       "Chrysochloris_asiatica":"CAA",
+       "Echinops_telfairi":"GAG",
+       "Node215":"GAG",
+       "Node297":"GAG",
+       "Node319":"GGA",
+       "Peromyscus_maniculatus_bairdii":"GAG",
+       "Pipistrellus_hanaki":"GGA",
+       "Tupaia_belangeri_chinensis":"GAG",
+       "root":"GAA"
+      },
+     "50":null,
+     "51":null,
+     "52":null,
+     "53":null,
+     "54":{
+       "Apodemus_sylvaticus":"ACG",
+       "Lipotes_vexillifer":"ACG",
+       "Manis_javanica":"ACC",
+       "Nannospalax_galili":"ACG",
+       "Node319":"ACC",
+       "Pipistrellus_hanaki":"ACG",
+       "root":"ACA"
+      },
+     "55":{
+       "Node84":"GAC",
+       "root":"GAT"
+      },
+     "56":{
+       "Apodemus_sylvaticus":"CTG",
+       "Nannospalax_galili":"CTG",
+       "Node155":"CTG",
+       "Node256":"TTA",
+       "Node290":"TTA",
+       "Node319":"CTG",
+       "Phascolarctos_cinereus":"TTA",
+       "root":"TTG"
+      },
+     "57":{
+       "Camelus_bactrianus":"CTG",
+       "Dipodomys_merriami":"TTG",
+       "Echinops_telfairi":"CTA",
+       "Fukomys_damarensis":"CTC",
+       "Jaculus_jaculus":"CTC",
+       "Node170":"CTA",
+       "Node216":"TTG",
+       "Node220":"CTA",
+       "Node319":"CTG",
+       "Node71":"TTG",
+       "Pipistrellus_hanaki":"TTG",
+       "Saimiri_boliviensis":"CTA",
+       "Talpa_occidentalis":"TTG",
+       "root":"TTA"
+      },
+     "58":null,
+     "6":{
+       "Carlito_syrichta":"AAC",
+       "Mastomys_coucha":"GGC",
+       "Micromys_minutus":"AAC",
+       "Mus_caroli":"GGC",
+       "Node63":"AAC",
+       "Phodopus_roborovskii":"GGC",
+       "Sciurus_carolinensis":"GGC",
+       "Sorex_araneus":"AAC",
+       "root":"AGC"
+      },
+     "7":{
+       "Chrysochloris_asiatica":"CGA",
+       "Manis_javanica":"AGG",
+       "Micromys_minutus":"GGA",
+       "Nannospalax_galili":"AGG",
+       "Node141":"AGG",
+       "Node185":"AGG",
+       "Node198":"AGG",
+       "Trichechus_manatus_latirostris":"AGG",
+       "root":"AGA"
+      },
+     "8":null,
+     "9":null
+    }
+  },
+ "tested":{
+   "0":{
+     "Acinonyx_jubatus":"test",
+     "Acomys_minous":"test",
+     "Ailuropoda_melanoleuca":"test",
+     "Alexandromys_fortis":"test",
+     "Antechinus_flavipes":"test",
+     "Aotus_nancymaae":"test",
+     "Apodemus_sylvaticus":"test",
+     "Artibeus_jamaicensis":"test",
+     "Arvicanthis_niloticus":"test",
+     "Balaenoptera_acutorostrata":"test",
+     "Bison_bison_bison":"test",
+     "Bos_indicus":"test",
+     "Bubalus_bubalis":"test",
+     "Callithrix_jacchus":"test",
+     "Callorhinus_ursinus":"test",
+     "Callospermophilus_lateralis":"test",
+     "Camelus_bactrianus":"test",
+     "Canis_aureus":"test",
+     "Capra_hircus":"test",
+     "Carlito_syrichta":"test",
+     "Castor_canadensis":"test",
+     "Cavia_porcellus":"test",
+     "Cebus_imitator":"test",
+     "Ceratotherium_simum_simum":"test",
+     "Cercocebus_atys":"test",
+     "Cervus_canadensis":"test",
+     "Chinchilla_lanigera":"test",
+     "Chionomys_nivalis":"test",
+     "Chlorocebus_sabaeus":"test",
+     "Choloepus_didactylus":"test",
+     "Chrysochloris_asiatica":"test",
+     "Colobus_angolensis_palliatus":"test",
+     "Condylura_cristata":"test",
+     "Crocuta_crocuta":"test",
+     "Cynocephalus_volans":"test",
+     "Delphinapterus_leucas":"test",
+     "Delphinus_delphis":"test",
+     "Desmodus_rotundus":"test",
+     "Diceros_bicornis_minor":"test",
+     "Dipodomys_merriami":"test",
+     "Dromiciops_gliroides":"test",
+     "Echinops_telfairi":"test",
+     "Elephantulus_edwardii":"test",
+     "Elephas_maximus_indicus":"test",
+     "Enhydra_lutris_kenyoni":"test",
+     "Equus_asinus":"test",
+     "Erinaceus_europaeus":"test",
+     "Eulemur_rufifrons":"test",
+     "Felis_catus":"test",
+     "Fukomys_damarensis":"test",
+     "Galeopterus_variegatus":"test",
+     "Giraffa_tippelskirchi":"test",
+     "Globicephala_melas":"test",
+     "Gorilla_gorilla_gorilla":"test",
+     "Gracilinanus_agilis":"test",
+     "Grampus_griseus":"test",
+     "Halichoerus_grypus":"test",
+     "Herpailurus_yagouaroundi":"test",
+     "Heterocephalus_glaber":"test",
+     "Hippopotamus_amphibius_kiboko":"test",
+     "Hipposideros_armiger":"test",
+     "Homo_sapiens":"test",
+     "Hyaena_hyaena":"test",
+     "Hylobates_moloch":"test",
+     "Ictidomys_tridecemlineatus":"test",
+     "Jaculus_jaculus":"test",
+     "Kogia_breviceps":"test",
+     "Lagenorhynchus_albirostris":"test",
+     "Lemur_catta":"test",
+     "Leopardus_geoffroyi":"test",
+     "Leptonychotes_weddellii":"test",
+     "Lipotes_vexillifer":"test",
+     "Lontra_canadensis":"test",
+     "Loxodonta_africana":"test",
+     "Lutra_lutra":"test",
+     "Lynx_canadensis":"test",
+     "Macaca_fascicularis":"test",
+     "Macrotis_lagotis":"test",
+     "Mandrillus_leucophaeus":"test",
+     "Manis_javanica":"test",
+     "Marmota_flaviventris":"test",
+     "Martes_martes":"test",
+     "Mastomys_coucha":"test",
+     "Meles_meles":"test",
+     "Meriones_unguiculatus":"test",
+     "Mesocricetus_auratus":"test",
+     "Microcebus_murinus":"test",
+     "Micromys_minutus":"test",
+     "Microtus_ochrogaster":"test",
+     "Miniopterus_natalensis":"test",
+     "Mirounga_angustirostris":"test",
+     "Molossus_molossus":"test",
+     "Monodelphis_domestica":"test",
+     "Monodon_monoceros":"test",
+     "Moschus_berezovskii":"test",
+     "Muntiacus_reevesi":"test",
+     "Mus_caroli":"test",
+     "Mustela_erminea":"test",
+     "Myodes_glareolus":"test",
+     "Myotis_brandtii":"test",
+     "Nannospalax_galili":"test",
+     "Neofelis_nebulosa":"test",
+     "Neogale_vison":"test",
+     "Neophocaena_asiaeorientalis_asiaeorientalis":"test",
+     "Node100":"test",
+     "Node102":"test",
+     "Node12":"test",
+     "Node130":"test",
+     "Node133":"test",
+     "Node136":"test",
+     "Node141":"test",
+     "Node155":"test",
+     "Node161":"test",
+     "Node167":"test",
+     "Node170":"test",
+     "Node173":"test",
+     "Node178":"test",
+     "Node180":"test",
+     "Node181":"test",
+     "Node183":"test",
+     "Node185":"test",
+     "Node197":"test",
+     "Node198":"test",
+     "Node199":"test",
+     "Node2":"test",
+     "Node200":"test",
+     "Node209":"test",
+     "Node214":"test",
+     "Node215":"test",
+     "Node216":"test",
+     "Node220":"test",
+     "Node225":"test",
+     "Node228":"test",
+     "Node232":"test",
+     "Node239":"test",
+     "Node245":"test",
+     "Node255":"test",
+     "Node256":"test",
+     "Node28":"test",
+     "Node283":"test",
+     "Node289":"test",
+     "Node290":"test",
+     "Node297":"test",
+     "Node3":"test",
+     "Node301":"test",
+     "Node305":"test",
+     "Node31":"test",
+     "Node315":"test",
+     "Node319":"test",
+     "Node322":"test",
+     "Node323":"test",
+     "Node34":"test",
+     "Node37":"test",
+     "Node38":"test",
+     "Node4":"test",
+     "Node53":"test",
+     "Node63":"test",
+     "Node71":"test",
+     "Node82":"test",
+     "Node84":"test",
+     "Node86":"test",
+     "Node91":"test",
+     "Node94":"test",
+     "Nomascus_leucogenys":"test",
+     "Notamacropus_eugenii":"test",
+     "Nyctereutes_procyonoides":"test",
+     "Nycticebus_coucang":"test",
+     "Ochotona_curzoniae":"test",
+     "Octodon_degus":"test",
+     "Odobenus_rosmarus_divergens":"test",
+     "Odocoileus_virginianus":"test",
+     "Onychomys_torridus":"test",
+     "Orcinus_orca":"test",
+     "Ornithorhynchus_anatinus":"test",
+     "Oryctolagus_cuniculus":"test",
+     "Oryx_dammah":"test",
+     "Otolemur_garnettii":"test",
+     "Ovis_canadensis":"test",
+     "Pan_paniscus":"test",
+     "Panthera_leo":"test",
+     "Papio_anubis":"test",
+     "Perognathus_longimembris_pacificus":"test",
+     "Peromyscus_maniculatus_bairdii":"test",
+     "Petaurus_breviceps_papuanus":"test",
+     "Phacochoerus_africanus":"test",
+     "Phascolarctos_cinereus":"test",
+     "Phoca_vitulina":"test",
+     "Phocoena_phocoena":"test",
+     "Phodopus_roborovskii":"test",
+     "Phyllostomus_discolor":"test",
+     "Physeter_macrocephalus":"test",
+     "Piliocolobus_tephrosceles":"test",
+     "Pipistrellus_hanaki":"test",
+     "Plecotus_auritus":"test",
+     "Pongo_pygmaeus":"test",
+     "Prionailurus_bengalensis":"test",
+     "Propithecus_coquereli":"test",
+     "Psammomys_obesus":"test",
+     "Pseudorca_crassidens":"test",
+     "Pteronotus_mesoamericanus":"test",
+     "Pteropus_alecto":"test",
+     "Rhinolophus_ferrumequinum":"test",
+     "Rhinopithecus_bieti":"test",
+     "Rousettus_aegyptiacus":"test",
+     "Saccopteryx_bilineata":"test",
+     "Sagmatias_obliquidens":"test",
+     "Saimiri_boliviensis":"test",
+     "Sapajus_apella":"test",
+     "Sarcophilus_harrisii":"test",
+     "Sciurus_carolinensis":"test",
+     "Sminthopsis_crassicaudata":"test",
+     "Sorex_araneus":"test",
+     "Spermophilus_citellus":"test",
+     "Sturnira_hondurensis":"test",
+     "Suncus_etruscus":"test",
+     "Suricata_suricatta":"test",
+     "Symphalangus_syndactylus":"test",
+     "Tachyglossus_aculeatus":"test",
+     "Talpa_occidentalis":"test",
+     "Tamandua_tetradactyla":"test",
+     "Theropithecus_gelada":"test",
+     "Trachypithecus_francoisi":"test",
+     "Trichechus_manatus_latirostris":"test",
+     "Trichosurus_vulpecula":"test",
+     "Tupaia_belangeri_chinensis":"test",
+     "Tursiops_truncatus":"test",
+     "Urocitellus_parryii":"test",
+     "Ursus_americanus":"test",
+     "Vicugna_pacos":"test",
+     "Vulpes_lagopus":"test",
+     "Zalophus_californianus":"test"
+    }
+  },
+ "timers":{
+   "FEL analysis":{
+     "order":2,
+     "timer":15
+    },
+   "Model fitting":{
+     "order":1,
+     "timer":7
+    },
+   "Total time":{
+     "order":0,
+     "timer":22
+    }
+  }
+}
