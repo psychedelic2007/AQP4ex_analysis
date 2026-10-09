@@ -1,0 +1,197 @@
+species	clade	observed	frame1	frame2	null_median	null_mean	empirical_p	genus_rep
+Ahaetulla_prasina	Non-avian reptiles	2	5	10	12.5	17.75	0.9552	1
+Alexandromys_fortis	Eutheria	43	107	123	32.5	47.70	0.4229	1
+Alligator_mississippiensis	Non-avian reptiles	11	19	32	19.0	27.37	0.7512	1
+Alligator_sinensis	Non-avian reptiles	11	15	32	18.0	24.12	0.6816	0
+Ammospiza_nelsoni	Aves	106	37	16	27.5	40.83	0.0896	1
+Anas_acuta	Aves	74	13	40	18.0	26.54	0.0647	1
+Anas_platyrhynchos	Aves	74	13	40	21.0	26.18	0.0348	0
+Anolis_carolinensis	Non-avian reptiles	17	26	0	13.0	17.50	0.4328	1
+Antechinus_flavipes	Marsupialia	19	23	32	13.0	20.21	0.4129	1
+Aphelocoma_coerulescens	Aves	17	155	37	27.0	40.59	0.6915	1
+Aptenodytes_patagonicus	Aves	6	17	82	21.5	29.93	0.8756	0
+Aquila_chrysaetos_chrysaetos	Aves	6	83	40	25.0	31.80	0.8657	1
+Artibeus_jamaicensis	Eutheria	200	67	45	31.0	42.54	0.0149	1
+Aythya_marila	Aves	74	13	40	23.0	31.90	0.0945	0
+Balaenoptera_acutorostrata	Eutheria	60	31	43	21.0	30.59	0.1493	1
+Balaenoptera_borealis	Eutheria	60	31	43	25.5	35.49	0.1592	0
+Balaenoptera_musculus	Eutheria	60	31	43	27.0	37.25	0.2338	0
+Balaenoptera_physalus	Eutheria	60	53	43	28.0	39.77	0.2388	0
+Balaenoptera_ricei	Eutheria	60	31	43	23.0	37.01	0.2139	0
+Balearica_regulorum_gibbericeps	Aves	18	0	43	22.0	29.45	0.5721	1
+Bos_taurus	Eutheria	65	30	61	37.0	49.38	0.2886	1
+Callorhinus_ursinus	Eutheria	55	158	114	40.5	54.73	0.3881	1
+Camelus_bactrianus	Eutheria	14	35	79	26.5	35.59	0.7015	1
+Canis_aureus	Eutheria	103	199	141	35.5	48.93	0.1194	1
+Canis_lupus_baileyi	Eutheria	103	199	141	31.5	46.05	0.1095	0
+Canis_lupus_familiaris	Eutheria	103	199	141	33.0	48.76	0.1343	0
+Capra_hircus	Eutheria	78	30	61	29.5	37.87	0.1294	1
+Cavia_porcellus	Eutheria	76	67	47	18.0	25.55	0.0498	1
+Cercocebus_atys	Eutheria	29	61	12	18.0	26.44	0.3582	1
+Cervus_canadensis	Eutheria	61	30	168	28.0	42.12	0.2488	1
+Cervus_elaphus	Eutheria	61	30	168	30.0	43.77	0.2488	0
+Chamaea_fasciata	Aves	17	110	39	32.0	45.86	0.7264	1
+Chlorocebus_sabaeus	Eutheria	29	49	12	23.0	30.44	0.3781	1
+Choloepus_didactylus	Eutheria	92	114	19	29.5	42.10	0.1144	1
+Chroicocephalus_ridibundus	Aves	18	23	40	23.0	33.05	0.5821	1
+Cnephaeus_nilssonii	Eutheria	128	42	57	28.0	36.18	0.0249	1
+Colobus_angolensis_palliatus	Eutheria	13	17	61	22.5	30.30	0.6816	1
+Columba_livia	Aves	68	62	73	41.0	53.59	0.2886	1
+Corvus_kubaryi	Aves	15	155	37	27.5	41.77	0.6716	1
+Coturnix_japonica	Aves	43	71	9	22.0	32.69	0.2736	1
+Cricetulus_griseus	Eutheria	95	32	44	24.0	35.09	0.0697	1
+Crotalus_tigris	Non-avian reptiles	6	58	2	11.5	15.28	0.7662	1
+Cyanistes_caeruleus	Aves	17	110	37	30.5	37.94	0.6517	1
+Cyrtonyx_montezumae	Aves	141	6	12	19.5	29.36	0.0149	1
+Dasypus_novemcinctus	Eutheria	67	54	80	35.0	52.52	0.3284	1
+Delphinapterus_leucas	Eutheria	110	31	43	27.5	38.16	0.0597	1
+Delphinus_delphis	Eutheria	137	31	43	25.0	33.69	0.0149	1
+Dermochelys_coriacea	Non-avian reptiles	37	0	17	18.0	25.73	0.2438	1
+Desmodus_rotundus	Eutheria	177	63	83	33.0	42.53	0.0050	1
+Dipodomys_merriami	Eutheria	2	22	74	24.0	37.91	0.9950	1
+Dipodomys_ordii	Eutheria	2	22	29	28.0	39.80	0.9851	0
+Dipodomys_spectabilis	Eutheria	37	22	154	36.5	46.33	0.5025	0
+Dromaius_novaehollandiae	Aves	6	40	51	26.5	36.63	0.8706	1
+Equus_asinus	Eutheria	62	37	90	32.0	43.75	0.2488	1
+Equus_przewalskii	Eutheria	62	37	182	33.0	43.42	0.2189	0
+Erythrolamprus_reginae	Non-avian reptiles	2	5	10	12.0	16.46	0.9453	1
+Eubalaena_glacialis	Eutheria	60	31	43	23.5	32.93	0.1443	1
+Eublepharis_macularius	Non-avian reptiles	9	10	0	12.0	17.46	0.6318	1
+Fukomys_damarensis	Eutheria	25	96	51	22.0	29.02	0.4826	1
+Gavialis_gangeticus	Non-avian reptiles	11	19	32	22.0	29.79	0.7313	1
+Gorilla_gorilla_gorilla	Eutheria	29	61	12	24.0	32.89	0.4527	1
+Gracilinanus_agilis	Marsupialia	53	19	10	9.0	14.95	0.0498	1
+Grammomys_surdaster	Eutheria	113	104	30	24.0	35.24	0.0398	1
+Grus_americana	Aves	18	0	40	22.0	28.08	0.5672	1
+Grus_grus	Aves	18	0	40	23.0	31.66	0.6169	0
+Heliangelus_exortis	Aves	6	42	76	24.0	31.16	0.8905	1
+Herpailurus_yagouaroundi	Eutheria	19	122	52	43.0	52.12	0.7363	1
+Heterocephalus_glaber	Eutheria	2	107	54	18.0	27.72	0.8358	1
+Hipposideros_armiger	Eutheria	35	56	36	24.5	35.03	0.3781	1
+Homo_sapiens	Eutheria	29	61	12	22.0	29.50	0.3980	1
+Ictidomys_tridecemlineatus	Eutheria	69	1	36	17.5	27.36	0.0846	1
+Lagenorhynchus_albirostris	Eutheria	137	31	43	24.5	33.95	0.0149	1
+Lagopus_muta	Aves	65	75	5	26.0	32.80	0.1393	1
+Larus_argentatus	Aves	18	23	40	26.0	35.32	0.6418	1
+Lathamus_discolor	Aves	67	6	97	23.0	33.48	0.1493	1
+Lemur_catta	Eutheria	33	12	41	20.5	29.89	0.3234	1
+Leopardus_geoffroyi	Eutheria	19	121	52	44.5	53.68	0.7761	1
+Lichenostomus_cassidix	Aves	17	65	37	21.5	35.10	0.5920	1
+Lutra_lutra	Eutheria	25	20	113	36.5	48.78	0.6318	1
+Macaca_fascicularis	Eutheria	29	61	5	19.5	27.73	0.3632	1
+Macaca_nemestrina	Eutheria	29	61	12	21.5	30.21	0.3731	0
+Macaca_thibetana_thibetana	Eutheria	29	61	12	18.5	27.78	0.3731	0
+Macrotis_lagotis	Marsupialia	19	23	8	12.0	17.68	0.3781	1
+Mandrillus_leucophaeus	Eutheria	29	52	12	20.0	26.10	0.3433	1
+Manis_pentadactyla	Eutheria	52	67	17	28.5	36.46	0.2537	0
+Marmota_marmota_marmota	Eutheria	48	1	36	20.0	25.48	0.1144	1
+Marmota_monax	Eutheria	48	1	36	19.0	25.43	0.1393	0
+Mastomys_coucha	Eutheria	31	32	125	26.0	33.36	0.4378	1
+Mauremys_mutica	Non-avian reptiles	0	9	17	12.0	21.04	1.0000	1
+Meles_meles	Eutheria	124	20	116	45.0	56.12	0.1095	1
+Melospiza_melodia_melodia	Aves	159	37	16	31.5	44.27	0.0299	1
+Meriones_unguiculatus	Eutheria	103	105	199	52.5	71.42	0.2687	1
+Mesocricetus_auratus	Eutheria	105	124	44	34.0	45.63	0.1045	1
+Mesoplodon_bidens	Eutheria	60	31	45	25.5	36.55	0.2239	1
+Mesoplodon_mirus	Eutheria	45	59	30	22.5	33.15	0.2438	0
+Microcebus_murinus	Eutheria	9	48	73	25.5	35.66	0.7761	1
+Miniopterus_schreibersii	Eutheria	63	106	77	25.5	33.77	0.1841	1
+Monodelphis_domestica	Marsupialia	9	118	17	13.0	21.49	0.5672	1
+Monodon_monoceros	Eutheria	110	31	43	26.0	36.80	0.0547	1
+Motacilla_alba_alba	Aves	17	130	37	25.0	33.58	0.6418	1
+Mus_caroli	Eutheria	28	29	114	18.0	27.80	0.3632	1
+Mus_musculus	Eutheria	91	28	29	20.0	30.18	0.0746	0
+Mustela_erminea	Eutheria	71	20	114	29.0	41.99	0.1692	1
+Mustela_lutreola	Eutheria	71	20	114	35.0	47.09	0.2338	0
+Mustela_nigripes	Eutheria	71	20	114	34.0	48.09	0.2488	0
+Mustela_putorius_furo	Eutheria	71	20	114	29.0	41.59	0.2090	0
+Myotis_myotis	Eutheria	26	129	41	33.0	44.26	0.5373	1
+Myotis_yumanensis	Eutheria	45	26	78	26.0	42.10	0.3234	0
+Natrix_helvetica	Non-avian reptiles	2	5	10	12.0	18.11	0.9353	1
+Neophocaena_asiaeorientalis_asiaeorientalis	Eutheria	137	31	43	26.5	35.84	0.0249	1
+Neopsephotus_bourkii	Aves	200	6	97	25.5	38.27	0.0149	1
+Nomascus_leucogenys	Eutheria	29	61	12	18.0	26.91	0.3333	1
+Notechis_scutatus	Non-avian reptiles	2	5	10	11.0	15.72	0.9303	1
+Nyctereutes_procyonoides	Eutheria	42	137	199	38.0	49.87	0.4677	1
+Nycticebus_coucang	Eutheria	64	38	17	22.0	29.75	0.1095	1
+Orcinus_orca	Eutheria	159	31	43	25.0	35.01	0.0050	1
+Ornithorhynchus_anatinus	Monotremata	0	68	44	14.0	22.64	1.0000	1
+Oryctolagus_cuniculus	Eutheria	13	37	51	35.0	46.58	0.7413	1
+Oryx_dammah	Eutheria	78	30	61	29.0	37.97	0.1343	1
+Ovis_aries	Eutheria	78	30	61	28.0	37.48	0.1144	1
+Ovis_canadensis	Eutheria	78	30	61	31.0	42.00	0.1542	0
+Pan_paniscus	Eutheria	29	61	12	19.5	27.70	0.3483	1
+Pan_troglodytes	Eutheria	29	61	12	23.5	31.09	0.4129	0
+Panthera_uncia	Eutheria	19	123	74	32.0	45.78	0.6418	1
+Pantherophis_guttatus	Non-avian reptiles	2	5	10	10.0	15.32	0.9502	1
+Papio_anubis	Eutheria	29	49	12	22.0	30.95	0.4129	1
+Paroedura_picta	Non-avian reptiles	6	21	36	16.0	19.89	0.7711	1
+Passer_domesticus	Aves	38	17	71	32.0	41.77	0.4428	1
+Passer_montanus	Aves	17	71	37	43.0	55.63	0.7612	0
+Patagioenas_fasciata	Aves	63	74	39	41.5	60.77	0.3781	1
+Perognathus_longimembris_pacificus	Eutheria	53	30	20	24.5	34.05	0.2239	1
+Petaurus_breviceps_papuanus	Marsupialia	19	8	32	11.5	18.20	0.3632	1
+Pezoporus_flaviventris	Aves	67	6	97	23.0	32.38	0.1343	1
+Pezoporus_occidentalis	Aves	67	6	97	23.0	31.75	0.1244	0
+Pezoporus_wallicus	Aves	67	6	97	22.5	31.98	0.1294	0
+Phacochoerus_africanus	Eutheria	28	30	12	26.0	32.98	0.4627	1
+Phaenicophaeus_curvirostris	Aves	65	25	77	19.5	29.82	0.1244	1
+Phaethon_aethereus	Aves	18	83	40	27.0	41.30	0.6766	1
+Phascolarctos_cinereus	Marsupialia	0	19	28	7.5	13.88	1.0000	1
+Phocoena_phocoena	Eutheria	137	31	43	26.0	36.81	0.0299	1
+Phocoena_sinus	Eutheria	137	31	43	25.0	31.36	0.0199	0
+Phyllostomus_hastatus	Eutheria	65	184	44	22.5	30.82	0.0995	1
+Physeter_macrocephalus	Eutheria	44	60	31	22.0	34.45	0.2886	1
+Piliocolobus_tephrosceles	Eutheria	17	61	12	23.5	32.41	0.5920	1
+Pipistrellus_kuhlii	Eutheria	128	33	53	27.0	42.30	0.0498	1
+Plecotus_auritus	Eutheria	94	44	59	30.0	44.24	0.1343	1
+Poecile_atricapillus	Aves	17	110	37	24.0	36.53	0.6269	1
+Pogona_vitticeps	Non-avian reptiles	6	25	16	12.5	19.31	0.7662	1
+Pongo_abelii	Eutheria	29	61	49	22.0	32.55	0.4179	1
+Pongo_pygmaeus	Eutheria	49	35	28	19.5	26.10	0.1692	0
+Prinia_subflava	Aves	17	71	20	42.0	56.10	0.7562	1
+Prionailurus_bengalensis	Eutheria	19	121	52	43.5	57.67	0.7761	1
+Prionailurus_viverrinus	Eutheria	19	117	52	30.0	46.04	0.6667	0
+Pseudonaja_textilis	Non-avian reptiles	2	5	10	17.0	19.50	0.9602	1
+Pseudorca_crassidens	Eutheria	137	31	43	25.0	34.55	0.0348	1
+Python_bivittatus	Non-avian reptiles	6	11	2	13.0	17.50	0.8010	1
+Rattus_norvegicus	Eutheria	19	28	45	20.0	28.41	0.5224	1
+Rattus_rattus	Eutheria	19	28	45	19.5	24.23	0.5274	0
+Rhinolophus_hipposideros	Eutheria	59	73	155	36.0	49.52	0.3184	1
+Rhinolophus_sinicus	Eutheria	62	136	47	31.5	40.95	0.2338	0
+Rhinopithecus_bieti	Eutheria	17	61	12	20.0	25.51	0.5622	1
+Rhinopithecus_roxellana	Eutheria	17	61	12	21.5	28.46	0.5672	0
+Rissa_tridactyla	Aves	18	66	40	26.5	36.65	0.6119	1
+Rousettus_aegyptiacus	Eutheria	56	72	54	31.0	38.58	0.2438	1
+Saccopteryx_bilineata	Eutheria	56	16	36	23.0	30.09	0.1791	1
+Saccopteryx_leptura	Eutheria	16	36	55	20.0	30.27	0.5920	0
+Sagmatias_obliquidens	Eutheria	137	31	43	29.0	39.97	0.0498	1
+Saimiri_boliviensis	Eutheria	57	86	23	28.5	40.41	0.2587	1
+Sapajus_apella	Eutheria	4	31	23	24.0	33.49	0.9154	1
+Sarcophilus_harrisii	Marsupialia	19	23	32	14.0	20.89	0.4179	1
+Sciurus_carolinensis	Eutheria	26	174	63	20.0	27.68	0.4030	1
+Sciurus_vulgaris	Eutheria	64	26	66	20.0	27.94	0.1045	0
+Serinus_canaria	Aves	65	37	16	30.0	38.95	0.2040	1
+Sminthopsis_crassicaudata	Marsupialia	19	23	32	13.0	20.14	0.3831	1
+Strigops_habroptila	Aves	71	39	101	24.0	32.40	0.1294	1
+Strix_aluco	Aves	6	76	17	24.0	31.76	0.8358	1
+Strix_uralensis	Aves	6	82	17	21.0	27.48	0.8259	0
+Struthio_camelus	Aves	6	94	51	23.5	31.30	0.8308	1
+Suricata_suricatta	Eutheria	111	20	42	22.0	31.00	0.0249	1
+Sus_scrofa	Eutheria	47	63	12	25.0	34.71	0.2935	1
+Sylvia_atricapilla	Aves	17	98	37	31.5	39.05	0.6816	1
+Symphalangus_syndactylus	Eutheria	29	61	12	24.0	32.42	0.4328	1
+Tachyglossus_aculeatus	Monotremata	38	46	126	19.0	26.66	0.2637	1
+Taeniopygia_guttata	Aves	17	98	37	27.0	36.52	0.6269	1
+Thamnophis_sirtalis	Non-avian reptiles	2	5	10	15.0	17.99	0.9502	1
+Theropithecus_gelada	Eutheria	29	49	12	19.5	30.20	0.3831	1
+Trachypithecus_francoisi	Eutheria	17	61	12	17.0	26.68	0.5323	1
+Trichosurus_vulpecula	Marsupialia	35	21	10	9.0	15.79	0.1592	1
+Tupaia_belangeri_chinensis	Eutheria	67	39	76	28.5	42.63	0.1990	1
+Tursiops_truncatus	Eutheria	137	31	43	30.0	37.41	0.0448	1
+Tympanuchus_pallidicinctus	Aves	43	14	5	22.0	28.77	0.2438	1
+Ursus_arctos	Eutheria	29	153	132	36.0	54.61	0.5920	1
+Vicugna_pacos	Eutheria	14	35	96	26.0	34.45	0.6965	1
+Vulpes_lagopus	Eutheria	40	185	147	37.0	52.77	0.4726	1
+Zalophus_californianus	Eutheria	55	158	114	47.0	55.77	0.4328	1
+Zosterops_lateralis	Aves	72	110	39	28.5	41.22	0.1841	1

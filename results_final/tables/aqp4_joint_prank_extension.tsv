@@ -1,0 +1,87 @@
+column	human_residue	human_aa	occupancy	n_taxa	dominant_aa	dominant_freq	human_aa_freq	alpha	beta	omega	p	q	bonferroni	call	exclusion_reason
+1	ins>324	-	3	524	L	1.0000	0.0000	10	0.04831	0.004831	0.16115	nan	0	not tested	occupancy 3/524
+2	ins>324	-	3	524	R	1.0000	0.0000	10.92	0.0017523	0.00016047	0.10616	nan	0	not tested	occupancy 3/524
+3	ins>324	-	3	524	G	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 3/524
+4	ins>324	-	3	524	P	1.0000	0.0000	9.4908	0.00024067	2.5359e-05	0.1051	nan	0	not tested	occupancy 3/524
+5	ins>324	-	3	524	A	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 3/524
+6	ins>324	-	3	524	E	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 3/524
+7	ins>324	-	3	524	R	1.0000	0.0000	8.8173	0.0011208	0.00012711	0.11161	nan	0	not tested	occupancy 3/524
+8	ins>324	-	3	524	G	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 3/524
+9	ins>324	-	4	524	Y	0.7500	0.0000	1.3178	0.71855	0.54524	0.85055	nan	0	not tested	occupancy 4/524
+10	ins>324	-	4	524	R	1.0000	0.0000	0.47025	3.0963e-10	6.5845e-10	0.078301	nan	0	not tested	occupancy 4/524
+11	ins>324	-	5	524	A	0.6000	0.0000	1.2447e-05	1.6387	1.3165e+05	0.26809	nan	0	not tested	occupancy 5/524
+12	325	L	523	524	L	0.9771	0.9771	0.040485	0.050308	1.2426	0.74961	0.83956	0	-	
+13	326	E	523	524	A	0.4321	0.3059	0.31386	0.257	0.81883	0.51796	0.69061	0	-	
+14	327	D	523	524	R	0.5526	0.2562	1.3952	0.39073	0.28005	4.5628e-09	2.1293e-08	1	purifying	
+15	328	R	512	524	S	0.5820	0.0566	0.28125	0.33718	1.1989	0.5803	0.73856	0	-	
+16	329	T	512	524	T	0.8047	0.8047	0.19262	0.2116	1.0986	0.78895	0.84964	0	-	
+17	330	E	523	524	E	0.9178	0.9178	0.56878	0.16194	0.28471	0.00010519	0.00022656	1	purifying	
+18	ins>330	-	1	524	G	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+19	ins>330	-	1	524	E	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+20	ins>330	-	1	524	D	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+21	ins>330	-	1	524	K	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+22	ins>330	-	1	524	S	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+23	ins>330	-	1	524	T	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+24	ins>330	-	1	524	G	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+25	ins>330	-	1	524	A	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+26	ins>330	-	1	524	D	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+27	ins>330	-	1	524	A	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+28	ins>330	-	1	524	A	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+29	ins>330	-	1	524	N	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+30	ins>330	-	1	524	P	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+31	ins>330	-	1	524	N	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+32	ins>330	-	1	524	V	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+33	ins>330	-	1	524	N	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+34	ins>330	-	1	524	A	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+35	ins>330	-	1	524	K	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+36	ins>330	-	1	524	A	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+37	ins>330	-	1	524	N	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+38	ins>330	-	1	524	A	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+39	ins>330	-	1	524	K	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+40	ins>330	-	1	524	L	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+41	ins>330	-	1	524	R	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+42	ins>330	-	1	524	Y	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+43	ins>330	-	1	524	S	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+44	ins>330	-	1	524	T	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+45	ins>330	-	1	524	I	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+46	ins>330	-	1	524	A	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+47	ins>330	-	1	524	R	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+48	ins>330	-	1	524	L	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+49	331	S	453	524	S	0.7351	0.7351	0.34114	0.33072	0.96948	0.9295	0.9295	0	-	
+50	332	R	453	524	R	0.8344	0.8344	0.37579	0.22468	0.59787	0.18826	0.29286	0	-	
+51	ins>332	-	1	524	V	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+52	333	Q	446	524	E	0.4933	0.2511	1.4919	0.48454	0.32477	9.1623e-06	2.5654e-05	1	purifying	
+53	334	D	430	524	Q	0.3953	0.1674	1.8196	0.62368	0.34276	2.1683e-05	5.5194e-05	1	purifying	
+54	335	S	444	524	P	0.7005	0.1554	0.7737	0.48785	0.63055	0.064679	0.12073	0	purifying	
+55	336	L	428	524	L	0.3061	0.3061	1.1416	0.94092	0.82423	0.39418	0.55185	0	-	
+56	ins>336	-	1	524	P	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+57	ins>336	-	1	524	V	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+58	337	E	414	524	E	0.3913	0.3913	0.57025	0.49384	0.866	0.66192	0.80582	0	-	
+59	338	L	418	524	L	0.4187	0.4187	1.5021	1.0454	0.69595	0.087523	0.15316	0	purifying	
+60	339	S	400	524	S	0.7725	0.7725	0.35425	0.55593	1.5693	0.15491	0.25515	0	-	
+61	340	S	440	524	S	0.4364	0.4364	0.73393	0.53352	0.72693	0.20644	0.30423	0	-	
+62	341	D	444	524	D	0.7860	0.7860	0.41367	0.3919	0.94738	0.88538	0.91818	0	-	
+63	342	F	425	524	F	0.3812	0.3812	0.59342	0.53369	0.89936	0.72506	0.83956	0	-	
+64	343	L	415	524	L	0.8217	0.8217	0.65582	0.31289	0.47711	0.035218	0.070435	0	purifying	
+65	344	P	411	524	P	0.8491	0.8491	0.90463	0.2884	0.31881	6.2427e-05	0.00014566	1	purifying	
+66	ins>344	-	1	524	R	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+67	ins>344	-	1	524	K	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+68	ins>344	-	1	524	I	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+69	ins>344	-	1	524	L	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+70	345	P	450	524	P	0.8378	0.8378	0.91698	0.25452	0.27756	1.3053e-06	4.5685e-06	1	purifying	
+71	346	I	453	524	I	0.8631	0.8631	0.79129	0.14884	0.1881	1.6333e-07	6.5332e-07	1	purifying	
+72	347	K	523	524	K	0.8566	0.8566	0.60652	0.10154	0.16742	8.4459e-06	2.5654e-05	1	purifying	
+73	348	E	523	524	E	0.9924	0.9924	0.75018	0.01921	0.025607	1.6653e-15	1.5543e-14	1	purifying	
+74	ins>348	-	1	524	G	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+75	ins>348	-	1	524	A	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+76	ins>348	-	1	524	F	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+77	ins>348	-	1	524	D	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+78	ins>348	-	1	524	L	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+79	ins>348	-	1	524	S	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+80	ins>348	-	1	524	F	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+81	ins>348	-	1	524	M	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524
+82	349	T	522	524	T	0.9943	0.9943	0.76838	0.0063301	0.0082382	0	0	1	purifying	
+83	350	D	523	524	D	0.8413	0.8413	0.65703	0.069769	0.10619	5.2608e-10	2.946e-09	1	purifying	
+84	351	L	522	524	L	0.9406	0.9406	0.90232	0.043787	0.048527	0	0	1	purifying	
+85	352	L	449	524	L	0.9065	0.9065	1.2216	0.1	0.081859	1.7875e-14	1.2512e-13	1	purifying	
+86	ins>352	-	1	524	S	1.0000	0.0000	0	0	nan	1	nan	0	not tested	occupancy 1/524

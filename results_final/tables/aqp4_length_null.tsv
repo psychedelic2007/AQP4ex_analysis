@@ -1,0 +1,609 @@
+species	clade	observed	frame1	frame2	null_median	null_mean	empirical_p	genus_rep
+Abramis_brama	Teleostei: Ostariophysi	21	0	4	11.0	15.41	0.2438	1
+Acanthisitta_chloris	Aves	27	0	4	11.0	15.28	0.1493	1
+Acanthochromis_polyacanthus	Teleostei: Acanthomorpha	11	14	23	11.0	17.01	0.5224	1
+Acanthopagrus_latus	Teleostei: Acanthomorpha	11	14	20	15.0	23.18	0.6368	1
+Acinonyx_jubatus	Eutheria	28	0	4	11.0	15.39	0.1791	1
+Acipenser_ruthenus	Actinopterygii: non-teleost	28	0	8	9.0	13.47	0.1393	1
+Acomys_minous	Eutheria	28	0	4	12.0	16.97	0.2040	1
+Agelaius_phoeniceus	Aves	28	0	4	11.0	15.04	0.1692	1
+Agelaius_tricolor	Aves	28	0	4	11.0	16.00	0.1741	0
+Ahaetulla_prasina	Non-avian reptiles	28	0	4	9.0	12.67	0.1144	1
+Ailuropoda_melanoleuca	Eutheria	28	0	4	11.0	17.45	0.2289	1
+Alexandromys_fortis	Eutheria	28	0	29	11.0	15.36	0.1791	1
+Alligator_mississippiensis	Non-avian reptiles	26	1	17	12.0	16.78	0.1990	1
+Alligator_sinensis	Non-avian reptiles	28	0	4	10.0	12.46	0.1144	0
+Alosa_alosa	Teleostei: other	43	0	16	13.0	18.30	0.1045	1
+Alosa_sapidissima	Teleostei: other	43	0	16	12.0	18.32	0.0896	0
+Amia_ocellicauda	Actinopterygii: non-teleost	28	0	11	9.0	13.02	0.1294	1
+Ammospiza_caudacuta	Aves	28	0	4	11.0	14.90	0.1642	1
+Ammospiza_nelsoni	Aves	28	0	4	12.0	15.71	0.1692	0
+Amphiprion_ocellaris	Teleostei: Acanthomorpha	11	14	21	13.0	16.05	0.5721	1
+Anabas_testudineus	Teleostei: Acanthomorpha	11	13	40	13.0	17.44	0.5721	1
+Anarrhichthys_ocellatus	Teleostei: Acanthomorpha	11	14	23	12.0	17.38	0.5672	1
+Anas_acuta	Aves	28	0	4	11.0	16.81	0.2139	1
+Anas_platyrhynchos	Aves	28	0	4	13.0	16.86	0.2040	0
+Anguilla_anguilla	Teleostei: other	28	0	4	20.5	28.26	0.4080	1
+Anolis_carolinensis	Non-avian reptiles	28	0	4	15.0	19.43	0.2637	1
+Anolis_sagrei	Non-avian reptiles	28	0	4	11.0	16.21	0.1741	0
+Anomaloglossus_baeobatrachus	Amphibia	24	0	69	9.0	14.54	0.1940	1
+Anomalospiza_imberbis	Aves	28	0	4	11.0	15.18	0.1443	1
+Anoplopoma_fimbria	Teleostei: Acanthomorpha	11	14	23	13.0	18.48	0.5821	1
+Anser_anser	Aves	28	0	4	10.0	15.15	0.1791	1
+Anser_brachyrhynchus	Aves	28	0	4	11.0	16.09	0.1791	0
+Anser_cygnoides	Aves	28	0	4	11.0	15.88	0.1642	0
+Antennarius_striatus	Teleostei: Acanthomorpha	11	22	40	12.0	16.71	0.5423	1
+Antrostomus_carolinensis	Aves	28	0	4	13.0	16.48	0.1741	1
+Aotus_nancymaae	Eutheria	28	0	4	9.0	11.58	0.0896	1
+Apaloderma_vittatum	Aves	28	0	4	10.5	15.30	0.1940	1
+Aphelocoma_coerulescens	Aves	28	0	4	12.0	15.39	0.1692	1
+Apodemus_sylvaticus	Eutheria	28	0	4	10.0	14.90	0.1542	1
+Aptenodytes_forsteri	Aves	28	0	4	10.0	14.56	0.1592	0
+Aptenodytes_patagonicus	Aves	28	0	4	14.0	17.34	0.2189	1
+Apteryx_rowi	Aves	28	0	4	11.5	15.60	0.1791	1
+Apus_apus	Aves	28	0	4	10.0	12.99	0.1045	1
+Aquarana_catesbeiana	Amphibia	27	0	23	10.0	13.24	0.1294	1
+Aquila_chrysaetos_chrysaetos	Aves	28	0	4	13.0	17.54	0.1990	1
+Artibeus_jamaicensis	Eutheria	28	0	4	10.0	14.42	0.1343	1
+Arvicanthis_niloticus	Eutheria	28	0	4	11.5	16.10	0.1990	1
+Ascaphus_truei	Amphibia	27	0	4	8.0	12.20	0.1144	1
+Astur_gentilis	Aves	28	0	4	11.0	15.46	0.1592	1
+Astyanax_mexicanus	Teleostei: Ostariophysi	26	0	4	13.0	16.80	0.2239	1
+Athene_cunicularia	Aves	28	0	4	11.0	16.19	0.2040	1
+Athene_noctua	Aves	28	0	4	11.0	16.27	0.1891	0
+Aulonocara_stuartgranti	Teleostei: Acanthomorpha	11	93	8	14.0	19.67	0.6318	1
+Aythya_ferina	Aves	28	0	4	11.0	14.85	0.1592	1
+Aythya_fuligula	Aves	28	0	4	12.0	16.95	0.2488	0
+Aythya_marila	Aves	28	0	4	11.0	14.71	0.1542	0
+Balaenoptera_acutorostrata	Eutheria	28	0	2	11.5	15.02	0.1891	1
+Balaenoptera_borealis	Eutheria	28	0	2	11.0	15.38	0.1990	0
+Balaenoptera_musculus	Eutheria	28	0	2	10.0	14.72	0.1592	0
+Balaenoptera_physalus	Eutheria	28	0	2	11.0	15.21	0.1592	0
+Balaenoptera_ricei	Eutheria	28	0	2	12.0	16.71	0.2040	0
+Balearica_regulorum_gibbericeps	Aves	28	0	4	11.0	14.91	0.1294	1
+Barbatula_barbatula	Teleostei: Ostariophysi	21	0	4	9.0	13.84	0.2239	1
+Bison_bison_bison	Eutheria	28	0	4	11.5	15.93	0.1940	1
+Blennius_ocellaris	Teleostei: Acanthomorpha	11	36	18	16.0	21.82	0.6816	1
+Bombina_bombina	Amphibia	27	0	14	8.5	12.48	0.1144	1
+Bos_indicus	Eutheria	28	0	4	9.0	13.81	0.1343	1
+Bos_indicus_x_Bos_taurus	Eutheria	28	0	4	10.5	15.52	0.1891	0
+Bos_javanicus	Eutheria	28	0	4	10.5	13.87	0.1393	0
+Bos_mutus	Eutheria	28	0	4	12.0	17.05	0.1841	0
+Bos_taurus	Eutheria	28	0	4	12.0	16.43	0.1990	0
+Brachyistius_frenatus	Teleostei: Acanthomorpha	11	14	23	11.0	16.85	0.5224	1
+Branta_canadensis	Aves	28	0	4	11.0	16.25	0.1940	1
+Bubalus_bubalis	Eutheria	28	0	4	9.5	14.12	0.1493	1
+Bubalus_kerabau	Eutheria	28	0	4	11.0	15.14	0.1692	0
+Buceros_rhinoceros_silvestris	Aves	28	0	4	12.0	15.46	0.1741	1
+Bufo_bufo	Amphibia	23	0	27	12.0	16.07	0.2388	1
+Bufo_gargarizans	Amphibia	23	0	27	10.5	13.95	0.2090	0
+Buteo_buteo	Aves	28	0	4	12.0	16.49	0.1741	1
+Calidris_pugnax	Aves	28	0	4	12.0	16.07	0.1891	1
+Callithrix_jacchus	Eutheria	28	0	4	9.0	12.94	0.1144	1
+Callorhinus_ursinus	Eutheria	28	0	4	12.0	14.98	0.1542	1
+Callospermophilus_lateralis	Eutheria	28	0	2	10.0	13.51	0.1194	1
+Caloenas_nicobarica	Aves	28	0	4	11.0	14.88	0.1592	1
+Calonectris_borealis	Aves	28	0	4	10.0	14.66	0.1542	1
+Calypte_anna	Aves	28	0	4	11.0	14.04	0.1294	1
+Camarhynchus_parvulus	Aves	28	0	4	11.0	14.52	0.1393	1
+Camelus_bactrianus	Eutheria	28	0	4	12.0	15.31	0.1592	1
+Camelus_dromedarius	Eutheria	28	0	4	10.0	15.38	0.1741	0
+Camelus_ferus	Eutheria	16	22	5	12.0	15.01	0.3483	0
+Candoia_aspera	Non-avian reptiles	28	0	4	12.0	13.93	0.1144	1
+Canis_aureus	Eutheria	28	0	4	9.5	15.21	0.1741	1
+Canis_lupus_baileyi	Eutheria	28	0	4	13.0	16.16	0.1940	0
+Canis_lupus_dingo	Eutheria	28	0	4	11.0	16.57	0.2189	0
+Canis_lupus_familiaris	Eutheria	28	0	4	13.0	18.45	0.2388	0
+Capra_hircus	Eutheria	28	0	4	9.5	12.99	0.1244	1
+Carassius_auratus	Teleostei: Ostariophysi	24	0	4	13.0	17.77	0.2537	0
+Carassius_carassius	Teleostei: Ostariophysi	24	0	4	10.0	15.21	0.2388	1
+Carcharhinus_amblyrhynchos	Chondrichthyes	28	0	11	15.0	18.91	0.2239	1
+Carcharodon_carcharias	Chondrichthyes	28	0	4	11.0	15.14	0.1642	1
+Caretta_caretta	Non-avian reptiles	28	0	4	10.0	14.36	0.1493	1
+Carettochelys_insculpta	Non-avian reptiles	28	0	4	11.0	14.55	0.1642	1
+Cariama_cristata	Aves	28	0	4	10.0	14.70	0.1542	1
+Castor_canadensis	Eutheria	28	0	2	11.0	14.88	0.1542	1
+Catharus_ustulatus	Aves	28	0	4	9.0	14.44	0.1741	1
+Cavia_porcellus	Eutheria	28	0	4	11.5	15.79	0.1741	1
+Cebus_imitator	Eutheria	28	0	4	11.5	14.57	0.1343	1
+Centrocercus_urophasianus	Aves	28	0	4	11.0	15.63	0.1940	1
+Ceratotherium_simum_simum	Eutheria	28	0	2	10.5	15.38	0.1841	1
+Cercocebus_atys	Eutheria	28	0	4	10.0	13.46	0.1294	1
+Cervus_canadensis	Eutheria	28	0	4	10.0	15.59	0.1592	1
+Cervus_elaphus	Eutheria	28	0	4	12.0	15.13	0.1542	0
+Cetorhinus_maximus	Chondrichthyes	28	0	4	13.0	17.36	0.2139	1
+Chaetura_pelagica	Aves	28	0	4	10.0	15.21	0.1741	1
+Chamaea_fasciata	Aves	28	0	4	10.0	15.33	0.1642	1
+Channa_argus	Teleostei: Acanthomorpha	11	13	21	11.0	15.70	0.5224	1
+Chanodichthys_erythropterus	Teleostei: Ostariophysi	15	0	20	13.0	17.24	0.4577	1
+Charadrius_vociferus	Aves	28	0	4	10.5	15.22	0.1642	1
+Chelonia_mydas	Non-avian reptiles	28	0	4	9.0	12.89	0.1244	1
+Chelonoidis_abingdonii	Non-avian reptiles	28	0	4	12.0	16.30	0.1642	1
+Chiloscyllium_punctatum	Chondrichthyes	28	0	36	16.5	21.93	0.2985	1
+Chinchilla_lanigera	Eutheria	28	0	2	9.0	14.11	0.1592	1
+Chionomys_nivalis	Eutheria	28	0	4	9.0	13.06	0.1144	1
+Chiroxiphia_lanceolata	Aves	28	0	4	13.0	17.46	0.1841	1
+Chlamydotis_macqueenii	Aves	28	0	4	14.5	18.84	0.2189	1
+Chlorocebus_sabaeus	Eutheria	28	0	4	10.0	13.46	0.1244	1
+Choloepus_didactylus	Eutheria	28	0	2	9.0	12.64	0.0995	1
+Chroicocephalus_ridibundus	Aves	28	0	4	11.0	14.45	0.1244	1
+Chrysemys_picta_bellii	Non-avian reptiles	28	0	4	10.5	14.82	0.1642	1
+Clinocottus_analis	Teleostei: Acanthomorpha	11	14	6	15.0	21.47	0.6567	1
+Colobus_angolensis_palliatus	Eutheria	28	0	4	10.0	14.46	0.1244	1
+Coloeus_monedula	Aves	28	0	4	11.5	16.14	0.1891	1
+Cololabis_saira	Teleostei: Acanthomorpha	11	42	8	14.0	18.68	0.6020	1
+Colossoma_macropomum	Teleostei: Ostariophysi	26	0	4	8.5	12.16	0.1244	1
+Columba_livia	Aves	28	0	4	11.5	15.07	0.1692	1
+Copadichromis_virginalis	Teleostei: Acanthomorpha	11	82	8	13.0	20.27	0.5970	1
+Corapipo_altera	Aves	28	0	4	11.0	15.69	0.1841	1
+Corvus_brachyrhynchos	Aves	28	0	4	11.0	15.38	0.1542	0
+Corvus_cornix_cornix	Aves	28	0	4	11.0	16.30	0.1692	1
+Corvus_hawaiiensis	Aves	28	0	4	11.0	14.27	0.1144	0
+Corvus_kubaryi	Aves	28	0	4	10.5	13.53	0.1493	0
+Corvus_moneduloides	Aves	28	0	4	10.0	15.44	0.1741	0
+Coturnix_japonica	Aves	27	0	4	9.0	14.39	0.1493	1
+Crinia_signifera	Amphibia	27	0	20	8.0	12.47	0.1095	1
+Crocodylus_porosus	Non-avian reptiles	28	0	4	11.0	14.46	0.1343	1
+Crocuta_crocuta	Eutheria	28	0	4	11.0	16.20	0.1891	1
+Crotalus_tigris	Non-avian reptiles	28	0	4	10.0	13.25	0.1294	1
+Ctenopharyngodon_idella	Teleostei: Ostariophysi	15	0	4	13.5	18.73	0.4726	1
+Cuculus_canorus	Aves	28	0	4	9.5	14.59	0.1542	1
+Cyanistes_caeruleus	Aves	28	0	4	10.0	14.91	0.1642	1
+Cygnus_olor	Aves	28	0	4	12.0	16.05	0.1841	0
+Cynocephalus_volans	Eutheria	28	0	4	11.0	12.86	0.0846	1
+Cynoglossus_semilaevis	Teleostei: Acanthomorpha	11	14	43	14.0	19.39	0.6219	1
+Cyprinodon_tularosa	Teleostei: Acanthomorpha	11	13	63	15.0	20.22	0.6020	1
+Cyprinodon_variegatus	Teleostei: Acanthomorpha	11	13	63	14.0	20.58	0.6318	0
+Cyprinus_carpio	Teleostei: Ostariophysi	24	0	4	15.0	20.06	0.3184	1
+Cyrtonyx_montezumae	Aves	28	0	4	11.0	14.10	0.1443	1
+Danio_aesculapii	Teleostei: Ostariophysi	25	0	4	13.0	17.61	0.2587	1
+Danio_rerio	Teleostei: Ostariophysi	25	0	4	11.0	15.39	0.2090	0
+Delphinapterus_leucas	Eutheria	28	0	2	11.5	16.79	0.1891	1
+Delphinus_delphis	Eutheria	28	0	2	11.0	15.57	0.1741	1
+Dendrobates_tinctorius	Amphibia	24	0	8	10.0	13.59	0.1791	1
+Dendropsophus_ebraccatus	Amphibia	25	0	9	10.0	14.34	0.1940	1
+Dermochelys_coriacea	Non-avian reptiles	28	0	4	11.0	14.67	0.1592	1
+Diceros_bicornis_minor	Eutheria	28	0	2	10.0	14.71	0.1940	1
+Dipodomys_merriami	Eutheria	28	0	2	12.0	15.88	0.1692	1
+Dromaius_novaehollandiae	Aves	28	0	4	12.0	15.91	0.1592	1
+Dromiciops_gliroides	Marsupialia	24	105	4	11.0	13.90	0.1343	1
+Dryobates_pubescens	Aves	28	0	4	11.0	15.31	0.1741	1
+Echinops_telfairi	Eutheria	28	0	4	11.5	16.48	0.2090	1
+Elephas_maximus_indicus	Eutheria	28	0	2	12.0	15.98	0.1542	1
+Eleutherodactylus_coqui	Amphibia	24	0	69	10.0	14.93	0.2139	1
+Elgaria_multicarinata_webbii	Non-avian reptiles	28	0	4	10.0	14.10	0.1592	1
+Embiotoca_jacksoni	Teleostei: Acanthomorpha	11	14	52	15.0	18.37	0.5920	1
+Empidonax_traillii	Aves	28	0	4	13.5	17.23	0.2090	1
+Emydura_macquarii_macquarii	Non-avian reptiles	28	0	4	11.5	13.82	0.1393	1
+Engystomops_pustulosus	Amphibia	24	0	69	10.0	13.70	0.1692	1
+Enhydra_lutris_kenyoni	Eutheria	28	0	4	13.0	18.05	0.2438	1
+Equus_asinus	Eutheria	28	0	4	10.5	14.03	0.1393	1
+Equus_caballus	Eutheria	28	0	4	11.0	16.04	0.1940	0
+Equus_przewalskii	Eutheria	28	0	4	11.0	16.27	0.1891	0
+Equus_quagga	Eutheria	28	0	4	10.0	14.05	0.1592	0
+Erinaceus_europaeus	Eutheria	28	0	2	12.0	16.27	0.1592	1
+Erithacus_rubecula	Aves	28	0	4	10.0	15.31	0.1443	1
+Erpetoichthys_calabaricus	Actinopterygii: non-teleost	28	0	11	13.5	18.09	0.2090	1
+Erythrolamprus_reginae	Non-avian reptiles	28	0	4	8.5	11.65	0.0796	1
+Etheostoma_cragini	Teleostei: Acanthomorpha	11	47	32	12.0	15.85	0.5423	1
+Etheostoma_spectabile	Teleostei: Acanthomorpha	11	33	117	10.0	16.76	0.4925	0
+Eublepharis_macularius	Non-avian reptiles	28	0	4	9.5	14.29	0.1542	1
+Eucyclogobius_newberryi	Teleostei: Acanthomorpha	11	6	19	9.0	12.58	0.4229	1
+Eurypyga_helias	Aves	28	0	4	10.0	13.15	0.0945	1
+Excalfactoria_chinensis	Aves	28	0	4	10.0	15.65	0.1841	1
+Falco_biarmicus	Aves	28	0	4	11.0	16.23	0.1841	0
+Falco_cherrug	Aves	28	0	4	11.5	14.32	0.1642	0
+Falco_naumanni	Aves	28	0	4	10.0	15.23	0.1940	1
+Falco_peregrinus	Aves	28	0	4	11.0	14.60	0.1542	0
+Falco_punctatus	Aves	28	0	4	10.0	14.52	0.1642	0
+Falco_rusticolus	Aves	28	0	4	10.0	14.56	0.1393	0
+Felis_catus	Eutheria	28	0	4	12.0	15.12	0.1493	1
+Ficedula_albicollis	Aves	28	0	4	11.0	15.42	0.1692	1
+Fukomys_damarensis	Eutheria	28	0	2	9.5	14.02	0.1493	1
+Fulmarus_glacialis	Aves	28	0	4	11.0	15.09	0.1891	1
+Fundulus_heteroclitus	Teleostei: Acanthomorpha	11	51	23	16.0	23.10	0.6219	1
+Gadus_morhua	Teleostei: Acanthomorpha	9	0	48	11.0	15.28	0.5871	1
+Galeopterus_variegatus	Eutheria	28	0	4	9.0	12.88	0.1294	1
+Gallinula_chloropus	Aves	28	0	4	10.0	14.01	0.1244	1
+Gallus_gallus	Aves	28	0	4	12.0	15.96	0.1542	1
+Gambusia_affinis	Teleostei: Acanthomorpha	11	31	45	10.5	16.82	0.5025	1
+Garra_rufa	Teleostei: Ostariophysi	24	0	4	10.0	16.39	0.2438	1
+Gasterosteus_aculeatus	Teleostei: Acanthomorpha	11	14	66	15.5	20.45	0.6219	1
+Gavialis_gangeticus	Non-avian reptiles	28	0	4	10.0	14.78	0.1642	1
+Gekko_japonicus	Non-avian reptiles	28	0	4	12.5	15.96	0.1891	1
+Geospiza_fortis	Aves	28	0	4	11.0	15.39	0.1642	1
+Geotrypetes_seraphini	Amphibia	27	0	4	12.0	17.05	0.2338	1
+Giraffa_tippelskirchi	Eutheria	28	0	4	11.0	15.55	0.1592	1
+Girardinichthys_multiradiatus	Teleostei: Acanthomorpha	11	14	23	12.0	17.59	0.5622	1
+Globicephala_melas	Eutheria	28	0	2	12.0	17.98	0.2090	1
+Gobio_gobio	Teleostei: Ostariophysi	24	0	4	10.0	15.54	0.2090	1
+Gobius_niger	Teleostei: Acanthomorpha	11	6	20	13.0	19.03	0.5871	1
+Gopherus_evgoodei	Non-avian reptiles	28	0	4	7.0	12.31	0.1144	1
+Gopherus_flavomarginatus	Non-avian reptiles	28	0	4	11.5	14.85	0.1592	0
+Gorilla_gorilla_gorilla	Eutheria	28	0	4	13.0	16.16	0.1891	1
+Gouania_willdenowi	Teleostei: Acanthomorpha	11	14	16	14.0	19.82	0.6119	1
+Grampus_griseus	Eutheria	28	0	2	12.0	15.97	0.1841	1
+Grus_americana	Aves	28	0	4	10.0	14.68	0.1592	1
+Grus_grus	Aves	28	0	4	12.0	16.14	0.1692	0
+Haemorhous_mexicanus	Aves	28	0	4	11.0	15.47	0.1592	1
+Haliaeetus_albicilla	Aves	28	0	4	12.5	16.95	0.1692	0
+Haliaeetus_leucocephalus	Aves	28	0	4	12.0	16.25	0.1791	1
+Halichoerus_grypus	Eutheria	28	0	4	12.0	16.23	0.2139	1
+Harpia_harpyja	Aves	28	0	4	11.0	15.92	0.1791	1
+Heliangelus_exortis	Aves	28	0	4	11.0	15.02	0.1692	1
+Heloderma_suspectum	Non-avian reptiles	28	0	2	13.0	17.55	0.2189	1
+Hemibagrus_wyckioides	Teleostei: Ostariophysi	26	1	4	10.0	14.48	0.2040	1
+Hemicordylus_capensis	Non-avian reptiles	28	0	4	9.0	14.62	0.1642	1
+Hemiscyllium_ocellatum	Chondrichthyes	28	0	67	15.0	21.70	0.2886	1
+Hemitrygon_akajei	Chondrichthyes	28	0	11	13.0	16.88	0.2139	1
+Heptranchias_perlo	Chondrichthyes	28	0	4	13.0	17.02	0.2040	1
+Heterocephalus_glaber	Eutheria	28	0	2	9.5	14.29	0.1493	1
+Heterodontus_francisci	Chondrichthyes	28	0	4	10.0	14.88	0.1542	1
+Heteronotia_binoei	Non-avian reptiles	28	0	4	13.0	18.29	0.2687	1
+Hippocampus_comes	Teleostei: Acanthomorpha	5	9	44	11.0	16.43	0.7811	1
+Hippoglossus_hippoglossus	Teleostei: Acanthomorpha	11	51	23	15.0	21.96	0.6667	1
+Hippoglossus_stenolepis	Teleostei: Acanthomorpha	11	51	23	16.0	22.86	0.6219	0
+Hippopotamus_amphibius_kiboko	Eutheria	28	0	2	11.0	15.41	0.1542	1
+Hirundo_rustica	Aves	28	0	4	12.0	17.55	0.1990	1
+Homo_sapiens	Eutheria	28	0	4	12.0	17.93	0.2488	1
+Hoplias_malabaricus	Teleostei: Ostariophysi	26	0	4	10.0	15.16	0.1990	1
+Hyaena_hyaena	Eutheria	28	0	4	10.5	13.78	0.1393	1
+Hyla_sarda	Amphibia	25	0	51	11.0	16.41	0.2239	1
+Hylobates_moloch	Eutheria	28	0	4	9.5	12.89	0.1045	1
+Hypanus_sabinus	Chondrichthyes	28	0	11	12.0	17.20	0.2040	1
+Hyperolius_riggenbachi	Amphibia	27	0	11	9.5	13.27	0.1343	1
+Hypomesus_nipponensis	Teleostei: other	27	0	14	14.0	18.90	0.2637	0
+Hypomesus_transpacificus	Teleostei: other	27	0	23	14.0	19.11	0.2488	1
+Ictalurus_furcatus	Teleostei: Ostariophysi	26	1	4	9.0	13.95	0.1542	1
+Ictalurus_punctatus	Teleostei: Ostariophysi	26	1	4	11.5	15.80	0.2139	0
+Ictidomys_tridecemlineatus	Eutheria	28	0	2	9.0	13.97	0.1294	1
+Jaculus_jaculus	Eutheria	28	0	4	10.0	15.74	0.1741	1
+Kogia_breviceps	Eutheria	28	0	2	11.5	16.12	0.1592	1
+Kryptolebias_marmoratus	Teleostei: Acanthomorpha	11	46	73	17.5	22.68	0.6418	1
+Labeo_rohita	Teleostei: Ostariophysi	24	0	4	12.5	16.77	0.2189	1
+Labrus_bergylta	Teleostei: Acanthomorpha	11	40	28	11.0	18.51	0.5473	1
+Labrus_mixtus	Teleostei: Acanthomorpha	11	40	28	12.0	18.33	0.5572	0
+Lacerta_agilis	Non-avian reptiles	28	0	4	10.0	15.97	0.2239	1
+Lagenorhynchus_albirostris	Eutheria	28	0	2	10.0	14.79	0.1343	1
+Lagopus_leucura	Aves	28	0	4	12.0	15.59	0.1791	1
+Lagopus_muta	Aves	28	0	4	9.0	13.39	0.1393	0
+Lampetra_planeri	Cyclostomata	28	45	94	18.5	26.07	0.3582	0
+Lampris_incognitus	Teleostei: Acanthomorpha	11	14	32	20.5	28.93	0.6866	1
+Larus_argentatus	Aves	28	0	4	11.0	15.79	0.1791	0
+Larus_michahellis	Aves	28	0	4	10.0	13.49	0.1244	1
+Lathamus_discolor	Aves	28	0	4	12.0	16.48	0.2040	1
+Latimeria_chalumnae	Sarcopterygian fishes	28	0	10	8.0	13.07	0.1443	1
+Leopardus_geoffroyi	Eutheria	28	0	4	10.0	15.04	0.1592	1
+Lepidochelys_kempii	Non-avian reptiles	28	0	4	10.0	13.48	0.1443	0
+Lepidochelys_olivacea	Non-avian reptiles	28	0	4	11.0	14.63	0.1542	1
+Lepidothrix_coronata	Aves	28	0	4	13.0	17.59	0.1891	1
+Lepisosteus_oculatus	Actinopterygii: non-teleost	28	0	39	11.5	15.43	0.1592	1
+Leptodactylus_fuscus	Amphibia	24	0	8	10.0	14.31	0.1891	1
+Leptonychotes_weddellii	Eutheria	28	0	4	15.0	17.05	0.1940	1
+Leptosomus_discolor	Aves	28	0	4	11.0	15.31	0.1642	1
+Lethenteron_reissneri	Cyclostomata	28	72	90	21.0	30.03	0.3930	1
+Leuciscus_leuciscus	Teleostei: Ostariophysi	22	0	4	12.0	18.34	0.3284	1
+Leucoraja_erinaceus	Chondrichthyes	28	0	11	12.0	16.58	0.1990	1
+Leuresthes_tenuis	Teleostei: Acanthomorpha	11	23	122	12.5	16.18	0.5622	1
+Lichenostomus_cassidix	Aves	28	0	4	12.5	17.16	0.1990	1
+Lipophrys_pholis	Teleostei: Acanthomorpha	11	18	171	16.0	20.69	0.6318	1
+Lissotriton_helveticus	Amphibia	27	0	4	9.0	13.33	0.1443	1
+Lithobates_pipiens	Amphibia	27	0	20	11.0	14.46	0.1493	1
+Lonchura_striata	Aves	28	0	4	9.0	14.37	0.1443	1
+Lontra_canadensis	Eutheria	28	0	4	12.0	16.95	0.2139	1
+Loxodonta_africana	Eutheria	28	0	2	12.0	14.34	0.1393	1
+Lutra_lutra	Eutheria	28	0	4	10.0	15.71	0.1592	1
+Lynx_canadensis	Eutheria	28	0	4	12.0	16.45	0.1841	1
+Macaca_fascicularis	Eutheria	28	0	4	10.0	12.96	0.1144	1
+Macaca_mulatta	Eutheria	28	0	4	9.0	13.08	0.1194	0
+Macaca_nemestrina	Eutheria	28	0	4	10.0	14.06	0.1592	0
+Macaca_thibetana_thibetana	Eutheria	28	0	4	10.0	14.32	0.1542	0
+Macrotis_lagotis	Marsupialia	24	34	4	10.0	13.73	0.1692	1
+Malaclemys_terrapin_pileata	Non-avian reptiles	28	0	4	11.0	14.77	0.1542	1
+Manacus_candei	Aves	28	0	4	9.0	13.22	0.1393	1
+Manacus_vitellinus	Aves	28	0	4	10.0	15.22	0.1493	0
+Mandrillus_leucophaeus	Eutheria	28	0	4	11.0	14.49	0.1542	1
+Manis_javanica	Eutheria	28	0	2	12.0	16.11	0.1990	1
+Marmota_flaviventris	Eutheria	28	0	2	9.0	12.71	0.1095	1
+Marmota_marmota_marmota	Eutheria	28	0	2	9.0	13.75	0.1194	0
+Marmota_monax	Eutheria	28	0	2	10.0	14.52	0.1194	0
+Martes_martes	Eutheria	28	0	4	13.0	17.14	0.1891	1
+Mastacembelus_armatus	Teleostei: Acanthomorpha	11	18	41	14.0	19.09	0.6169	1
+Mastomys_coucha	Eutheria	28	0	4	10.0	15.52	0.1393	1
+Mauremys_mutica	Non-avian reptiles	28	0	4	8.0	10.67	0.0846	0
+Mauremys_reevesii	Non-avian reptiles	28	0	4	10.0	15.01	0.1592	1
+Megalobrama_amblycephala	Teleostei: Ostariophysi	15	0	4	13.0	18.31	0.4527	1
+Megalops_cyprinoides	Teleostei: other	28	0	64	14.0	19.61	0.2338	1
+Melanerpes_formicivorus	Aves	28	0	4	12.0	17.20	0.1891	1
+Melanostigma_gelatinosum	Teleostei: Acanthomorpha	11	14	23	16.0	19.19	0.6368	1
+Meleagris_gallopavo	Aves	28	0	4	11.0	15.10	0.1692	1
+Meles_meles	Eutheria	28	0	4	12.0	17.11	0.2239	1
+Melospiza_georgiana	Aves	28	0	4	11.0	16.40	0.1841	1
+Melospiza_melodia_melodia	Aves	28	0	4	11.0	15.14	0.1592	0
+Melozone_crissalis	Aves	28	0	4	11.0	16.50	0.2289	1
+Meriones_unguiculatus	Eutheria	28	0	4	14.0	18.09	0.2090	1
+Merops_nubicus	Aves	28	0	4	10.5	16.36	0.2189	1
+Mesitornis_unicolor	Aves	28	0	4	10.0	14.41	0.1443	1
+Mesocricetus_auratus	Eutheria	28	0	4	13.0	17.34	0.2139	1
+Microcaecilia_unicolor	Amphibia	27	0	4	12.0	17.29	0.2488	1
+Microcebus_murinus	Eutheria	28	0	4	8.5	14.38	0.1791	1
+Microchirus_variegatus	Teleostei: Acanthomorpha	11	14	23	12.0	17.89	0.5473	1
+Micromys_minutus	Eutheria	28	0	4	12.0	15.61	0.1692	1
+Micropterus_dolomieu	Teleostei: Acanthomorpha	11	14	25	14.0	18.45	0.5821	1
+Micropterus_salmoides	Teleostei: Acanthomorpha	11	14	25	12.0	17.12	0.5473	0
+Microtus_ochrogaster	Eutheria	28	0	4	11.0	15.15	0.1592	1
+Microtus_pennsylvanicus	Eutheria	28	0	4	11.0	15.34	0.1642	0
+Miniopterus_schreibersii	Eutheria	28	0	4	9.0	13.39	0.1294	0
+Mirounga_angustirostris	Eutheria	28	0	4	11.0	15.03	0.1443	1
+Mirounga_leonina	Eutheria	28	0	4	12.0	17.33	0.1940	0
+Misgurnus_anguillicaudatus	Teleostei: Ostariophysi	21	0	11	13.0	16.64	0.3184	1
+Mixophyes_fleayi	Amphibia	27	0	4	10.0	13.68	0.1493	1
+Molothrus_aeneus	Aves	28	0	4	10.0	14.79	0.1592	1
+Molothrus_ater	Aves	28	0	4	12.0	15.96	0.1642	0
+Monodelphis_domestica	Marsupialia	24	74	2	13.0	16.32	0.2488	1
+Monodon_monoceros	Eutheria	28	0	2	11.0	13.94	0.1592	1
+Monopterus_albus	Teleostei: Acanthomorpha	11	0	34	13.0	17.49	0.5970	1
+Moschus_berezovskii	Eutheria	28	0	4	9.0	13.65	0.1692	1
+Motacilla_alba_alba	Aves	28	0	4	11.0	16.36	0.1940	1
+Muntiacus_reevesi	Eutheria	28	0	4	10.5	14.60	0.1741	1
+Mus_caroli	Eutheria	28	0	4	11.0	15.91	0.1940	1
+Mus_musculus	Eutheria	28	0	4	12.5	17.13	0.2139	0
+Mus_pahari	Eutheria	28	0	4	10.0	14.97	0.1393	0
+Mustela_erminea	Eutheria	28	0	4	10.5	15.86	0.1642	1
+Mustela_lutreola	Eutheria	28	0	4	12.0	17.18	0.2090	0
+Mustela_nigripes	Eutheria	28	0	4	11.0	14.65	0.1343	0
+Mustela_nivalis	Eutheria	28	0	4	12.0	15.97	0.1692	0
+Mustela_putorius_furo	Eutheria	28	0	4	10.0	15.40	0.1940	0
+Mycteria_americana	Aves	28	0	4	10.5	15.27	0.1692	1
+Myiozetetes_cayanensis	Aves	28	0	4	11.0	16.05	0.1741	1
+Myodes_glareolus	Eutheria	28	0	4	12.0	16.32	0.1493	1
+Myotis_brandtii	Eutheria	28	0	4	13.5	18.55	0.2239	1
+Myotis_daubentonii	Eutheria	28	0	4	10.0	16.62	0.2040	0
+Myotis_myotis	Eutheria	28	0	4	12.0	17.48	0.1990	0
+Myotis_nattereri	Eutheria	28	0	4	12.0	18.08	0.2139	0
+Myotis_yumanensis	Eutheria	28	0	4	14.0	17.19	0.1791	0
+Myxocyprinus_asiaticus	Teleostei: Ostariophysi	24	1	4	12.0	15.25	0.2289	1
+Nannospalax_galili	Eutheria	28	0	2	11.0	17.79	0.2090	1
+Natator_depressus	Non-avian reptiles	28	0	4	10.0	13.67	0.1194	1
+Natrix_helvetica	Non-avian reptiles	28	0	4	7.0	10.31	0.0697	1
+Nematolebias_whitei	Teleostei: Acanthomorpha	11	4	23	11.5	17.67	0.5423	1
+Neogale_vison	Eutheria	28	0	4	12.0	15.86	0.1741	1
+Neopelma_chrysocephalum	Aves	28	0	4	12.0	15.27	0.1592	1
+Neophocaena_asiaeorientalis_asiaeorientalis	Eutheria	28	0	2	9.0	13.36	0.1343	1
+Neopsephotus_bourkii	Aves	28	0	4	10.0	14.46	0.1542	1
+Nestor_notabilis	Aves	28	0	4	11.0	15.62	0.1692	1
+Netta_rufina	Aves	28	0	4	12.0	17.34	0.1841	1
+Nipponia_nippon	Aves	28	0	4	11.0	16.27	0.1741	1
+Nomascus_leucogenys	Eutheria	28	0	4	11.0	14.17	0.1493	1
+Nothobranchius_furzeri	Teleostei: Acanthomorpha	11	6	43	14.0	18.85	0.6070	1
+Numenius_arquata	Aves	28	0	4	11.0	15.37	0.1692	1
+Numida_meleagris	Aves	28	0	4	9.0	14.01	0.1592	1
+Nyctereutes_procyonoides	Eutheria	28	0	4	13.0	18.71	0.2239	1
+Nyctibius_grandis	Aves	28	0	4	12.0	15.84	0.1592	1
+Nycticebus_coucang	Eutheria	28	0	4	11.0	16.41	0.1692	1
+Ochotona_curzoniae	Eutheria	27	0	2	9.5	15.44	0.2090	1
+Odobenus_rosmarus_divergens	Eutheria	28	0	4	11.0	18.25	0.2537	1
+Odocoileus_virginianus	Eutheria	28	0	4	13.0	15.83	0.1542	1
+Odontesthes_bonariensis	Teleostei: Acanthomorpha	11	14	23	11.0	16.04	0.5323	1
+Oenanthe_melanoleuca	Aves	28	0	4	11.0	15.35	0.1542	1
+Oncorhynchus_gorbuscha	Teleostei: other	28	0	15	10.5	15.03	0.1642	0
+Oncorhynchus_kisutch	Teleostei: other	28	0	15	10.0	14.01	0.1194	0
+Oncorhynchus_tshawytscha	Teleostei: other	28	0	15	11.0	15.07	0.1542	1
+Onychomys_torridus	Eutheria	28	0	4	13.0	17.75	0.2040	1
+Onychostoma_macrolepis	Teleostei: Ostariophysi	24	0	4	14.0	17.32	0.2090	1
+Onychostruthus_taczanowskii	Aves	28	0	4	10.0	14.99	0.1692	1
+Opisthocomus_hoazin	Aves	28	0	4	11.0	14.95	0.1791	1
+Orcinus_orca	Eutheria	28	0	2	10.0	15.59	0.2040	1
+Oryctolagus_cuniculus	Eutheria	28	0	4	10.5	13.46	0.1244	1
+Oryx_dammah	Eutheria	28	0	4	10.0	14.75	0.1642	1
+Oryzias_latipes	Teleostei: Acanthomorpha	11	84	37	10.5	14.93	0.5025	1
+Oryzias_melastigma	Teleostei: Acanthomorpha	11	47	19	12.0	16.96	0.5423	0
+Osmerus_eperlanus	Teleostei: other	28	0	15	13.0	17.30	0.2338	1
+Osmerus_mordax	Teleostei: other	28	0	15	12.0	17.41	0.1791	0
+Ovis_canadensis	Eutheria	28	0	4	11.0	15.35	0.1940	1
+Oxyura_jamaicensis	Aves	28	0	4	10.0	14.52	0.1493	1
+Pan_paniscus	Eutheria	28	0	4	11.0	15.89	0.1990	1
+Pan_troglodytes	Eutheria	28	0	4	10.0	14.54	0.1642	0
+Pangasianodon_hypophthalmus	Teleostei: Ostariophysi	26	1	4	9.5	14.61	0.1891	1
+Panthera_leo	Eutheria	28	0	4	12.0	17.05	0.2139	1
+Panthera_onca	Eutheria	28	0	4	12.0	17.14	0.1791	0
+Panthera_pardus	Eutheria	28	0	4	11.0	15.52	0.1692	0
+Panthera_tigris	Eutheria	28	0	4	12.0	16.59	0.1642	0
+Panthera_uncia	Eutheria	28	0	4	10.0	16.61	0.1791	0
+Pantherophis_guttatus	Non-avian reptiles	28	0	4	9.0	12.23	0.1095	1
+Papio_anubis	Eutheria	28	0	4	9.5	14.43	0.1393	1
+Paralichthys_olivaceus	Teleostei: Acanthomorpha	11	14	58	13.0	20.35	0.6070	1
+Paramisgurnus_dabryanus	Teleostei: Ostariophysi	24	0	4	10.5	17.02	0.2985	1
+Paroedura_picta	Non-avian reptiles	28	0	4	9.5	13.76	0.1393	1
+Parus_major	Aves	28	0	4	12.0	17.07	0.1891	1
+Passer_domesticus	Aves	28	0	4	9.0	14.57	0.1791	1
+Passer_montanus	Aves	28	0	4	9.0	13.60	0.1443	0
+Patagioenas_fasciata	Aves	28	0	4	12.0	15.78	0.1642	1
+Pelobates_fuscus	Amphibia	26	0	4	11.0	14.87	0.1791	1
+Pelodiscus_sinensis	Non-avian reptiles	28	0	4	11.5	14.79	0.1493	1
+Pelophylax_lessonae	Amphibia	27	0	23	10.0	14.14	0.1542	1
+Perca_flavescens	Teleostei: Acanthomorpha	11	14	19	12.5	17.56	0.5522	0
+Perca_fluviatilis	Teleostei: Acanthomorpha	11	14	19	11.0	16.54	0.5274	1
+Periophthalmus_magnuspinnatus	Teleostei: Acanthomorpha	11	6	15	13.0	17.89	0.5821	1
+Peromyscus_californicus_insignis	Eutheria	28	0	4	12.0	15.80	0.1542	0
+Peromyscus_leucopus	Eutheria	28	0	4	12.0	15.65	0.1791	0
+Peromyscus_maniculatus_bairdii	Eutheria	28	0	4	11.5	15.91	0.1940	1
+Petaurus_breviceps_papuanus	Marsupialia	24	34	4	12.0	16.70	0.2637	1
+Petromyzon_marinus	Cyclostomata	28	33	51	18.0	25.68	0.3284	1
+Pezoporus_flaviventris	Aves	28	0	4	9.0	14.00	0.1542	1
+Pezoporus_occidentalis	Aves	28	0	4	11.5	15.67	0.1841	0
+Pezoporus_wallicus	Aves	28	0	4	13.0	17.52	0.1940	0
+Phacochoerus_africanus	Eutheria	28	0	4	10.5	15.77	0.1642	1
+Phaethon_aethereus	Aves	28	0	4	10.0	14.40	0.1642	1
+Phaethon_lepturus	Aves	28	0	4	13.0	16.72	0.1841	0
+Phalacrocorax_aristotelis	Aves	28	0	4	12.0	16.38	0.1891	1
+Phalacrocorax_carbo	Aves	28	0	4	11.0	15.12	0.1642	0
+Phascolarctos_cinereus	Marsupialia	24	34	4	13.0	17.39	0.2587	1
+Phasianus_colchicus	Aves	28	0	4	12.0	15.72	0.1443	1
+Phoca_vitulina	Eutheria	28	0	4	11.0	14.62	0.1443	1
+Phocoena_phocoena	Eutheria	28	0	2	11.0	14.65	0.1493	1
+Phocoena_sinus	Eutheria	28	0	2	11.0	14.97	0.1642	0
+Phoxinus_phoxinus	Teleostei: Ostariophysi	16	0	4	11.0	16.55	0.3682	1
+Phycodurus_eques	Teleostei: Acanthomorpha	11	14	37	12.0	16.46	0.5473	1
+Phyllobates_terribilis	Amphibia	24	0	8	10.0	14.11	0.1592	1
+Phyllopteryx_taeniolatus	Teleostei: Acanthomorpha	11	41	37	10.0	15.53	0.4876	1
+Phyllostomus_discolor	Eutheria	28	0	4	11.0	14.79	0.1642	1
+Phyllostomus_hastatus	Eutheria	28	0	4	10.0	15.12	0.1642	0
+Physeter_macrocephalus	Eutheria	28	0	2	9.0	13.27	0.1294	1
+Piliocolobus_tephrosceles	Eutheria	28	0	4	10.0	15.11	0.1592	1
+Pimephales_promelas	Teleostei: Ostariophysi	21	0	4	12.0	16.52	0.2687	1
+Pipistrellus_hanaki	Eutheria	28	0	29	11.0	19.89	0.2488	1
+Pipra_filicauda	Aves	28	0	4	11.0	15.76	0.1592	1
+Pithys_albifrons_albifrons	Aves	28	0	4	12.0	17.08	0.2090	1
+Platichthys_flesus	Teleostei: Acanthomorpha	11	29	23	17.0	23.36	0.6517	1
+Plecotus_auritus	Eutheria	28	0	4	14.5	17.89	0.2338	1
+Pleuronectes_platessa	Teleostei: Acanthomorpha	11	32	23	16.0	21.77	0.6169	1
+Podarcis_bocagei	Non-avian reptiles	28	0	4	14.0	18.96	0.2338	1
+Podarcis_cretensis	Non-avian reptiles	28	0	4	11.0	16.17	0.1542	0
+Podarcis_erhardii	Non-avian reptiles	28	0	4	11.0	15.84	0.2090	0
+Podarcis_filfolensis	Non-avian reptiles	28	0	4	12.0	16.32	0.1891	0
+Podarcis_gaigeae	Non-avian reptiles	28	0	4	10.5	16.05	0.1841	0
+Podarcis_liolepis	Non-avian reptiles	28	0	4	14.0	19.03	0.2537	0
+Podarcis_melisellensis	Non-avian reptiles	28	0	4	13.0	17.32	0.1940	0
+Podarcis_muralis	Non-avian reptiles	28	0	4	12.5	18.09	0.2040	0
+Podarcis_pityusensis	Non-avian reptiles	28	0	4	11.5	15.37	0.1841	0
+Podarcis_raffonei	Non-avian reptiles	28	0	4	11.0	16.16	0.1940	0
+Podarcis_tiliguerta	Non-avian reptiles	28	0	4	10.0	16.41	0.1791	0
+Podarcis_vaucheri	Non-avian reptiles	28	0	4	14.0	17.52	0.1940	0
+Poecile_atricapillus	Aves	28	0	4	9.5	14.54	0.1741	1
+Poecilia_formosa	Teleostei: Acanthomorpha	11	32	47	16.0	20.25	0.6269	1
+Poecilia_latipinna	Teleostei: Acanthomorpha	11	32	47	14.0	20.49	0.6020	0
+Poecilia_mexicana	Teleostei: Acanthomorpha	11	32	47	14.0	19.25	0.6119	0
+Poecilia_reticulata	Teleostei: Acanthomorpha	11	53	46	16.0	23.30	0.6368	0
+Poeciliopsis_prolifica	Teleostei: Acanthomorpha	11	31	46	12.0	16.05	0.5522	1
+Pogona_vitticeps	Non-avian reptiles	28	0	4	12.0	19.38	0.2388	1
+Pogoniulus_pusillus	Aves	28	0	4	15.0	20.07	0.2687	1
+Polyodon_spathula	Actinopterygii: non-teleost	28	0	8	10.0	16.41	0.1692	1
+Polypterus_senegalus	Actinopterygii: non-teleost	28	0	11	9.0	13.88	0.1343	1
+Pongo_abelii	Eutheria	28	0	4	10.5	14.35	0.1393	0
+Pongo_pygmaeus	Eutheria	28	0	4	11.0	15.41	0.1493	1
+Prinia_subflava	Aves	28	0	4	12.0	15.85	0.1741	1
+Prionailurus_bengalensis	Eutheria	28	0	4	13.0	16.66	0.1891	1
+Protopterus_annectens	Sarcopterygian fishes	28	0	4	9.0	13.09	0.1294	1
+Psammomys_obesus	Eutheria	28	0	4	12.0	16.71	0.1891	1
+Pseudoliparis_swirei	Teleostei: Acanthomorpha	11	14	6	18.0	24.73	0.6617	1
+Pseudonaja_textilis	Non-avian reptiles	28	0	4	10.0	12.59	0.1095	1
+Pseudophryne_corroboree	Amphibia	28	0	4	8.0	12.35	0.0995	1
+Pseudopipra_pipra	Aves	28	0	4	11.5	16.09	0.1940	1
+Pseudopodoces_humilis	Aves	28	0	4	11.0	15.48	0.1642	1
+Pseudorasbora_parva	Teleostei: Ostariophysi	24	0	4	10.5	16.65	0.2488	1
+Pseudorca_crassidens	Eutheria	28	0	2	11.0	15.63	0.1493	1
+Psittacula_echo	Aves	28	0	4	10.0	15.01	0.1891	1
+Pterocles_gutturalis	Aves	28	0	4	10.0	15.21	0.2090	1
+Pteronotus_mesoamericanus	Eutheria	28	0	4	10.0	14.23	0.1294	1
+Pungitius_pungitius	Teleostei: Acanthomorpha	11	14	66	15.0	20.30	0.6119	1
+Puntigrus_tetrazona	Teleostei: Ostariophysi	24	0	4	12.5	19.95	0.3085	1
+Pygocentrus_nattereri	Teleostei: Ostariophysi	26	0	4	11.0	14.04	0.1692	1
+Pygoscelis_adeliae	Aves	28	0	4	12.0	16.50	0.1990	1
+Pyrgilauda_ruficollis	Aves	28	0	4	10.0	16.62	0.1891	1
+Pyxicephalus_adspersus	Amphibia	27	0	23	10.0	13.99	0.1343	1
+Raja_brachyura	Chondrichthyes	28	9	11	13.0	16.98	0.1940	1
+Rana_temporaria	Amphibia	28	0	24	10.5	13.79	0.1294	1
+Ranitomeya_imitator	Amphibia	24	0	8	11.0	14.80	0.1791	1
+Ranitomeya_variabilis	Amphibia	24	0	8	11.0	14.29	0.1940	0
+Rattus_norvegicus	Eutheria	28	0	4	12.0	15.21	0.1741	0
+Rhea_pennata	Aves	28	0	4	9.0	12.78	0.1045	0
+Rhineura_floridana	Non-avian reptiles	28	0	4	10.0	13.48	0.1443	1
+Rhinichthys_klamathensis_goyatoka	Teleostei: Ostariophysi	21	0	4	13.0	18.07	0.2985	1
+Rhinoderma_darwinii	Amphibia	25	0	9	11.0	14.48	0.1891	1
+Rhinolophus_hipposideros	Eutheria	28	0	2	10.0	15.41	0.1692	0
+Rhinolophus_sinicus	Eutheria	28	0	2	8.0	11.41	0.0796	0
+Rhinopithecus_bieti	Eutheria	28	0	4	11.0	14.21	0.1343	1
+Rhinopithecus_roxellana	Eutheria	28	0	4	10.0	13.53	0.1244	0
+Rhinoraja_longicauda	Chondrichthyes	28	0	10	11.0	15.72	0.1542	1
+Rissa_tridactyla	Aves	28	0	4	12.0	14.96	0.1592	1
+Rousettus_aegyptiacus	Eutheria	28	0	2	9.0	14.14	0.1642	1
+Rutilus_rutilus	Teleostei: Ostariophysi	21	0	4	11.0	17.01	0.2985	1
+Saccopteryx_bilineata	Eutheria	28	0	4	10.0	14.95	0.1741	1
+Saccopteryx_leptura	Eutheria	28	0	4	9.0	13.54	0.1294	0
+Sagmatias_obliquidens	Eutheria	28	0	2	9.5	15.48	0.1990	1
+Saimiri_boliviensis	Eutheria	28	0	4	8.0	11.88	0.0995	1
+Salminus_brasiliensis	Teleostei: Ostariophysi	26	0	4	13.0	18.67	0.2836	1
+Sander_lucioperca	Teleostei: Acanthomorpha	11	14	19	11.0	16.18	0.5174	1
+Sander_vitreus	Teleostei: Acanthomorpha	11	14	19	11.0	16.32	0.5373	0
+Sapajus_apella	Eutheria	28	0	4	10.5	13.76	0.1343	1
+Sarcophilus_harrisii	Marsupialia	24	33	4	11.0	15.03	0.1940	1
+Scardinius_erythrophthalmus	Teleostei: Ostariophysi	21	0	4	11.0	17.25	0.2935	1
+Sciurus_carolinensis	Eutheria	28	0	2	11.0	15.91	0.1940	1
+Sciurus_vulgaris	Eutheria	28	0	2	10.0	14.60	0.1393	0
+Scophthalmus_maximus	Teleostei: Acanthomorpha	11	14	27	16.0	21.41	0.6468	1
+Scyliorhinus_canicula	Chondrichthyes	28	0	4	15.0	19.86	0.2338	1
+Serinus_canaria	Aves	28	0	4	11.0	15.80	0.1891	1
+Seriola_aureovittata	Teleostei: Acanthomorpha	11	37	8	11.0	16.35	0.5075	1
+Seriola_dumerili	Teleostei: Acanthomorpha	11	37	8	12.0	17.28	0.5423	0
+Seriola_lalandi_dorsalis	Teleostei: Acanthomorpha	11	37	8	12.5	17.25	0.5473	0
+Siniperca_chuatsi	Teleostei: Acanthomorpha	11	14	36	12.0	15.91	0.5373	1
+Sinocyclocheilus_anshuiensis	Teleostei: Ostariophysi	24	0	4	11.0	16.96	0.2537	1
+Sinocyclocheilus_grahami	Teleostei: Ostariophysi	24	0	4	11.0	15.59	0.2040	0
+Sinocyclocheilus_rhinocerous	Teleostei: Ostariophysi	24	0	4	12.5	17.46	0.2836	0
+Siphateles_boraxobius	Teleostei: Ostariophysi	21	0	4	13.0	18.18	0.2836	1
+Sminthopsis_crassicaudata	Marsupialia	24	34	4	11.0	14.62	0.1940	1
+Solea_senegalensis	Teleostei: Acanthomorpha	11	14	51	14.0	17.73	0.5920	1
+Sorex_araneus	Eutheria	28	0	4	9.0	12.82	0.1144	1
+Spermophilus_citellus	Eutheria	28	0	2	10.5	13.94	0.1393	1
+Sphaerodactylus_townsendi	Non-avian reptiles	28	0	4	10.0	13.12	0.1294	1
+Squalius_cephalus	Teleostei: Ostariophysi	21	0	4	14.0	17.34	0.3184	1
+Stegostoma_tigrinum	Chondrichthyes	25	0	8	14.0	19.67	0.2836	1
+Stigmatopora_argus	Teleostei: Acanthomorpha	5	6	9	10.0	13.40	0.7313	1
+Stigmatopora_nigra	Teleostei: Acanthomorpha	2	5	8	9.0	13.65	0.9055	0
+Streptopelia_decaocto	Aves	28	0	4	11.0	16.34	0.1940	1
+Strix_aluco	Aves	28	0	4	12.5	15.74	0.1741	1
+Strix_uralensis	Aves	28	0	4	11.5	15.15	0.1692	0
+Struthio_camelus	Aves	28	0	4	12.0	15.93	0.1940	1
+Sturnira_hondurensis	Eutheria	28	0	4	10.0	14.51	0.1542	1
+Sturnus_vulgaris	Aves	28	0	4	12.0	14.97	0.1542	1
+Suncus_etruscus	Eutheria	28	0	4	9.0	13.70	0.1393	1
+Sylvia_atricapilla	Aves	28	0	4	12.0	15.03	0.1493	1
+Symphodus_melops	Teleostei: Acanthomorpha	11	40	31	15.0	17.98	0.6070	1
+Synchiropus_splendidus	Teleostei: Acanthomorpha	11	6	75	14.5	21.64	0.6219	1
+Syngnathus_acus	Teleostei: Acanthomorpha	9	39	51	12.0	18.12	0.6567	1
+Syngnathus_scovelli	Teleostei: Acanthomorpha	9	53	44	14.0	20.76	0.6617	0
+Tachyglossus_aculeatus	Monotremata	28	0	21	13.0	18.66	0.2637	1
+Tachysurus_fulvidraco	Teleostei: Ostariophysi	24	9	4	10.0	12.94	0.1443	1
+Taeniopygia_guttata	Aves	28	0	4	12.0	15.64	0.1592	1
+Takifugu_flavidus	Teleostei: Acanthomorpha	11	6	33	22.0	33.62	0.7363	1
+Takifugu_rubripes	Teleostei: Acanthomorpha	11	6	49	19.0	27.04	0.6915	0
+Tamandua_tetradactyla	Eutheria	28	0	2	10.0	14.39	0.1841	1
+Tauraco_erythrolophus	Aves	26	0	4	12.0	17.28	0.2189	1
+Taurulus_bubalis	Teleostei: Acanthomorpha	11	14	6	15.0	21.07	0.5970	1
+Terrapene_triunguis	Non-avian reptiles	28	0	4	9.0	13.26	0.1443	1
+Thamnophis_elegans	Non-avian reptiles	28	0	16	8.0	12.51	0.1244	1
+Thamnophis_sirtalis	Non-avian reptiles	28	0	16	8.5	11.65	0.0945	0
+Theropithecus_gelada	Eutheria	28	0	4	10.0	15.29	0.1443	1
+Trachemys_scripta_elegans	Non-avian reptiles	28	0	4	9.0	12.86	0.1144	1
+Trachinotus_anak	Teleostei: Acanthomorpha	11	14	8	10.0	17.89	0.4975	1
+Trachurus_japonicus	Teleostei: Acanthomorpha	11	38	8	14.0	20.04	0.5871	1
+Trachurus_trachurus	Teleostei: Acanthomorpha	11	38	8	11.0	18.20	0.5423	0
+Trachypithecus_francoisi	Eutheria	28	0	4	9.5	13.09	0.1095	1
+Trichosurus_vulpecula	Marsupialia	24	53	4	13.0	17.77	0.2786	1
+Triplophysa_dalaica	Teleostei: Ostariophysi	21	0	4	10.0	14.38	0.2040	1
+Triplophysa_rosa	Teleostei: Ostariophysi	21	0	4	10.0	13.65	0.2289	0
+Tupaia_belangeri_chinensis	Eutheria	28	0	2	13.0	18.82	0.2488	1
+Tursiops_truncatus	Eutheria	28	0	2	12.0	16.20	0.1841	1
+Tympanuchus_pallidicinctus	Aves	28	0	4	11.0	15.13	0.1791	1
+Tyto_alba	Aves	28	0	4	11.0	17.05	0.2139	1
+Ursus_americanus	Eutheria	28	0	4	11.0	15.36	0.1791	1
+Ursus_arctos	Eutheria	28	0	4	10.5	15.47	0.1592	0
+Ursus_maritimus	Eutheria	28	0	4	13.0	16.36	0.1741	0
+Varanus_komodoensis	Non-avian reptiles	28	0	4	13.0	16.75	0.1990	1
+Vicugna_pacos	Eutheria	28	0	4	9.5	14.23	0.1692	1
+Vidua_chalybeata	Aves	28	0	4	9.0	13.81	0.1393	1
+Vidua_macroura	Aves	28	0	4	11.0	15.36	0.1940	0
+Vipera_ursinii	Non-avian reptiles	28	0	4	9.5	14.04	0.1642	0
+Vulpes_lagopus	Eutheria	28	0	4	11.0	17.54	0.2289	1
+Vulpes_vulpes	Eutheria	28	0	4	13.0	21.59	0.2985	0
+Xenopus_laevis	Amphibia	27	0	4	10.0	13.78	0.1194	0
+Xenopus_tropicalis	Amphibia	26	0	3	8.0	12.36	0.1294	1
+Xiphophorus_couchianus	Teleostei: Acanthomorpha	11	4	89	11.0	17.75	0.5323	0
+Xiphophorus_hellerii	Teleostei: Acanthomorpha	11	4	89	13.0	19.15	0.5721	1
+Xiphophorus_maculatus	Teleostei: Acanthomorpha	11	4	89	13.0	20.07	0.5920	0
+Zalophus_californianus	Eutheria	28	0	4	14.0	19.27	0.2388	1
+Zonotrichia_albicollis	Aves	28	0	4	11.0	17.59	0.2139	1
+Zonotrichia_leucophrys_gambelii	Aves	28	0	4	12.0	16.82	0.2040	0
+Zootoca_vivipara	Non-avian reptiles	28	0	4	11.0	14.35	0.1542	1
+Zosterops_lateralis	Aves	28	0	4	11.0	17.23	0.1642	1
