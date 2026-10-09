@@ -1,0 +1,23 @@
+# conda env create -f environment.yml && conda activate aqp4ex
+# Versions are those of the published run (see results_final/final_results.txt, section 0).
+name: aqp4ex
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - hyphy=2.5.101
+  - mafft=7.526
+  - muscle=3.8.1551
+  - prank=v.170427
+  - iqtree=2.0.7
+  - numpy=1.26.4
+  - scipy=1.16.3
+  - pandas=2.2.3
+  - matplotlib=3.8.4
+  - six
+  - pip
+  - pip:
+      - biopython==1.87
+      - ete3==3.1.3
+      - logomaker==0.8.7
