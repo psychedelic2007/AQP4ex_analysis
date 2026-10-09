@@ -1,0 +1,6 @@
+fit	n_taxa	omega_mle	ci95_lower	ci95_upper	logL_max
+ext_mafft	524	0.429732	0.385077	0.477035	-7756.7260
+depth_gnathostomes_ext	521	0.433890	0.389254	0.483028	-7619.3690
+depth_osteichthyans_ext	505	0.433213	0.387060	0.484311	-7079.1539
+depth_tetrapods_ext	383	0.391625	0.341441	0.448836	-4861.4518
+depth_mammals_ext	172	0.334695	0.269335	0.412945	-2021.5445

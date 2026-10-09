@@ -1,0 +1,116 @@
+
+Analysis Description
+--------------------
+FEL (Fixed Effects Likelihood) estimates site-wise synonymous (&alpha;)
+and non-synonymous (&beta;) rates, and uses a likelihood ratio test to
+determine if beta &neq; alpha at a site. The estimates aggregate
+information over all branches, so the signal is derived from pervasive
+diversification or conservation. A subset of branches can be selected
+for testing as well, in which case an additional (nuisance) parameter
+will be inferred -- the non-synonymous rate on branches NOT selected for
+testing. Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. Version 2.5 adds MH support. Version 2.6
+adds substitution mapping. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Not So Different After All: A Comparison of Methods for Detecting Amino
+Acid Sites Under Selection (2005). _Mol Biol Evol_ 22 (5): 1208-1222
+
+- __Written by__: Sergei L Kosakovsky Pond and Simon DW Frost
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.6
+
+
+>code => Universal
+
+-------
+>[WARNING]
+'results_final/aqp4/fel/depth_osteichthyans_ext.fna'
+contains 152 duplicate sequences. Identical sequences do not contribute
+any information to the analysis and only slow down computation. Please
+consider removing duplicate or 'nearly' duplicate sequences, e.g. using
+https://github.com/veg/hyphy-analyses/tree/master/remove-duplicates
+prior to running selection analyses
+-------
+results_final/aqp4/fel/depth_osteichthyans_ext.nwk
+results_final/aqp4/fel/depth_osteichthyans_ext.nwk
+
+>Loaded a multiple sequence alignment with **505** sequences, **59** codons, and **1** partitions from `results_final/aqp4/fel/depth_osteichthyans_ext.fna`
+
+>branches => All
+
+>srv => Yes
+
+>multiple-hits => None
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 
+>pvalue => 0.1
+
+>ci => No
+Only analyze sites whose 1-based indices match the following list (null to skip) : 
+>limit-to-sites => null
+For sites whose 1-based indices match the following list, write out likelihood function snapshots (null string to skip) : 
+>save-lf-for-sites => null
+
+>[Advanced setting, will result in MUCH SLOWER run time] Perform parametric bootstrap resampling to derive site-level null LRT distributions up to this many replicates per site. Recommended use for small to medium (<30 sequences) datasets (permissible range = [0,1000], default value = 50, integer): 
+>resample => 0
+
+
+### Branches to include in the FEL analysis
+Selected 1007 branches to include in FEL calculations: `Abramis_brama, Acanthisitta_chloris, Chiroxiphia_lanceolata, Lepidothrix_coronata, Node45, Manacus_candei, Pipra_filicauda, Pseudopipra_pipra, Node50, Node48, Node44, Corapipo_altera, Node43, Neopelma_chrysocephalum, Node42, Empidonax_traillii, Myiozetetes_cayanensis, Node55, Node41, Pithys_albifrons_albifrons, Node40, Node38, Agelaius_phoeniceus, Molothrus_aeneus, Node69, Ammospiza_caudacuta, Zonotrichia_albicollis, Node74, Melospiza_georgiana, Node73, Melozone_crissalis, Node72, Node68, Camarhynchus_parvulus, Geospiza_fortis, Node79, Node67, Haemorhous_mexicanus, Serinus_canaria, Node82, Node66, Motacilla_alba_alba, Node65, Onychostruthus_taczanowskii, Pyrgilauda_ruficollis, Node87, Passer_domesticus, Node86, Node64, Anomalospiza_imberbis, Lonchura_striata, Taeniopygia_guttata, Node94, Vidua_chalybeata, Node93, Node91, Node63, Chamaea_fasciata, Sylvia_atricapilla, Node102, Zosterops_lateralis, Node101, Prinia_subflava, Node100, Hirundo_rustica, Node99, Cyanistes_caeruleus, Parus_major, Pseudopodoces_humilis, Node112, Node110, Poecile_atricapillus, Node109, Erithacus_rubecula, Ficedula_albicollis, Oenanthe_melanoleuca, Node119, Node117, Sturnus_vulgaris, Node116, Node108, Node98, Node62, Catharus_ustulatus, Node61, Aphelocoma_coerulescens, Coloeus_monedula, Corvus_cornix_cornix, Node126, Node124, Node60, Lichenostomus_cassidix, Malurus_melanocephalus, Node129, Node59, Node37, Cariama_cristata, Node36, Calonectris_borealis, Fulmarus_glacialis, Node133, Node35, Aptenodytes_patagonicus, Pygoscelis_adeliae, Node138, Mycteria_americana, Node137, Apus_apus, Chaetura_pelagica, Node144, Calypte_anna, Heliangelus_exortis, Node147, Node143, Balearica_regulorum_gibbericeps, Grus_americana, Node151, Tauraco_erythrolophus, Node150, Node142, Node136, Node34, Apaloderma_vittatum, Numenius_arquata, Node161, Chroicocephalus_ridibundus, Larus_michahellis, Node165, Rissa_tridactyla, Node164, Node160, Haliaeetus_leucocephalus, Nipponia_nippon, Node169, Node159, Dryobates_pubescens, Melanerpes_formicivorus, Node176, Pogoniulus_pusillus, Node175, Merops_nubicus, Node174, Leptosomus_discolor, Node173, Mesitornis_unicolor, Node172, Node158, Aquila_chrysaetos_chrysaetos, Harpia_harpyja, Node185, Astur_gentilis, Node184, Buteo_buteo, Node183, Node157, Charadrius_vociferus, Phaethon_aethereus, Node191, Gymnogyps_californianus, Phalacrocorax_aristotelis, Node194, Node190, Node156, Chlamydotis_macqueenii, Gallinula_chloropus, Node197, Node155, Node33, Eurypyga_helias, Opisthocomus_hoazin, Node201, Nyctibius_grandis, Node200, Node32, Athene_cunicularia, Strix_aluco, Node206, Tyto_alba, Node205, Node31, Calidris_pugnax, Caloenas_nicobarica, Columba_livia, Streptopelia_decaocto, Node215, Patagioenas_fasciata, Node214, Node212, Node210, Node30, Antrostomus_carolinensis, Colius_striatus, Falco_naumanni, Node221, Node219, Node29, Buceros_rhinoceros_silvestris, Lathamus_discolor, Melopsittacus_undulatus, Pezoporus_flaviventris, Node231, Neopsephotus_bourkii, Psittacula_echo, Node234, Node230, Node228, Nestor_notabilis, Strigops_habroptila, Node237, Node227, Node225, Cuculus_canorus, Phaenicophaeus_curvirostris, Node240, Node224, Node28, Pterocles_gutturalis, Node27, Anas_acuta, Aythya_ferina, Netta_rufina, Node250, Node248, Bucephala_clangula, Node247, Oxyura_jamaicensis, Node246, Anser_anser, Branta_canadensis, Node256, Cygnus_columbianus, Node255, Node245, Centrocercus_urophasianus, Lagopus_leucura, Node266, Tympanuchus_pallidicinctus, Node265, Meleagris_gallopavo, Node264, Phasianus_colchicus, Node263, Coturnix_japonica, Excalfactoria_chinensis, Node273, Gallus_gallus, Node272, Node262, Numida_meleagris, Node261, Cyrtonyx_montezumae, Node260, Node244, Node26, Apteryx_rowi, Nothoprocta_perdicaria, Tinamus_guttatus, Node283, Node281, Rhea_americana, Struthio_camelus, Node286, Node280, Dromaius_novaehollandiae, Node279, Node25, Alligator_mississippiensis, Crocodylus_porosus, Gavialis_gangeticus, Node293, Node291, Caretta_caretta, Lepidochelys_olivacea, Node302, Natator_depressus, Node301, Chelonia_mydas, Node300, Dermochelys_coriacea, Node299, Chelonoidis_abingdonii, Gopherus_evgoodei, Node310, Mauremys_reevesii, Node309, Chrysemys_picta_bellii, Malaclemys_terrapin_pileata, Trachemys_scripta_elegans, Node317, Node315, Terrapene_triunguis, Node314, Node308, Node298, Emydura_macquarii_macquarii, Node297, Carettochelys_insculpta, Pelodiscus_sinensis, Node322, Node296, Node290, Node24, Ahaetulla_prasina, Pantherophis_guttatus, Pituophis_catenifer_annectens, Node338, Node336, Erythrolamprus_reginae, Node335, Natrix_helvetica, Thamnophis_elegans, Node342, Node334, Notechis_scutatus, Pseudonaja_textilis, Node345, Node333, Crotalus_tigris, Protobothrops_mucrosquamatus, Node349, Vipera_berus, Node348, Node332, Candoia_aspera, Node331, Python_bivittatus, Node330, Elgaria_multicarinata_webbii, Heloderma_suspectum, Node356, Varanus_komodoensis, Node355, Node329, Anolis_carolinensis, Sceloporus_undulatus, Node361, Pogona_vitticeps, Node360, Node328, Lacerta_agilis, Zootoca_vivipara, Node367, Podarcis_bocagei, Node366, Rhineura_floridana, Node365, Node327, Hemicordylus_capensis, Node326, Eublepharis_macularius, Euleptes_europaea, Sphaerodactylus_townsendi, Node376, Gekko_japonicus, Heteronotia_binoei, Paroedura_picta, Node381, Node379, Node375, Node373, Node325, Node23, Acinonyx_jubatus, Herpailurus_yagouaroundi, Node399, Lynx_canadensis, Node398, Felis_catus, Prionailurus_bengalensis, Node403, Node397, Leopardus_geoffroyi, Neofelis_nebulosa, Panthera_leo, Node408, Node406, Node396, Suricata_suricatta, Node395, Crocuta_crocuta, Hyaena_hyaena, Node412, Node394, Ailuropoda_melanoleuca, Ursus_americanus, Node418, Callorhinus_ursinus, Zalophus_californianus, Node423, Odobenus_rosmarus_divergens, Node422, Halichoerus_grypus, Leptonychotes_weddellii, Mirounga_angustirostris, Node430, Node428, Phoca_vitulina, Node427, Node421, Node417, Enhydra_lutris_kenyoni, Lutra_lutra, Node438, Lontra_canadensis, Node437, Mustela_erminea, Neogale_vison, Node442, Node436, Meles_meles, Node435, Martes_martes, Node434, Node416, Canis_aureus, Nyctereutes_procyonoides, Vulpes_lagopus, Node449, Node447, Node415, Node393, Artibeus_jamaicensis, Sturnira_hondurensis, Node458, Phyllostomus_discolor, Node457, Desmodus_rotundus, Node456, Pteronotus_mesoamericanus, Node455, Molossus_molossus, Node454, Miniopterus_natalensis, Myotis_brandtii, Pipistrellus_hanaki, Plecotus_auritus, Node470, Node468, Node466, Saccopteryx_bilineata, Node465, Node453, Hipposideros_armiger, Rhinolophus_ferrumequinum, Node475, Pteropus_alecto, Rousettus_aegyptiacus, Node478, Node474, Node452, Node392, Balaenoptera_acutorostrata, Delphinapterus_leucas, Monodon_monoceros, Node492, Delphinus_delphis, Grampus_griseus, Node498, Globicephala_melas, Pseudorca_crassidens, Node501, Node497, Orcinus_orca, Node496, Lagenorhynchus_albirostris, Sagmatias_obliquidens, Tursiops_truncatus, Node507, Node505, Node495, Node491, Neophocaena_asiaeorientalis_asiaeorientalis, Phocoena_phocoena, Node510, Node490, Lipotes_vexillifer, Node489, Kogia_breviceps, Physeter_macrocephalus, Node514, Node488, Node486, Bison_bison_bison, Bos_indicus, Node520, Bubalus_bubalis, Capra_hircus, Ovis_canadensis, Node526, Oryx_dammah, Node525, Node523, Node519, Cervus_canadensis, Muntiacus_reevesi, Node532, Odocoileus_virginianus, Node531, Giraffa_tippelskirchi, Node530, Node518, Moschus_berezovskii, Node517, Node485, Hippopotamus_amphibius_kiboko, Node484, Camelus_bactrianus, Vicugna_pacos, Node539, Node483, Phacochoerus_africanus, Node482, Manis_javanica, Node481, Node391, Ceratotherium_simum_simum, Diceros_bicornis_minor, Node545, Equus_asinus, Node544, Node390, Erinaceus_europaeus, Node389, Condylura_cristata, Talpa_occidentalis, Node551, Sorex_araneus, Suncus_etruscus, Node554, Node550, Node388, Acomys_minous, Meriones_unguiculatus, Psammomys_obesus, Node569, Node567, Apodemus_sylvaticus, Mastomys_coucha, Node574, Micromys_minutus, Mus_caroli, Node577, Node573, Arvicanthis_niloticus, Node572, Node566, Alexandromys_fortis, Microtus_ochrogaster, Node584, Chionomys_nivalis, Node583, Myodes_glareolus, Node582, Mesocricetus_auratus, Phodopus_roborovskii, Node590, Onychomys_torridus, Peromyscus_maniculatus_bairdii, Node593, Node589, Node581, Node565, Nannospalax_galili, Node564, Jaculus_jaculus, Node563, Cavia_porcellus, Chinchilla_lanigera, Node600, Octodon_degus, Node599, Fukomys_damarensis, Heterocephalus_glaber, Node604, Node598, Node562, Castor_canadensis, Dipodomys_merriami, Perognathus_longimembris_pacificus, Node609, Node607, Node561, Callospermophilus_lateralis, Ictidomys_tridecemlineatus, Spermophilus_citellus, Node617, Urocitellus_parryii, Node616, Marmota_flaviventris, Node615, Node613, Sciurus_carolinensis, Node612, Node560, Cynocephalus_volans, Galeopterus_variegatus, Node623, Node559, Aotus_nancymaae, Cebus_imitator, Sapajus_apella, Node634, Node632, Saimiri_boliviensis, Node631, Callithrix_jacchus, Node630, Cercocebus_atys, Theropithecus_gelada, Node644, Papio_anubis, Node643, Macaca_fascicularis, Mandrillus_leucophaeus, Node648, Node642, Chlorocebus_sabaeus, Node641, Colobus_angolensis_palliatus, Piliocolobus_tephrosceles, Node653, Rhinopithecus_bieti, Trachypithecus_francoisi, Node656, Node652, Node640, Gorilla_gorilla_gorilla, Homo_sapiens, Pan_paniscus, Node663, Node661, Pongo_pygmaeus, Node660, Hylobates_moloch, Nomascus_leucogenys, Symphalangus_syndactylus, Node669, Node667, Node659, Node639, Node629, Carlito_syrichta, Node628, Eulemur_rufifrons, Lemur_catta, Node675, Microcebus_murinus, Propithecus_coquereli, Node678, Node674, Nycticebus_coucang, Otolemur_garnettii, Node681, Node673, Node627, Tupaia_belangeri_chinensis, Node626, Node558, Ochotona_curzoniae, Oryctolagus_cuniculus, Node685, Node557, Node387, Choloepus_didactylus, Tamandua_tetradactyla, Node689, Chrysochloris_asiatica, Echinops_telfairi, Elephantulus_edwardii, Node695, Node693, Elephas_maximus_indicus, Loxodonta_africana, Node699, Trichechus_manatus_latirostris, Node698, Node692, Node688, Node386, Ornithorhynchus_anatinus, Tachyglossus_aculeatus, Node703, Node385, Antechinus_flavipes, Sarcophilus_harrisii, Node711, Sminthopsis_crassicaudata, Node710, Macrotis_lagotis, Phascolarctos_cinereus, Node715, Node709, Notamacropus_eugenii, Petaurus_breviceps_papuanus, Trichosurus_vulpecula, Node720, Node718, Node708, Dromiciops_gliroides, Node707, Gracilinanus_agilis, Monodelphis_domestica, Node724, Node706, Node384, Node22, Anomaloglossus_baeobatrachus, Dendrobates_tinctorius, Ranitomeya_imitator, Node742, Phyllobates_terribilis, Node741, Node739, Leptodactylus_fuscus, Node738, Eleutherodactylus_coqui, Node737, Bufo_bufo, Rhinoderma_darwinii, Node748, Node736, Engystomops_pustulosus, Node735, Dendropsophus_ebraccatus, Hyla_sarda, Node752, Node734, Crinia_signifera, Pseudophryne_corroboree, Node756, Mixophyes_fleayi, Node755, Node733, Aquarana_catesbeiana, Lithobates_pipiens, Node765, Rana_temporaria, Node764, Pelophylax_lessonae, Node763, Nanorana_parkeri, Node762, Pyxicephalus_adspersus, Node761, Hyperolius_riggenbachi, Node760, Node732, Pelobates_fuscus, Spea_bombifrons, Node773, Node731, Xenopus_tropicalis, Node730, Bombina_bombina, Node729, Ascaphus_truei, Node728, Geotrypetes_seraphini, Microcaecilia_unicolor, Node780, Rhinatrema_bivittatum, Node779, Node727, Node21, Lissotriton_helveticus, Node20, Protopterus_annectens, Node19, Latimeria_chalumnae, Node18, Acipenser_ruthenus, Polyodon_spathula, Node788, Erpetoichthys_calabaricus, Polypterus_senegalus, Node791, Node787, Node17, Amia_ocellicauda, Lepisosteus_oculatus, Node794, Node16, Acanthochromis_polyacanthus, Amphiprion_ocellaris, Node806, Austrofundulus_limnaeus, Nematolebias_whitei, Node816, Kryptolebias_marmoratus, Node815, Nothobranchius_furzeri, Node814, Cyprinodon_tularosa, Gambusia_affinis, Xiphophorus_hellerii, Node827, Poeciliopsis_prolifica, Node826, Poecilia_formosa, Node825, Node823, Girardinichthys_multiradiatus, Node822, Fundulus_heteroclitus, Node821, Node813, Oryzias_latipes, Node812, Cololabis_saira, Node811, Leuresthes_tenuis, Odontesthes_bonariensis, Node836, Node810, Brachyistius_frenatus, Embiotoca_jacksoni, Node839, Node809, Node805, Anabas_testudineus, Channa_argus, Node844, Mastacembelus_armatus, Node843, Cynoglossus_semilaevis, Microchirus_variegatus, Solea_senegalensis, Node852, Node850, Hippoglossus_hippoglossus, Platichthys_flesus, Pleuronectes_platessa, Node859, Node857, Paralichthys_olivaceus, Node856, Scophthalmus_maximus, Node855, Node849, Seriola_aureovittata, Trachinotus_anak, Trachurus_japonicus, Node866, Node864, Node848, Node842, Node804, Micropterus_dolomieu, Siniperca_chuatsi, Node869, Node803, Ammodytes_marinus, Gouania_willdenowi, Node874, Antennarius_striatus, Node873, Anarrhichthys_ocellatus, Melanostigma_gelatinosum, Node883, Clinocottus_analis, Pseudoliparis_swirei, Node886, Node882, Gasterosteus_aculeatus, Pungitius_pungitius, Node890, Taurulus_bubalis, Node889, Node881, Anoplopoma_fimbria, Node880, Etheostoma_cragini, Perca_fluviatilis, Sander_lucioperca, Node897, Node895, Node879, Aulonocara_stuartgranti, Copadichromis_virginalis, Rhamphochromis_longiceps, Node903, Node901, Monopterus_albus, Node900, Node878, Node872, Node802, Labrus_bergylta, Symphodus_melops, Node907, Node801, Acanthopagrus_latus, Node800, Blennius_ocellaris, Lipophrys_pholis, Node913, Boleophthalmus_pectinirostris, Periophthalmus_magnuspinnatus, Node918, Eucyclogobius_newberryi, Node917, Gobius_niger, Node916, Node912, Phycodurus_eques, Phyllopteryx_taeniolatus, Node926, Vanacampus_margaritifer, Node925, Synchiropus_splendidus, Node924, Takifugu_flavidus, Node923, Node911, Node799, Genypterus_blacodes, Node798, Lampris_incognitus, Node797, Node15, Megalops_cyprinoides, Node14, Anguilla_anguilla, Node13, Hypomesus_transpacificus, Osmerus_eperlanus, Node937, Oncorhynchus_tshawytscha, Node936, Node12, Alosa_alosa, Node11, Astyanax_mexicanus, Salminus_brasiliensis, Node945, Colossoma_macropomum, Pygocentrus_nattereri, Node948, Node944, Hoplias_malabaricus, Node943, Clarias_gariepinus, Pangasianodon_hypophthalmus, Node954, Ictalurus_furcatus, Silurus_aristotelis, Node957, Node953, Hemibagrus_wyckioides, Tachysurus_fulvidraco, Node960, Node952, Node942, Node10, Barbatula_barbatula, Triplophysa_dalaica, Node965, Misgurnus_anguillicaudatus, Paramisgurnus_dabryanus, Node968, Node964, Myxocyprinus_asiaticus, Xyrauchen_texanus, Node971, Node963, Node9, Carassius_carassius, Cyprinus_carpio, Node978, Sinocyclocheilus_anshuiensis, Node977, Onychostoma_macrolepis, Puntigrus_tetrazona, Node982, Node976, Garra_rufa, Labeo_rohita, Node985, Node975, Danio_aesculapii, Node974, Node8, Chanodichthys_erythropterus, Megalobrama_amblycephala, Node990, Ctenopharyngodon_idella, Node989, Node7, Gobio_gobio, Pseudorasbora_parva, Node994, Node6, Siphateles_boraxobius, Node5, Pimephales_promelas, Rhinichthys_klamathensis_goyatoka, Node998, Node4, Phoxinus_phoxinus, Node3, Leuciscus_leuciscus, Rutilus_rutilus, Node1002, Node2, Scardinius_erythrophthalmus, Squalius_cephalus, Node1005`
+
+>precision => standard
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+
+>kill-zero-lengths => Yes
+
+### Deleted 309 zero-length internal branches: `Node100, Node1002, Node1005, Node101, Node102, Node108, Node110, Node112, Node117, Node124, Node126, Node129, Node136, Node137, Node143, Node15, Node155, Node156, Node157, Node158, Node159, Node160, Node161, Node164, Node165, Node169, Node172, Node173, Node174, Node176, Node184, Node185, Node190, Node191, Node194, Node197, Node2, Node201, Node210, Node214, Node219, Node221, Node224, Node225, Node228, Node230, Node231, Node234, Node244, Node245, Node246, Node247, Node248, Node250, Node255, Node256, Node261, Node262, Node263, Node264, Node265, Node266, Node272, Node279, Node280, Node281, Node286, Node29, Node290, Node291, Node298, Node299, Node3, Node30, Node301, Node308, Node309, Node31, Node314, Node317, Node32, Node326, Node328, Node329, Node33, Node331, Node334, Node335, Node34, Node342, Node345, Node348, Node349, Node35, Node36, Node360, Node361, Node365, Node367, Node37, Node375, Node38, Node385, Node388, Node389, Node390, Node391, Node392, Node393, Node394, Node395, Node397, Node398, Node399, Node4, Node40, Node403, Node406, Node408, Node416, Node417, Node423, Node427, Node428, Node43, Node430, Node434, Node435, Node436, Node438, Node44, Node442, Node449, Node45, Node452, Node453, Node454, Node456, Node457, Node458, Node465, Node474, Node48, Node481, Node483, Node484, Node485, Node488, Node490, Node491, Node492, Node495, Node496, Node497, Node498, Node5, Node50, Node501, Node505, Node507, Node510, Node514, Node518, Node519, Node523, Node526, Node530, Node531, Node532, Node544, Node55, Node550, Node559, Node560, Node563, Node566, Node572, Node573, Node574, Node577, Node589, Node590, Node60, Node607, Node61, Node613, Node615, Node617, Node62, Node626, Node627, Node628, Node63, Node630, Node631, Node632, Node634, Node64, Node641, Node642, Node643, Node644, Node648, Node65, Node652, Node653, Node656, Node659, Node66, Node660, Node661, Node663, Node669, Node675, Node678, Node68, Node69, Node692, Node693, Node695, Node698, Node7, Node708, Node709, Node710, Node711, Node715, Node718, Node72, Node720, Node724, Node729, Node73, Node733, Node737, Node74, Node742, Node748, Node773, Node794, Node8, Node800, Node801, Node802, Node803, Node804, Node809, Node810, Node811, Node812, Node813, Node814, Node816, Node821, Node822, Node823, Node825, Node827, Node836, Node839, Node842, Node843, Node848, Node849, Node850, Node852, Node855, Node856, Node857, Node859, Node86, Node866, Node869, Node87, Node872, Node873, Node878, Node879, Node880, Node881, Node882, Node883, Node889, Node897, Node900, Node903, Node907, Node91, Node911, Node912, Node917, Node918, Node923, Node924, Node93, Node94, Node944, Node948, Node953, Node954, Node974, Node975, Node976, Node977, Node98, Node985, Node989, Node99, Node998`
+* Log(L) = -7202.62, AIC-c = 16458.57 (1015 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site) 25.821
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -7091.09, AIC-c = 15643.19 (713 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site) 26.164
+* non-synonymous/synonymous rate ratio for *test* =   0.4620
+
+>full-model => Yes
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -7079.15, AIC-c = 15619.32 (713 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site) 26.121
+* non-synonymous/synonymous rate ratio for *test* =   0.4332
+
+PROFILE FEL_MLE 0.4332130654663653 -7079.153965532659
+PROFILE MLE 0.4332130654663653 -7079.153944301485
+PROFILE POINT 0.324909799099774 -7091.786092206587
+PROFILE POINT 0.3790614322830697 -7081.858699189306
+PROFILE POINT 0.4061372488747175 -7079.778306479478
+PROFILE POINT 0.3925993405788936 -7080.615875672922
+PROFILE POINT 0.3858303864309816 -7081.187986246679
+PROFILE POINT 0.3892148635049376 -7080.888273238682
+PROFILE POINT 0.3875226249679596 -7081.032792263624
+PROFILE POINT 0.3866765056994707 -7081.108464095502
+PROFILE POINT 0.3870995653337151 -7081.070329998967
+PROFILE POINT 0.3868880355165929 -7081.089328357346
+PROFILE POINT 0.386993800425154 -7081.079712732198
+PROFILE POINT 0.3870466828794346 -7081.074988831419
+PROFILE POINT 0.3870731241065749 -7081.072635266827
+PROFILE POINT 0.5415163318329566 -7086.782484041265
+PROFILE POINT 0.4873646986496609 -7081.296090999199
+PROFILE POINT 0.4602888820580131 -7079.729565120106
+PROFILE POINT 0.473826790353837 -7080.397788533631
+PROFILE POINT 0.480595744501749 -7080.820603110605
+PROFILE POINT 0.483980221575705 -7081.051209656345
+PROFILE POINT 0.4856724601126829 -7081.172481985098
+PROFILE POINT 0.484826340844194 -7081.111529788137
+PROFILE POINT 0.4844032812099495 -7081.08122974245
+PROFILE POINT 0.4841917513928272 -7081.06620604213
+PROFILE POINT 0.4842975163013883 -7081.073213972792
+PROFILE POINT 0.4843503987556689 -7081.077000907242
+PROFILE POINT 0.4843239575285286 -7081.075116019719
+PROFILE CI 0.3870599034930047 0.4332130654663653 0.4843107369149585

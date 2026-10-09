@@ -1,0 +1,116 @@
+
+Analysis Description
+--------------------
+FEL (Fixed Effects Likelihood) estimates site-wise synonymous (&alpha;)
+and non-synonymous (&beta;) rates, and uses a likelihood ratio test to
+determine if beta &neq; alpha at a site. The estimates aggregate
+information over all branches, so the signal is derived from pervasive
+diversification or conservation. A subset of branches can be selected
+for testing as well, in which case an additional (nuisance) parameter
+will be inferred -- the non-synonymous rate on branches NOT selected for
+testing. Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. Version 2.5 adds MH support. Version 2.6
+adds substitution mapping. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Not So Different After All: A Comparison of Methods for Detecting Amino
+Acid Sites Under Selection (2005). _Mol Biol Evol_ 22 (5): 1208-1222
+
+- __Written by__: Sergei L Kosakovsky Pond and Simon DW Frost
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.6
+
+
+>code => Universal
+
+-------
+>[WARNING]
+'results_final/aqp4/fel/depth_mammals_ext.fna'
+contains 51 duplicate sequences. Identical sequences do not contribute
+any information to the analysis and only slow down computation. Please
+consider removing duplicate or 'nearly' duplicate sequences, e.g. using
+https://github.com/veg/hyphy-analyses/tree/master/remove-duplicates
+prior to running selection analyses
+-------
+results_final/aqp4/fel/depth_mammals_ext.nwk
+results_final/aqp4/fel/depth_mammals_ext.nwk
+
+>Loaded a multiple sequence alignment with **172** sequences, **59** codons, and **1** partitions from `results_final/aqp4/fel/depth_mammals_ext.fna`
+
+>branches => All
+
+>srv => Yes
+
+>multiple-hits => None
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 
+>pvalue => 0.1
+
+>ci => No
+Only analyze sites whose 1-based indices match the following list (null to skip) : 
+>limit-to-sites => null
+For sites whose 1-based indices match the following list, write out likelihood function snapshots (null string to skip) : 
+>save-lf-for-sites => null
+
+>[Advanced setting, will result in MUCH SLOWER run time] Perform parametric bootstrap resampling to derive site-level null LRT distributions up to this many replicates per site. Recommended use for small to medium (<30 sequences) datasets (permissible range = [0,1000], default value = 50, integer): 
+>resample => 0
+
+
+### Branches to include in the FEL analysis
+Selected 341 branches to include in FEL calculations: `Acinonyx_jubatus, Herpailurus_yagouaroundi, Node15, Lynx_canadensis, Node14, Felis_catus, Prionailurus_bengalensis, Node19, Node13, Leopardus_geoffroyi, Neofelis_nebulosa, Panthera_leo, Node24, Node22, Node12, Suricata_suricatta, Node11, Crocuta_crocuta, Hyaena_hyaena, Node28, Node10, Ailuropoda_melanoleuca, Ursus_americanus, Node34, Callorhinus_ursinus, Zalophus_californianus, Node39, Odobenus_rosmarus_divergens, Node38, Halichoerus_grypus, Leptonychotes_weddellii, Mirounga_angustirostris, Node46, Node44, Phoca_vitulina, Node43, Node37, Node33, Enhydra_lutris_kenyoni, Lutra_lutra, Node54, Lontra_canadensis, Node53, Mustela_erminea, Neogale_vison, Node58, Node52, Meles_meles, Node51, Martes_martes, Node50, Node32, Canis_aureus, Nyctereutes_procyonoides, Vulpes_lagopus, Node65, Node63, Node31, Node9, Artibeus_jamaicensis, Sturnira_hondurensis, Node74, Phyllostomus_discolor, Node73, Desmodus_rotundus, Node72, Pteronotus_mesoamericanus, Node71, Molossus_molossus, Node70, Miniopterus_natalensis, Myotis_brandtii, Pipistrellus_hanaki, Plecotus_auritus, Node86, Node84, Node82, Saccopteryx_bilineata, Node81, Node69, Hipposideros_armiger, Rhinolophus_ferrumequinum, Node91, Pteropus_alecto, Rousettus_aegyptiacus, Node94, Node90, Node68, Node8, Balaenoptera_acutorostrata, Delphinapterus_leucas, Monodon_monoceros, Node108, Delphinus_delphis, Grampus_griseus, Node114, Globicephala_melas, Pseudorca_crassidens, Node117, Node113, Orcinus_orca, Node112, Lagenorhynchus_albirostris, Sagmatias_obliquidens, Tursiops_truncatus, Node123, Node121, Node111, Node107, Neophocaena_asiaeorientalis_asiaeorientalis, Phocoena_phocoena, Node126, Node106, Lipotes_vexillifer, Node105, Kogia_breviceps, Physeter_macrocephalus, Node130, Node104, Node102, Bison_bison_bison, Bos_indicus, Node136, Bubalus_bubalis, Capra_hircus, Ovis_canadensis, Node142, Oryx_dammah, Node141, Node139, Node135, Cervus_canadensis, Muntiacus_reevesi, Node148, Odocoileus_virginianus, Node147, Giraffa_tippelskirchi, Node146, Node134, Moschus_berezovskii, Node133, Node101, Hippopotamus_amphibius_kiboko, Node100, Camelus_bactrianus, Vicugna_pacos, Node155, Node99, Phacochoerus_africanus, Node98, Manis_javanica, Node97, Node7, Ceratotherium_simum_simum, Diceros_bicornis_minor, Node161, Equus_asinus, Node160, Node6, Erinaceus_europaeus, Node5, Condylura_cristata, Talpa_occidentalis, Node167, Sorex_araneus, Suncus_etruscus, Node170, Node166, Node4, Acomys_minous, Meriones_unguiculatus, Psammomys_obesus, Node185, Node183, Apodemus_sylvaticus, Mastomys_coucha, Node190, Micromys_minutus, Mus_caroli, Node193, Node189, Arvicanthis_niloticus, Node188, Node182, Alexandromys_fortis, Microtus_ochrogaster, Node200, Chionomys_nivalis, Node199, Myodes_glareolus, Node198, Mesocricetus_auratus, Phodopus_roborovskii, Node206, Onychomys_torridus, Peromyscus_maniculatus_bairdii, Node209, Node205, Node197, Node181, Nannospalax_galili, Node180, Jaculus_jaculus, Node179, Cavia_porcellus, Chinchilla_lanigera, Node216, Octodon_degus, Node215, Fukomys_damarensis, Heterocephalus_glaber, Node220, Node214, Node178, Castor_canadensis, Dipodomys_merriami, Perognathus_longimembris_pacificus, Node225, Node223, Node177, Callospermophilus_lateralis, Ictidomys_tridecemlineatus, Spermophilus_citellus, Node233, Urocitellus_parryii, Node232, Marmota_flaviventris, Node231, Node229, Sciurus_carolinensis, Node228, Node176, Cynocephalus_volans, Galeopterus_variegatus, Node239, Node175, Aotus_nancymaae, Cebus_imitator, Sapajus_apella, Node250, Node248, Saimiri_boliviensis, Node247, Callithrix_jacchus, Node246, Cercocebus_atys, Theropithecus_gelada, Node260, Papio_anubis, Node259, Macaca_fascicularis, Mandrillus_leucophaeus, Node264, Node258, Chlorocebus_sabaeus, Node257, Colobus_angolensis_palliatus, Piliocolobus_tephrosceles, Node269, Rhinopithecus_bieti, Trachypithecus_francoisi, Node272, Node268, Node256, Gorilla_gorilla_gorilla, Homo_sapiens, Pan_paniscus, Node279, Node277, Pongo_pygmaeus, Node276, Hylobates_moloch, Nomascus_leucogenys, Symphalangus_syndactylus, Node285, Node283, Node275, Node255, Node245, Carlito_syrichta, Node244, Eulemur_rufifrons, Lemur_catta, Node291, Microcebus_murinus, Propithecus_coquereli, Node294, Node290, Nycticebus_coucang, Otolemur_garnettii, Node297, Node289, Node243, Tupaia_belangeri_chinensis, Node242, Node174, Ochotona_curzoniae, Oryctolagus_cuniculus, Node301, Node173, Node3, Choloepus_didactylus, Tamandua_tetradactyla, Node305, Chrysochloris_asiatica, Echinops_telfairi, Elephantulus_edwardii, Node311, Node309, Elephas_maximus_indicus, Loxodonta_africana, Node315, Trichechus_manatus_latirostris, Node314, Node308, Node304, Node2, Ornithorhynchus_anatinus, Tachyglossus_aculeatus, Node319, Antechinus_flavipes, Sarcophilus_harrisii, Node327, Sminthopsis_crassicaudata, Node326, Macrotis_lagotis, Phascolarctos_cinereus, Node331, Node325, Notamacropus_eugenii, Petaurus_breviceps_papuanus, Trichosurus_vulpecula, Node336, Node334, Node324, Dromiciops_gliroides, Node323, Gracilinanus_agilis, Monodelphis_domestica, Node340, Node322`
+
+>precision => standard
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+
+>kill-zero-lengths => Yes
+
+### Deleted 110 zero-length internal branches: `Node10, Node101, Node104, Node105, Node106, Node107, Node108, Node11, Node111, Node112, Node113, Node114, Node117, Node121, Node123, Node126, Node13, Node134, Node135, Node139, Node14, Node142, Node146, Node147, Node148, Node15, Node160, Node166, Node174, Node175, Node176, Node177, Node179, Node182, Node188, Node189, Node19, Node190, Node193, Node205, Node206, Node22, Node223, Node229, Node231, Node233, Node24, Node242, Node243, Node244, Node246, Node247, Node248, Node250, Node257, Node258, Node259, Node260, Node264, Node268, Node269, Node272, Node275, Node276, Node277, Node279, Node285, Node291, Node294, Node304, Node308, Node309, Node311, Node314, Node32, Node324, Node325, Node326, Node327, Node33, Node331, Node334, Node336, Node340, Node39, Node43, Node44, Node46, Node5, Node50, Node51, Node52, Node54, Node58, Node6, Node65, Node68, Node69, Node7, Node70, Node72, Node73, Node74, Node8, Node81, Node9, Node90, Node97, Node98, Node99`
+* Log(L) = -2073.38, AIC-c =  4852.88 (349 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  5.035
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -2027.21, AIC-c =  4558.69 (246 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  4.936
+* non-synonymous/synonymous rate ratio for *test* =   0.3664
+
+>full-model => Yes
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -2021.54, AIC-c =  4547.36 (246 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  4.977
+* non-synonymous/synonymous rate ratio for *test* =   0.3347
+
+PROFILE FEL_MLE 0.3346945755223261 -2021.544477704495
+PROFILE MLE 0.3346945755223261 -2021.544477704495
+PROFILE POINT 0.2510209316417445 -2024.926272546883
+PROFILE POINT 0.2928577535820353 -2022.25847116782
+PROFILE POINT 0.2719393426118899 -2023.29646400959
+PROFILE POINT 0.2614801371268172 -2024.029608858026
+PROFILE POINT 0.2667097398693535 -2023.644014513536
+PROFILE POINT 0.2693245412406217 -2023.465612558697
+PROFILE POINT 0.2706319419262558 -2023.379739541212
+PROFILE POINT 0.2699782415834387 -2023.422487162409
+PROFILE POINT 0.2696513914120302 -2023.443872242679
+PROFILE POINT 0.269487966326326 -2023.454711003177
+PROFILE POINT 0.2694062537834738 -2023.460161426188
+PROFILE POINT 0.2693653975120478 -2023.462883547244
+PROFILE POINT 0.2693449693763348 -2023.464247556116
+PROFILE POINT 0.4183682194029076 -2023.708476719419
+PROFILE POINT 0.3765313974626168 -2022.161577657368
+PROFILE POINT 0.3974498084327622 -2022.837119202946
+PROFILE POINT 0.4079090139178349 -2023.250908266352
+PROFILE POINT 0.4131386166603712 -2023.473882361923
+PROFILE POINT 0.4105238152891031 -2023.36120184326
+PROFILE POINT 0.4118312159747372 -2023.416965357353
+PROFILE POINT 0.4124849163175542 -2023.445169575466
+PROFILE POINT 0.4128117664889627 -2023.459415567509
+PROFILE POINT 0.4129751915746669 -2023.466566438458
+PROFILE POINT 0.4128934790318148 -2023.462989174822
+PROFILE POINT 0.4129343353032409 -2023.464767687319
+PROFILE POINT 0.4129547634389539 -2023.465662189669
+PROFILE CI 0.2693347553084783 0.3346945755223261 0.4129445493710974
