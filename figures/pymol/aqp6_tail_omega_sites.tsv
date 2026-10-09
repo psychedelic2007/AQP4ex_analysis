@@ -1,0 +1,35 @@
+structure_resi	human_residue	human_aa	alpha	beta	omega	q	bonferroni	call	displayed_value	exclusion_reason
+1	284	N	1.9177	1.3626	0.71054	0.5204	0	-	-0.4930	
+2	285	S	2.4456	1.4192	0.58031	nan	0	not tested		occupancy 32/122
+3	286	L	0.88244	1.4358	1.6271	nan	0	not tested		occupancy 31/122
+4	287	R	2.4547	1.8932	0.77124	nan	0	not tested		occupancy 55/122
+5	288	L	1.256	1.8573	1.4787	0.5204	0	-	0.5644	
+6	289	A	1.93	0.9424	0.4883	0.3169	0	-	-1.0342	
+7	290	A	2.3373	0.57032	0.24401	0.0004546	1	purifying	-2.0350	
+8	291	P	1.7366	1.7546	1.0103	0.9726	0	-	0.0149	
+9	292	L	1.7434	1.7291	0.99177	0.9726	0	-	-0.0119	
+10	293	G	2.0896	1.5346	0.73439	0.6092	0	-	-0.4454	
+11	294	F	1.378	1.9508	1.4156	0.5204	0	-	0.5015	
+12	295	L	0.88999	1.8557	2.085	0.3169	0	-	1.0601	
+13	296	P	1.2044	1.4756	1.2252	0.745	0	-	0.2930	
+14	297	C	1.4454	4.7234	3.2678	0.3169	0	-	1.7083	
+15	298	R	2.8564	1.9466	0.68151	nan	0	not tested		occupancy 46/122
+16	299	T	3.7302	0.78629	0.21079	nan	0	not tested		occupancy 48/122
+17	300	C	0.9736	1.6749	1.7203	nan	0	not tested		occupancy 48/122
+18	301	L	4.2168	1.8378	0.43583	nan	0	not tested		occupancy 50/122
+19	302	E	8.8336	1.5021	0.17004	nan	0	not tested		occupancy 50/122
+20	303	V	0.74332	1.3877	1.8669	nan	0	not tested		occupancy 50/122
+21	304	L	2.58	1.5397	0.59677	nan	0	not tested		occupancy 54/122
+22	305	P	1.6802	2.3058	1.3723	nan	0	not tested		occupancy 55/122
+23	306	G	2.1988	0.25449	0.11574	nan	0	not tested		occupancy 56/122
+24	307	G	1.1164	3.5395	3.1703	nan	0	not tested		occupancy 55/122
+25	308	G	3.8619	3.7743	0.97732	nan	0	not tested		occupancy 20/122
+26	309	G	3.1484	2.092	0.66445	nan	0	not tested		occupancy 20/122
+27	310	R	2.5806	2.5501	0.98819	nan	0	not tested		occupancy 33/122
+28	311	G	2.2838	1.1038	0.48331	nan	0	not tested		occupancy 56/122
+29	312	R	5.7602	1.4269	0.24772	nan	0	not tested		occupancy 57/122
+30	313	L	6.7459	0.71778	0.1064	nan	0	not tested		occupancy 57/122
+31	314	D	9.0108	4.8481	0.53804	nan	0	not tested		occupancy 55/122
+32	315	L	6.1534	4.7673	0.77474	nan	0	not tested		occupancy 53/122
+33	316	L	1.5262	1.5214	0.99686	nan	0	not tested		occupancy 44/122
+34	317	S	1.4564	2.6698	1.8332	nan	0	not tested		occupancy 44/122
