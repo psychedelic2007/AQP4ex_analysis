@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="350.28pt" height="267.13805pt" viewBox="0 0 350.28 267.13805" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-09T12:18:24.684286</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 267.13805 
+L 350.28 267.13805 
+L 350.28 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 231.18552 35.424 
+L 236.89386 35.424 
+L 236.89386 22.1184 
+L 231.18552 22.1184 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 237.23982 35.424 
+L 242.94816 35.424 
+L 242.94816 22.1184 
+L 237.23982 22.1184 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 243.29412 35.424 
+L 249.00246 35.424 
+L 249.00246 22.1184 
+L 243.29412 22.1184 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 249.34842 35.424 
+L 255.05676 35.424 
+L 255.05676 22.1184 
+L 249.34842 22.1184 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 255.40272 35.424 
+L 261.11106 35.424 
+L 261.11106 22.1184 
+L 255.40272 22.1184 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 261.45702 35.424 
+L 267.16536 35.424 
+L 267.16536 22.1184 
+L 261.45702 22.1184 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 267.51132 35.424 
+L 273.21966 35.424 
+L 273.21966 22.1184 
+L 267.51132 22.1184 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 231.18552 53.1648 
+L 236.89386 53.1648 
+L 236.89386 39.8592 
+L 231.18552 39.8592 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 237.23982 53.1648 
+L 242.94816 53.1648 
+L 242.94816 39.8592 
+L 237.23982 39.8592 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 243.29412 53.1648 
+L 249.00246 53.1648 
+L 249.00246 39.8592 
+L 243.29412 39.8592 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 249.34842 53.1648 
+L 255.05676 53.1648 
+L 255.05676 39.8592 
+L 249.34842 39.8592 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 255.40272 53.1648 
+L 261.11106 53.1648 
+L 261.11106 39.8592 
+L 255.40272 39.8592 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 261.45702 53.1648 
+L 267.16536 53.1648 
+L 267.16536 39.8592 
+L 261.45702 39.8592 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 267.51132 53.1648 
+L 273.21966 53.1648 
+L 273.21966 39.8592 
+L 267.51132 39.8592 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 231.18552 81.9936 
+L 236.89386 81.9936 
+L 236.89386 68.688 
+L 231.18552 68.688 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 237.23982 81.9936 
+L 242.94816 81.9936 
+L 242.94816 68.688 
+L 237.23982 68.688 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 243.29412 81.9936 
+L 249.00246 81.9936 
+L 249.00246 68.688 
+L 243.29412 68.688 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 249.34842 81.9936 
+L 255.05676 81.9936 
+L 255.05676 68.688 
+L 249.34842 68.688 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 255.40272 81.9936 
+L 261.11106 81.9936 
+L 261.11106 68.688 
+L 255.40272 68.688 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 261.45702 81.9936 
+L 267.16536 81.9936 
+L 267.16536 68.688 
+L 261.45702 68.688 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 267.51132 81.9936 
+L 273.21966 81.9936 
+L 273.21966 68.688 
+L 267.51132 68.688 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 231.18552 99.7344 
+L 236.89386 99.7344 
+L 236.89386 86.4288 
+L 231.18552 86.4288 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 237.23982 99.7344 
+L 242.94816 99.7344 
+L 242.94816 86.4288 
+L 237.23982 86.4288 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 243.29412 99.7344 
+L 249.00246 99.7344 
+L 249.00246 86.4288 
+L 243.29412 86.4288 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 249.34842 99.7344 
+L 255.05676 99.7344 
+L 255.05676 86.4288 
+L 249.34842 86.4288 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 255.40272 99.7344 
+L 261.11106 99.7344 
+L 261.11106 86.4288 
+L 255.40272 86.4288 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 261.45702 99.7344 
+L 267.16536 99.7344 
+L 267.16536 86.4288 
+L 261.45702 86.4288 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 267.51132 99.7344 
+L 273.21966 99.7344 
+L 273.21966 86.4288 
+L 267.51132 86.4288 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 231.18552 128.5632 
+L 236.89386 128.5632 
+L 236.89386 115.2576 
+L 231.18552 115.2576 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 237.23982 128.5632 
+L 242.94816 128.5632 
+L 242.94816 115.2576 
+L 237.23982 115.2576 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 243.29412 128.5632 
+L 249.00246 128.5632 
+L 249.00246 115.2576 
+L 243.29412 115.2576 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 249.34842 128.5632 
+L 255.05676 128.5632 
+L 255.05676 115.2576 
+L 249.34842 115.2576 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 255.40272 128.5632 
+L 261.11106 128.5632 
+L 261.11106 115.2576 
+L 255.40272 115.2576 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 261.45702 128.5632 
+L 267.16536 128.5632 
+L 267.16536 115.2576 
+L 261.45702 115.2576 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 267.51132 128.5632 
+L 273.21966 128.5632 
+L 273.21966 115.2576 
+L 267.51132 115.2576 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 231.18552 146.304 
+L 236.89386 146.304 
+L 236.89386 132.9984 
+L 231.18552 132.9984 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 237.23982 146.304 
+L 242.94816 146.304 
+L 242.94816 132.9984 
+L 237.23982 132.9984 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 243.29412 146.304 
+L 249.00246 146.304 
+L 249.00246 132.9984 
+L 243.29412 132.9984 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 249.34842 146.304 
+L 255.05676 146.304 
+L 255.05676 132.9984 
+L 249.34842 132.9984 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 255.40272 146.304 
+L 261.11106 146.304 
+L 261.11106 132.9984 
+L 255.40272 132.9984 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 261.45702 146.304 
+L 267.16536 146.304 
+L 267.16536 132.9984 
+L 261.45702 132.9984 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 267.51132 146.304 
+L 273.21966 146.304 
+L 273.21966 132.9984 
+L 267.51132 132.9984 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 231.18552 175.1328 
+L 236.89386 175.1328 
+L 236.89386 161.8272 
+L 231.18552 161.8272 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 237.23982 175.1328 
+L 242.94816 175.1328 
+L 242.94816 161.8272 
+L 237.23982 161.8272 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 243.29412 175.1328 
+L 249.00246 175.1328 
+L 249.00246 161.8272 
+L 243.29412 161.8272 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 249.34842 175.1328 
+L 255.05676 175.1328 
+L 255.05676 161.8272 
+L 249.34842 161.8272 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 255.40272 175.1328 
+L 261.11106 175.1328 
+L 261.11106 161.8272 
+L 255.40272 161.8272 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 261.45702 175.1328 
+L 267.16536 175.1328 
+L 267.16536 161.8272 
+L 261.45702 161.8272 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_50">
+    <path d="M 267.51132 175.1328 
+L 273.21966 175.1328 
+L 273.21966 161.8272 
+L 267.51132 161.8272 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 231.18552 192.8736 
+L 236.89386 192.8736 
+L 236.89386 179.568 
+L 231.18552 179.568 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_52">
+    <path d="M 237.23982 192.8736 
+L 242.94816 192.8736 
+L 242.94816 179.568 
+L 237.23982 179.568 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_53">
+    <path d="M 243.29412 192.8736 
+L 249.00246 192.8736 
+L 249.00246 179.568 
+L 243.29412 179.568 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_54">
+    <path d="M 249.34842 192.8736 
+L 255.05676 192.8736 
+L 255.05676 179.568 
+L 249.34842 179.568 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_55">
+    <path d="M 255.40272 192.8736 
+L 261.11106 192.8736 
+L 261.11106 179.568 
+L 255.40272 179.568 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_56">
+    <path d="M 261.45702 192.8736 
+L 267.16536 192.8736 
+L 267.16536 179.568 
+L 261.45702 179.568 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_57">
+    <path d="M 267.51132 192.8736 
+L 273.21966 192.8736 
+L 273.21966 179.568 
+L 267.51132 179.568 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_58">
+    <path d="M 231.18552 221.7024 
+L 236.89386 221.7024 
+L 236.89386 208.3968 
+L 231.18552 208.3968 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_59">
+    <path d="M 237.23982 221.7024 
+L 242.94816 221.7024 
+L 242.94816 208.3968 
+L 237.23982 208.3968 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_60">
+    <path d="M 243.29412 221.7024 
+L 249.00246 221.7024 
+L 249.00246 208.3968 
+L 243.29412 208.3968 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_61">
+    <path d="M 249.34842 221.7024 
+L 255.05676 221.7024 
+L 255.05676 208.3968 
+L 249.34842 208.3968 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_62">
+    <path d="M 255.40272 221.7024 
+L 261.11106 221.7024 
+L 261.11106 208.3968 
+L 255.40272 208.3968 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_63">
+    <path d="M 261.45702 221.7024 
+L 267.16536 221.7024 
+L 267.16536 208.3968 
+L 261.45702 208.3968 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_64">
+    <path d="M 267.51132 221.7024 
+L 273.21966 221.7024 
+L 273.21966 208.3968 
+L 267.51132 208.3968 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_65">
+    <path d="M 231.18552 239.4432 
+L 236.89386 239.4432 
+L 236.89386 226.1376 
+L 231.18552 226.1376 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_66">
+    <path d="M 237.23982 239.4432 
+L 242.94816 239.4432 
+L 242.94816 226.1376 
+L 237.23982 226.1376 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_67">
+    <path d="M 243.29412 239.4432 
+L 249.00246 239.4432 
+L 249.00246 226.1376 
+L 243.29412 226.1376 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #eb6834; opacity: 0.35"/>
+   </g>
+   <g id="patch_68">
+    <path d="M 249.34842 239.4432 
+L 255.05676 239.4432 
+L 255.05676 226.1376 
+L 249.34842 226.1376 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_69">
+    <path d="M 255.40272 239.4432 
+L 261.11106 239.4432 
+L 261.11106 226.1376 
+L 255.40272 226.1376 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_70">
+    <path d="M 261.45702 239.4432 
+L 267.16536 239.4432 
+L 267.16536 226.1376 
+L 261.45702 226.1376 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="patch_71">
+    <path d="M 267.51132 239.4432 
+L 273.21966 239.4432 
+L 273.21966 226.1376 
+L 267.51132 226.1376 
+z
+" clip-path="url(#pe24d66fa8f)" style="fill: #cde2fb"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #0b0b0b; font: italic 6.2px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="2.16" y="30.374481" transform="rotate(-0 2.16 30.374481)">Alligator mississippiensis</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="105.948" y="30.271044" transform="rotate(-0 105.948 30.271044)">XM_059724154.1</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="161.3016" y="30.509606" transform="rotate(-0 161.3016 30.509606)">A</text>
+   </g>
+   <g id="text_4">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="167.3559" y="30.526341" transform="rotate(-0 167.3559 30.526341)">U</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="173.4102" y="30.509606" transform="rotate(-0 173.4102 30.509606)">U</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="179.4645" y="30.509606" transform="rotate(-0 179.4645 30.509606)">G</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="185.5188" y="30.509606" transform="rotate(-0 185.5188 30.509606)">A</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="191.5731" y="30.509606" transform="rotate(-0 191.5731 30.509606)">A</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="197.6274" y="30.509606" transform="rotate(-0 197.6274 30.509606)">A</text>
+   </g>
+   <g id="text_10">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="203.6817" y="30.509606" transform="rotate(-0 203.6817 30.509606)">G</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="209.736" y="30.526341" transform="rotate(-0 209.736 30.526341)">A</text>
+   </g>
+   <g id="text_12">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="215.7903" y="30.526341" transform="rotate(-0 215.7903 30.526341)">G</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="221.8446" y="30.509606" transform="rotate(-0 221.8446 30.509606)">A</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="227.8989" y="30.509606" transform="rotate(-0 227.8989 30.509606)">U</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="233.9532" y="30.526341" transform="rotate(-0 233.9532 30.526341)">U</text>
+   </g>
+   <g id="text_16">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="240.0075" y="30.509606" transform="rotate(-0 240.0075 30.509606)">A</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="246.0618" y="30.526341" transform="rotate(-0 246.0618 30.526341)">A</text>
+   </g>
+   <g id="text_18">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="252.1161" y="30.509606" transform="rotate(-0 252.1161 30.509606)">A</text>
+   </g>
+   <g id="text_19">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="258.1704" y="30.509606" transform="rotate(-0 258.1704 30.509606)">G</text>
+   </g>
+   <g id="text_20">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="264.2247" y="30.509606" transform="rotate(-0 264.2247 30.509606)">G</text>
+   </g>
+   <g id="text_21">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="270.279" y="30.509606" transform="rotate(-0 270.279 30.509606)">U</text>
+   </g>
+   <g id="text_22">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="276.3333" y="30.509606" transform="rotate(-0 276.3333 30.509606)">U</text>
+   </g>
+   <g id="text_23">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="282.3876" y="30.509606" transform="rotate(-0 282.3876 30.509606)">G</text>
+   </g>
+   <g id="text_24">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="288.4419" y="30.526341" transform="rotate(-0 288.4419 30.526341)">A</text>
+   </g>
+   <g id="text_25">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="294.4962" y="30.526341" transform="rotate(-0 294.4962 30.526341)">G</text>
+   </g>
+   <g id="text_26">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="300.5505" y="30.509606" transform="rotate(-0 300.5505 30.509606)">A</text>
+   </g>
+   <g id="text_27">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="306.6048" y="30.509606" transform="rotate(-0 306.6048 30.509606)">G</text>
+   </g>
+   <g id="text_28">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="312.6591" y="30.509606" transform="rotate(-0 312.6591 30.509606)">A</text>
+   </g>
+   <g id="text_29">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="318.7134" y="30.509606" transform="rotate(-0 318.7134 30.509606)">G</text>
+   </g>
+   <g id="text_30">
+    <text style="fill: #52514e; font: italic 6.2px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="2.16" y="48.115281" transform="rotate(-0 2.16 48.115281)">Alligator sinensis</text>
+   </g>
+   <g id="text_31">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="105.948" y="48.011844" transform="rotate(-0 105.948 48.011844)">XM_006016396.3</text>
+   </g>
+   <g id="text_32">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="161.3016" y="48.267141" transform="rotate(-0 161.3016 48.267141)">C</text>
+   </g>
+   <g id="text_33">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="167.3559" y="48.267141" transform="rotate(-0 167.3559 48.267141)">U</text>
+   </g>
+   <g id="text_34">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="173.4102" y="48.267141" transform="rotate(-0 173.4102 48.267141)">G</text>
+   </g>
+   <g id="text_35">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="179.4645" y="48.267141" transform="rotate(-0 179.4645 48.267141)">U</text>
+   </g>
+   <g id="text_36">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="185.5188" y="48.267141" transform="rotate(-0 185.5188 48.267141)">C</text>
+   </g>
+   <g id="text_37">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="191.5731" y="48.267141" transform="rotate(-0 191.5731 48.267141)">U</text>
+   </g>
+   <g id="text_38">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="197.6274" y="48.267141" transform="rotate(-0 197.6274 48.267141)">U</text>
+   </g>
+   <g id="text_39">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="203.6817" y="48.267141" transform="rotate(-0 203.6817 48.267141)">C</text>
+   </g>
+   <g id="text_40">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="209.736" y="48.267141" transform="rotate(-0 209.736 48.267141)">A</text>
+   </g>
+   <g id="text_41">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="215.7903" y="48.267141" transform="rotate(-0 215.7903 48.267141)">G</text>
+   </g>
+   <g id="text_42">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="221.8446" y="48.267141" transform="rotate(-0 221.8446 48.267141)">U</text>
+   </g>
+   <g id="text_43">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="227.8989" y="48.267141" transform="rotate(-0 227.8989 48.267141)">A</text>
+   </g>
+   <g id="text_44">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="233.9532" y="48.267141" transform="rotate(-0 233.9532 48.267141)">U</text>
+   </g>
+   <g id="text_45">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="240.0075" y="48.267141" transform="rotate(-0 240.0075 48.267141)">G</text>
+   </g>
+   <g id="text_46">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="246.0618" y="48.267141" transform="rotate(-0 246.0618 48.267141)">A</text>
+   </g>
+   <g id="text_47">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="252.1161" y="48.267141" transform="rotate(-0 252.1161 48.267141)">C</text>
+   </g>
+   <g id="text_48">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="258.1704" y="48.267141" transform="rotate(-0 258.1704 48.267141)">U</text>
+   </g>
+   <g id="text_49">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="264.2247" y="48.267141" transform="rotate(-0 264.2247 48.267141)">A</text>
+   </g>
+   <g id="text_50">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="270.279" y="48.267141" transform="rotate(-0 270.279 48.267141)">G</text>
+   </g>
+   <g id="text_51">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="276.3333" y="48.267141" transform="rotate(-0 276.3333 48.267141)">C</text>
+   </g>
+   <g id="text_52">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="282.3876" y="48.267141" transform="rotate(-0 282.3876 48.267141)">A</text>
+   </g>
+   <g id="text_53">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="288.4419" y="48.267141" transform="rotate(-0 288.4419 48.267141)">A</text>
+   </g>
+   <g id="text_54">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="294.4962" y="48.267141" transform="rotate(-0 294.4962 48.267141)">G</text>
+   </g>
+   <g id="text_55">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="300.5505" y="48.267141" transform="rotate(-0 300.5505 48.267141)">G</text>
+   </g>
+   <g id="text_56">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="306.6048" y="48.267141" transform="rotate(-0 306.6048 48.267141)">A</text>
+   </g>
+   <g id="text_57">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="312.6591" y="48.267141" transform="rotate(-0 312.6591 48.267141)">G</text>
+   </g>
+   <g id="text_58">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="318.7134" y="48.267141" transform="rotate(-0 318.7134 48.267141)">C</text>
+   </g>
+   <g id="text_59">
+    <text style="fill: #0b0b0b; font: italic 6.2px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="2.16" y="76.944081" transform="rotate(-0 2.16 76.944081)">Camelus ferus</text>
+   </g>
+   <g id="text_60">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="105.948" y="76.840644" transform="rotate(-0 105.948 76.840644)">XM_006187167.3</text>
+   </g>
+   <g id="text_61">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="161.3016" y="77.079206" transform="rotate(-0 161.3016 77.079206)">A</text>
+   </g>
+   <g id="text_62">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="167.3559" y="77.079206" transform="rotate(-0 167.3559 77.079206)">G</text>
+   </g>
+   <g id="text_63">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="173.4102" y="77.079206" transform="rotate(-0 173.4102 77.079206)">A</text>
+   </g>
+   <g id="text_64">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="179.4645" y="77.079206" transform="rotate(-0 179.4645 77.079206)">G</text>
+   </g>
+   <g id="text_65">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="185.5188" y="77.079206" transform="rotate(-0 185.5188 77.079206)">G</text>
+   </g>
+   <g id="text_66">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="191.5731" y="77.079206" transform="rotate(-0 191.5731 77.079206)">A</text>
+   </g>
+   <g id="text_67">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="197.6274" y="77.079206" transform="rotate(-0 197.6274 77.079206)">C</text>
+   </g>
+   <g id="text_68">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="203.6817" y="77.079206" transform="rotate(-0 203.6817 77.079206)">A</text>
+   </g>
+   <g id="text_69">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="209.736" y="77.079206" transform="rotate(-0 209.736 77.079206)">G</text>
+   </g>
+   <g id="text_70">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="215.7903" y="77.079206" transform="rotate(-0 215.7903 77.079206)">C</text>
+   </g>
+   <g id="text_71">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="221.8446" y="77.079206" transform="rotate(-0 221.8446 77.079206)">G</text>
+   </g>
+   <g id="text_72">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="227.8989" y="77.079206" transform="rotate(-0 227.8989 77.079206)">C</text>
+   </g>
+   <g id="text_73">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="233.9532" y="77.095941" transform="rotate(-0 233.9532 77.095941)">U</text>
+   </g>
+   <g id="text_74">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="240.0075" y="77.095941" transform="rotate(-0 240.0075 77.095941)">G</text>
+   </g>
+   <g id="text_75">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="246.0618" y="77.095941" transform="rotate(-0 246.0618 77.095941)">A</text>
+   </g>
+   <g id="text_76">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="252.1161" y="77.079206" transform="rotate(-0 252.1161 77.079206)">A</text>
+   </g>
+   <g id="text_77">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="258.1704" y="77.079206" transform="rotate(-0 258.1704 77.079206)">A</text>
+   </g>
+   <g id="text_78">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="264.2247" y="77.079206" transform="rotate(-0 264.2247 77.079206)">G</text>
+   </g>
+   <g id="text_79">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="270.279" y="77.079206" transform="rotate(-0 270.279 77.079206)">C</text>
+   </g>
+   <g id="text_80">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="276.3333" y="77.095941" transform="rotate(-0 276.3333 77.095941)">A</text>
+   </g>
+   <g id="text_81">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="282.3876" y="77.095941" transform="rotate(-0 282.3876 77.095941)">G</text>
+   </g>
+   <g id="text_82">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="288.4419" y="77.079206" transform="rotate(-0 288.4419 77.079206)">A</text>
+   </g>
+   <g id="text_83">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="294.4962" y="77.079206" transform="rotate(-0 294.4962 77.079206)">C</text>
+   </g>
+   <g id="text_84">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="300.5505" y="77.079206" transform="rotate(-0 300.5505 77.079206)">A</text>
+   </g>
+   <g id="text_85">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="306.6048" y="77.095941" transform="rotate(-0 306.6048 77.095941)">A</text>
+   </g>
+   <g id="text_86">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="312.6591" y="77.095941" transform="rotate(-0 312.6591 77.095941)">G</text>
+   </g>
+   <g id="text_87">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="318.7134" y="77.079206" transform="rotate(-0 318.7134 77.079206)">A</text>
+   </g>
+   <g id="text_88">
+    <text style="fill: #52514e; font: italic 6.2px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="2.16" y="94.684881" transform="rotate(-0 2.16 94.684881)">Camelus bactrianus</text>
+   </g>
+   <g id="text_89">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="105.948" y="94.581444" transform="rotate(-0 105.948 94.581444)">XM_010969032.2</text>
+   </g>
+   <g id="text_90">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="161.3016" y="94.836741" transform="rotate(-0 161.3016 94.836741)">U</text>
+   </g>
+   <g id="text_91">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="167.3559" y="94.836741" transform="rotate(-0 167.3559 94.836741)">U</text>
+   </g>
+   <g id="text_92">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="173.4102" y="94.836741" transform="rotate(-0 173.4102 94.836741)">G</text>
+   </g>
+   <g id="text_93">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="179.4645" y="94.836741" transform="rotate(-0 179.4645 94.836741)">U</text>
+   </g>
+   <g id="text_94">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="185.5188" y="94.836741" transform="rotate(-0 185.5188 94.836741)">C</text>
+   </g>
+   <g id="text_95">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="191.5731" y="94.836741" transform="rotate(-0 191.5731 94.836741)">U</text>
+   </g>
+   <g id="text_96">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="197.6274" y="94.836741" transform="rotate(-0 197.6274 94.836741)">U</text>
+   </g>
+   <g id="text_97">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="203.6817" y="94.836741" transform="rotate(-0 203.6817 94.836741)">C</text>
+   </g>
+   <g id="text_98">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="209.736" y="94.836741" transform="rotate(-0 209.736 94.836741)">A</text>
+   </g>
+   <g id="text_99">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="215.7903" y="94.836741" transform="rotate(-0 215.7903 94.836741)">G</text>
+   </g>
+   <g id="text_100">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="221.8446" y="94.836741" transform="rotate(-0 221.8446 94.836741)">U</text>
+   </g>
+   <g id="text_101">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="227.8989" y="94.836741" transform="rotate(-0 227.8989 94.836741)">A</text>
+   </g>
+   <g id="text_102">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="233.9532" y="94.836741" transform="rotate(-0 233.9532 94.836741)">U</text>
+   </g>
+   <g id="text_103">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="240.0075" y="94.836741" transform="rotate(-0 240.0075 94.836741)">G</text>
+   </g>
+   <g id="text_104">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="246.0618" y="94.836741" transform="rotate(-0 246.0618 94.836741)">A</text>
+   </g>
+   <g id="text_105">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="252.1161" y="94.836741" transform="rotate(-0 252.1161 94.836741)">C</text>
+   </g>
+   <g id="text_106">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="258.1704" y="94.836741" transform="rotate(-0 258.1704 94.836741)">U</text>
+   </g>
+   <g id="text_107">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="264.2247" y="94.836741" transform="rotate(-0 264.2247 94.836741)">A</text>
+   </g>
+   <g id="text_108">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="270.279" y="94.836741" transform="rotate(-0 270.279 94.836741)">G</text>
+   </g>
+   <g id="text_109">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="276.3333" y="94.836741" transform="rotate(-0 276.3333 94.836741)">A</text>
+   </g>
+   <g id="text_110">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="282.3876" y="94.836741" transform="rotate(-0 282.3876 94.836741)">G</text>
+   </g>
+   <g id="text_111">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="288.4419" y="94.836741" transform="rotate(-0 288.4419 94.836741)">G</text>
+   </g>
+   <g id="text_112">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="294.4962" y="94.836741" transform="rotate(-0 294.4962 94.836741)">A</text>
+   </g>
+   <g id="text_113">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="300.5505" y="94.836741" transform="rotate(-0 300.5505 94.836741)">C</text>
+   </g>
+   <g id="text_114">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="306.6048" y="94.836741" transform="rotate(-0 306.6048 94.836741)">A</text>
+   </g>
+   <g id="text_115">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="312.6591" y="94.836741" transform="rotate(-0 312.6591 94.836741)">G</text>
+   </g>
+   <g id="text_116">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="318.7134" y="94.836741" transform="rotate(-0 318.7134 94.836741)">C</text>
+   </g>
+   <g id="text_117">
+    <text style="fill: #0b0b0b; font: italic 6.2px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="2.16" y="123.513681" transform="rotate(-0 2.16 123.513681)">Gymnodraco acuticeps</text>
+   </g>
+   <g id="text_118">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="105.948" y="123.410244" transform="rotate(-0 105.948 123.410244)">XM_034237460.1</text>
+   </g>
+   <g id="text_119">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="161.3016" y="123.648806" transform="rotate(-0 161.3016 123.648806)">G</text>
+   </g>
+   <g id="text_120">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="167.3559" y="123.648806" transform="rotate(-0 167.3559 123.648806)">C</text>
+   </g>
+   <g id="text_121">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="173.4102" y="123.648806" transform="rotate(-0 173.4102 123.648806)">C</text>
+   </g>
+   <g id="text_122">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="179.4645" y="123.648806" transform="rotate(-0 179.4645 123.648806)">G</text>
+   </g>
+   <g id="text_123">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="185.5188" y="123.648806" transform="rotate(-0 185.5188 123.648806)">A</text>
+   </g>
+   <g id="text_124">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="191.5731" y="123.648806" transform="rotate(-0 191.5731 123.648806)">G</text>
+   </g>
+   <g id="text_125">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="197.6274" y="123.648806" transform="rotate(-0 197.6274 123.648806)">A</text>
+   </g>
+   <g id="text_126">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="203.6817" y="123.648806" transform="rotate(-0 203.6817 123.648806)">G</text>
+   </g>
+   <g id="text_127">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="209.736" y="123.665541" transform="rotate(-0 209.736 123.665541)">A</text>
+   </g>
+   <g id="text_128">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="215.7903" y="123.648806" transform="rotate(-0 215.7903 123.648806)">A</text>
+   </g>
+   <g id="text_129">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="221.8446" y="123.648806" transform="rotate(-0 221.8446 123.648806)">A</text>
+   </g>
+   <g id="text_130">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="227.8989" y="123.648806" transform="rotate(-0 227.8989 123.648806)">U</text>
+   </g>
+   <g id="text_131">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="233.9532" y="123.665541" transform="rotate(-0 233.9532 123.665541)">U</text>
+   </g>
+   <g id="text_132">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="240.0075" y="123.648806" transform="rotate(-0 240.0075 123.648806)">A</text>
+   </g>
+   <g id="text_133">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="246.0618" y="123.648806" transform="rotate(-0 246.0618 123.648806)">G</text>
+   </g>
+   <g id="text_134">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="252.1161" y="123.665541" transform="rotate(-0 252.1161 123.665541)">C</text>
+   </g>
+   <g id="text_135">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="258.1704" y="123.665541" transform="rotate(-0 258.1704 123.665541)">U</text>
+   </g>
+   <g id="text_136">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="264.2247" y="123.648806" transform="rotate(-0 264.2247 123.648806)">G</text>
+   </g>
+   <g id="text_137">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="270.279" y="123.648806" transform="rotate(-0 270.279 123.648806)">A</text>
+   </g>
+   <g id="text_138">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="276.3333" y="123.648806" transform="rotate(-0 276.3333 123.648806)">A</text>
+   </g>
+   <g id="text_139">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="282.3876" y="123.648806" transform="rotate(-0 282.3876 123.648806)">G</text>
+   </g>
+   <g id="text_140">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="288.4419" y="123.648806" transform="rotate(-0 288.4419 123.648806)">A</text>
+   </g>
+   <g id="text_141">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="294.4962" y="123.665541" transform="rotate(-0 294.4962 123.665541)">G</text>
+   </g>
+   <g id="text_142">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="300.5505" y="123.648806" transform="rotate(-0 300.5505 123.648806)">G</text>
+   </g>
+   <g id="text_143">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="306.6048" y="123.665541" transform="rotate(-0 306.6048 123.665541)">G</text>
+   </g>
+   <g id="text_144">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="312.6591" y="123.648806" transform="rotate(-0 312.6591 123.648806)">A</text>
+   </g>
+   <g id="text_145">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="318.7134" y="123.648806" transform="rotate(-0 318.7134 123.648806)">G</text>
+   </g>
+   <g id="text_146">
+    <text style="fill: #52514e; font: italic 6.2px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="2.16" y="141.254481" transform="rotate(-0 2.16 141.254481)">Anarrhichthys ocellatus</text>
+   </g>
+   <g id="text_147">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="105.948" y="141.151044" transform="rotate(-0 105.948 141.151044)">XM_031855315.1</text>
+   </g>
+   <g id="text_148">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="161.3016" y="141.406341" transform="rotate(-0 161.3016 141.406341)">U</text>
+   </g>
+   <g id="text_149">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="167.3559" y="141.406341" transform="rotate(-0 167.3559 141.406341)">U</text>
+   </g>
+   <g id="text_150">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="173.4102" y="141.406341" transform="rotate(-0 173.4102 141.406341)">G</text>
+   </g>
+   <g id="text_151">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="179.4645" y="141.406341" transform="rotate(-0 179.4645 141.406341)">U</text>
+   </g>
+   <g id="text_152">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="185.5188" y="141.406341" transform="rotate(-0 185.5188 141.406341)">C</text>
+   </g>
+   <g id="text_153">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="191.5731" y="141.406341" transform="rotate(-0 191.5731 141.406341)">U</text>
+   </g>
+   <g id="text_154">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="197.6274" y="141.406341" transform="rotate(-0 197.6274 141.406341)">U</text>
+   </g>
+   <g id="text_155">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="203.6817" y="141.406341" transform="rotate(-0 203.6817 141.406341)">C</text>
+   </g>
+   <g id="text_156">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="209.736" y="141.406341" transform="rotate(-0 209.736 141.406341)">A</text>
+   </g>
+   <g id="text_157">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="215.7903" y="141.406341" transform="rotate(-0 215.7903 141.406341)">G</text>
+   </g>
+   <g id="text_158">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="221.8446" y="141.406341" transform="rotate(-0 221.8446 141.406341)">U</text>
+   </g>
+   <g id="text_159">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="227.8989" y="141.406341" transform="rotate(-0 227.8989 141.406341)">A</text>
+   </g>
+   <g id="text_160">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="233.9532" y="141.406341" transform="rotate(-0 233.9532 141.406341)">U</text>
+   </g>
+   <g id="text_161">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="240.0075" y="141.406341" transform="rotate(-0 240.0075 141.406341)">G</text>
+   </g>
+   <g id="text_162">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="246.0618" y="141.406341" transform="rotate(-0 246.0618 141.406341)">A</text>
+   </g>
+   <g id="text_163">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="252.1161" y="141.406341" transform="rotate(-0 252.1161 141.406341)">C</text>
+   </g>
+   <g id="text_164">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="258.1704" y="141.406341" transform="rotate(-0 258.1704 141.406341)">U</text>
+   </g>
+   <g id="text_165">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="264.2247" y="141.406341" transform="rotate(-0 264.2247 141.406341)">A</text>
+   </g>
+   <g id="text_166">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="270.279" y="141.406341" transform="rotate(-0 270.279 141.406341)">U</text>
+   </g>
+   <g id="text_167">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="276.3333" y="141.406341" transform="rotate(-0 276.3333 141.406341)">C</text>
+   </g>
+   <g id="text_168">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="282.3876" y="141.406341" transform="rotate(-0 282.3876 141.406341)">A</text>
+   </g>
+   <g id="text_169">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="288.4419" y="141.406341" transform="rotate(-0 288.4419 141.406341)">C</text>
+   </g>
+   <g id="text_170">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="294.4962" y="141.406341" transform="rotate(-0 294.4962 141.406341)">G</text>
+   </g>
+   <g id="text_171">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="300.5505" y="141.406341" transform="rotate(-0 300.5505 141.406341)">U</text>
+   </g>
+   <g id="text_172">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="306.6048" y="141.406341" transform="rotate(-0 306.6048 141.406341)">G</text>
+   </g>
+   <g id="text_173">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="312.6591" y="141.406341" transform="rotate(-0 312.6591 141.406341)">C</text>
+   </g>
+   <g id="text_174">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="318.7134" y="141.406341" transform="rotate(-0 318.7134 141.406341)">A</text>
+   </g>
+   <g id="text_175">
+    <text style="fill: #0b0b0b; font: italic 6.2px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="2.16" y="170.083281" transform="rotate(-0 2.16 170.083281)">Hippocampus zosterae</text>
+   </g>
+   <g id="text_176">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="105.948" y="169.979844" transform="rotate(-0 105.948 169.979844)">XM_052087853.1</text>
+   </g>
+   <g id="text_177">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="161.3016" y="170.235141" transform="rotate(-0 161.3016 170.235141)">C</text>
+   </g>
+   <g id="text_178">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="167.3559" y="170.235141" transform="rotate(-0 167.3559 170.235141)">U</text>
+   </g>
+   <g id="text_179">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="173.4102" y="170.235141" transform="rotate(-0 173.4102 170.235141)">G</text>
+   </g>
+   <g id="text_180">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="179.4645" y="170.235141" transform="rotate(-0 179.4645 170.235141)">U</text>
+   </g>
+   <g id="text_181">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="185.5188" y="170.235141" transform="rotate(-0 185.5188 170.235141)">C</text>
+   </g>
+   <g id="text_182">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="191.5731" y="170.235141" transform="rotate(-0 191.5731 170.235141)">C</text>
+   </g>
+   <g id="text_183">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="197.6274" y="170.235141" transform="rotate(-0 197.6274 170.235141)">A</text>
+   </g>
+   <g id="text_184">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="203.6817" y="170.235141" transform="rotate(-0 203.6817 170.235141)">C</text>
+   </g>
+   <g id="text_185">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="209.736" y="170.235141" transform="rotate(-0 209.736 170.235141)">U</text>
+   </g>
+   <g id="text_186">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="215.7903" y="170.235141" transform="rotate(-0 215.7903 170.235141)">G</text>
+   </g>
+   <g id="text_187">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="221.8446" y="170.235141" transform="rotate(-0 221.8446 170.235141)">U</text>
+   </g>
+   <g id="text_188">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="227.8989" y="170.235141" transform="rotate(-0 227.8989 170.235141)">A</text>
+   </g>
+   <g id="text_189">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="233.9532" y="170.235141" transform="rotate(-0 233.9532 170.235141)">U</text>
+   </g>
+   <g id="text_190">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="240.0075" y="170.235141" transform="rotate(-0 240.0075 170.235141)">G</text>
+   </g>
+   <g id="text_191">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="246.0618" y="170.235141" transform="rotate(-0 246.0618 170.235141)">A</text>
+   </g>
+   <g id="text_192">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="252.1161" y="170.218406" transform="rotate(-0 252.1161 170.218406)">U</text>
+   </g>
+   <g id="text_193">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="258.1704" y="170.235141" transform="rotate(-0 258.1704 170.235141)">G</text>
+   </g>
+   <g id="text_194">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="264.2247" y="170.235141" transform="rotate(-0 264.2247 170.235141)">A</text>
+   </g>
+   <g id="text_195">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="270.279" y="170.235141" transform="rotate(-0 270.279 170.235141)">G</text>
+   </g>
+   <g id="text_196">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="276.3333" y="170.235141" transform="rotate(-0 276.3333 170.235141)">C</text>
+   </g>
+   <g id="text_197">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="282.3876" y="170.235141" transform="rotate(-0 282.3876 170.235141)">A</text>
+   </g>
+   <g id="text_198">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="288.4419" y="170.235141" transform="rotate(-0 288.4419 170.235141)">G</text>
+   </g>
+   <g id="text_199">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="294.4962" y="170.235141" transform="rotate(-0 294.4962 170.235141)">A</text>
+   </g>
+   <g id="text_200">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="300.5505" y="170.235141" transform="rotate(-0 300.5505 170.235141)">U</text>
+   </g>
+   <g id="text_201">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="306.6048" y="170.235141" transform="rotate(-0 306.6048 170.235141)">U</text>
+   </g>
+   <g id="text_202">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="312.6591" y="170.235141" transform="rotate(-0 312.6591 170.235141)">C</text>
+   </g>
+   <g id="text_203">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="318.7134" y="170.218406" transform="rotate(-0 318.7134 170.218406)">C</text>
+   </g>
+   <g id="text_204">
+    <text style="fill: #52514e; font: italic 6.2px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="2.16" y="187.824081" transform="rotate(-0 2.16 187.824081)">Hippocampus comes</text>
+   </g>
+   <g id="text_205">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="105.948" y="187.720644" transform="rotate(-0 105.948 187.720644)">XM_019879067.1</text>
+   </g>
+   <g id="text_206">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="161.3016" y="187.975941" transform="rotate(-0 161.3016 187.975941)">C</text>
+   </g>
+   <g id="text_207">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="167.3559" y="187.975941" transform="rotate(-0 167.3559 187.975941)">U</text>
+   </g>
+   <g id="text_208">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="173.4102" y="187.975941" transform="rotate(-0 173.4102 187.975941)">G</text>
+   </g>
+   <g id="text_209">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="179.4645" y="187.975941" transform="rotate(-0 179.4645 187.975941)">U</text>
+   </g>
+   <g id="text_210">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="185.5188" y="187.975941" transform="rotate(-0 185.5188 187.975941)">C</text>
+   </g>
+   <g id="text_211">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="191.5731" y="187.975941" transform="rotate(-0 191.5731 187.975941)">C</text>
+   </g>
+   <g id="text_212">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="197.6274" y="187.975941" transform="rotate(-0 197.6274 187.975941)">A</text>
+   </g>
+   <g id="text_213">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="203.6817" y="187.975941" transform="rotate(-0 203.6817 187.975941)">C</text>
+   </g>
+   <g id="text_214">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="209.736" y="187.975941" transform="rotate(-0 209.736 187.975941)">U</text>
+   </g>
+   <g id="text_215">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="215.7903" y="187.975941" transform="rotate(-0 215.7903 187.975941)">G</text>
+   </g>
+   <g id="text_216">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="221.8446" y="187.975941" transform="rotate(-0 221.8446 187.975941)">U</text>
+   </g>
+   <g id="text_217">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="227.8989" y="187.975941" transform="rotate(-0 227.8989 187.975941)">A</text>
+   </g>
+   <g id="text_218">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="233.9532" y="187.975941" transform="rotate(-0 233.9532 187.975941)">U</text>
+   </g>
+   <g id="text_219">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="240.0075" y="187.975941" transform="rotate(-0 240.0075 187.975941)">G</text>
+   </g>
+   <g id="text_220">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="246.0618" y="187.975941" transform="rotate(-0 246.0618 187.975941)">A</text>
+   </g>
+   <g id="text_221">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="252.1161" y="187.975941" transform="rotate(-0 252.1161 187.975941)">C</text>
+   </g>
+   <g id="text_222">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="258.1704" y="187.975941" transform="rotate(-0 258.1704 187.975941)">G</text>
+   </g>
+   <g id="text_223">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="264.2247" y="187.975941" transform="rotate(-0 264.2247 187.975941)">A</text>
+   </g>
+   <g id="text_224">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="270.279" y="187.975941" transform="rotate(-0 270.279 187.975941)">G</text>
+   </g>
+   <g id="text_225">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="276.3333" y="187.975941" transform="rotate(-0 276.3333 187.975941)">C</text>
+   </g>
+   <g id="text_226">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="282.3876" y="187.975941" transform="rotate(-0 282.3876 187.975941)">A</text>
+   </g>
+   <g id="text_227">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="288.4419" y="187.975941" transform="rotate(-0 288.4419 187.975941)">G</text>
+   </g>
+   <g id="text_228">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="294.4962" y="187.975941" transform="rotate(-0 294.4962 187.975941)">A</text>
+   </g>
+   <g id="text_229">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="300.5505" y="187.975941" transform="rotate(-0 300.5505 187.975941)">U</text>
+   </g>
+   <g id="text_230">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="306.6048" y="187.975941" transform="rotate(-0 306.6048 187.975941)">U</text>
+   </g>
+   <g id="text_231">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="312.6591" y="187.975941" transform="rotate(-0 312.6591 187.975941)">C</text>
+   </g>
+   <g id="text_232">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="318.7134" y="187.975941" transform="rotate(-0 318.7134 187.975941)">G</text>
+   </g>
+   <g id="text_233">
+    <text style="fill: #0b0b0b; font: italic 6.2px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="2.16" y="216.652881" transform="rotate(-0 2.16 216.652881)">Rattus rattus</text>
+   </g>
+   <g id="text_234">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="105.948" y="216.549444" transform="rotate(-0 105.948 216.549444)">XM_032885626.1</text>
+   </g>
+   <g id="text_235">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="161.3016" y="216.788006" transform="rotate(-0 161.3016 216.788006)">A</text>
+   </g>
+   <g id="text_236">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="167.3559" y="216.788006" transform="rotate(-0 167.3559 216.788006)">A</text>
+   </g>
+   <g id="text_237">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="173.4102" y="216.788006" transform="rotate(-0 173.4102 216.788006)">U</text>
+   </g>
+   <g id="text_238">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="179.4645" y="216.788006" transform="rotate(-0 179.4645 216.788006)">A</text>
+   </g>
+   <g id="text_239">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="185.5188" y="216.788006" transform="rotate(-0 185.5188 216.788006)">U</text>
+   </g>
+   <g id="text_240">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="191.5731" y="216.804741" transform="rotate(-0 191.5731 216.804741)">U</text>
+   </g>
+   <g id="text_241">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="197.6274" y="216.804741" transform="rotate(-0 197.6274 216.804741)">U</text>
+   </g>
+   <g id="text_242">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="203.6817" y="216.804741" transform="rotate(-0 203.6817 216.804741)">C</text>
+   </g>
+   <g id="text_243">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="209.736" y="216.804741" transform="rotate(-0 209.736 216.804741)">U</text>
+   </g>
+   <g id="text_244">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="215.7903" y="216.804741" transform="rotate(-0 215.7903 216.804741)">G</text>
+   </g>
+   <g id="text_245">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="221.8446" y="216.788006" transform="rotate(-0 221.8446 216.788006)">C</text>
+   </g>
+   <g id="text_246">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="227.8989" y="216.788006" transform="rotate(-0 227.8989 216.788006)">U</text>
+   </g>
+   <g id="text_247">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="233.9532" y="216.804741" transform="rotate(-0 233.9532 216.804741)">U</text>
+   </g>
+   <g id="text_248">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="240.0075" y="216.788006" transform="rotate(-0 240.0075 216.788006)">A</text>
+   </g>
+   <g id="text_249">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="246.0618" y="216.804741" transform="rotate(-0 246.0618 216.804741)">A</text>
+   </g>
+   <g id="text_250">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="252.1161" y="216.788006" transform="rotate(-0 252.1161 216.788006)">A</text>
+   </g>
+   <g id="text_251">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="258.1704" y="216.804741" transform="rotate(-0 258.1704 216.804741)">U</text>
+   </g>
+   <g id="text_252">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="264.2247" y="216.788006" transform="rotate(-0 264.2247 216.788006)">C</text>
+   </g>
+   <g id="text_253">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="270.279" y="216.788006" transform="rotate(-0 270.279 216.788006)">A</text>
+   </g>
+   <g id="text_254">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="276.3333" y="216.788006" transform="rotate(-0 276.3333 216.788006)">U</text>
+   </g>
+   <g id="text_255">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="282.3876" y="216.788006" transform="rotate(-0 282.3876 216.788006)">U</text>
+   </g>
+   <g id="text_256">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="288.4419" y="216.804741" transform="rotate(-0 288.4419 216.804741)">G</text>
+   </g>
+   <g id="text_257">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="294.4962" y="216.804741" transform="rotate(-0 294.4962 216.804741)">A</text>
+   </g>
+   <g id="text_258">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="300.5505" y="216.788006" transform="rotate(-0 300.5505 216.788006)">A</text>
+   </g>
+   <g id="text_259">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="306.6048" y="216.804741" transform="rotate(-0 306.6048 216.804741)">A</text>
+   </g>
+   <g id="text_260">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="312.6591" y="216.804741" transform="rotate(-0 312.6591 216.804741)">G</text>
+   </g>
+   <g id="text_261">
+    <text style="fill: #e34948; font: 700 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="318.7134" y="216.788006" transform="rotate(-0 318.7134 216.788006)">A</text>
+   </g>
+   <g id="text_262">
+    <text style="fill: #52514e; font: italic 6.2px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="2.16" y="234.393681" transform="rotate(-0 2.16 234.393681)">Rattus norvegicus</text>
+   </g>
+   <g id="text_263">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="105.948" y="234.290244" transform="rotate(-0 105.948 234.290244)">NM_012825.4</text>
+   </g>
+   <g id="text_264">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="161.3016" y="234.545541" transform="rotate(-0 161.3016 234.545541)">U</text>
+   </g>
+   <g id="text_265">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="167.3559" y="234.545541" transform="rotate(-0 167.3559 234.545541)">U</text>
+   </g>
+   <g id="text_266">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="173.4102" y="234.545541" transform="rotate(-0 173.4102 234.545541)">A</text>
+   </g>
+   <g id="text_267">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="179.4645" y="234.545541" transform="rotate(-0 179.4645 234.545541)">U</text>
+   </g>
+   <g id="text_268">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="185.5188" y="234.545541" transform="rotate(-0 185.5188 234.545541)">C</text>
+   </g>
+   <g id="text_269">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="191.5731" y="234.545541" transform="rotate(-0 191.5731 234.545541)">U</text>
+   </g>
+   <g id="text_270">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="197.6274" y="234.545541" transform="rotate(-0 197.6274 234.545541)">U</text>
+   </g>
+   <g id="text_271">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="203.6817" y="234.545541" transform="rotate(-0 203.6817 234.545541)">C</text>
+   </g>
+   <g id="text_272">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="209.736" y="234.545541" transform="rotate(-0 209.736 234.545541)">U</text>
+   </g>
+   <g id="text_273">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="215.7903" y="234.545541" transform="rotate(-0 215.7903 234.545541)">G</text>
+   </g>
+   <g id="text_274">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="221.8446" y="234.545541" transform="rotate(-0 221.8446 234.545541)">U</text>
+   </g>
+   <g id="text_275">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="227.8989" y="234.545541" transform="rotate(-0 227.8989 234.545541)">A</text>
+   </g>
+   <g id="text_276">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="233.9532" y="234.545541" transform="rotate(-0 233.9532 234.545541)">U</text>
+   </g>
+   <g id="text_277">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="240.0075" y="234.545541" transform="rotate(-0 240.0075 234.545541)">G</text>
+   </g>
+   <g id="text_278">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="246.0618" y="234.545541" transform="rotate(-0 246.0618 234.545541)">A</text>
+   </g>
+   <g id="text_279">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="252.1161" y="234.545541" transform="rotate(-0 252.1161 234.545541)">C</text>
+   </g>
+   <g id="text_280">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="258.1704" y="234.545541" transform="rotate(-0 258.1704 234.545541)">U</text>
+   </g>
+   <g id="text_281">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="264.2247" y="234.545541" transform="rotate(-0 264.2247 234.545541)">A</text>
+   </g>
+   <g id="text_282">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="270.279" y="234.545541" transform="rotate(-0 270.279 234.545541)">G</text>
+   </g>
+   <g id="text_283">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="276.3333" y="234.545541" transform="rotate(-0 276.3333 234.545541)">A</text>
+   </g>
+   <g id="text_284">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="282.3876" y="234.545541" transform="rotate(-0 282.3876 234.545541)">G</text>
+   </g>
+   <g id="text_285">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="288.4419" y="234.545541" transform="rotate(-0 288.4419 234.545541)">G</text>
+   </g>
+   <g id="text_286">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="294.4962" y="234.545541" transform="rotate(-0 294.4962 234.545541)">A</text>
+   </g>
+   <g id="text_287">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="300.5505" y="234.545541" transform="rotate(-0 300.5505 234.545541)">C</text>
+   </g>
+   <g id="text_288">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="306.6048" y="234.545541" transform="rotate(-0 306.6048 234.545541)">A</text>
+   </g>
+   <g id="text_289">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="312.6591" y="234.545541" transform="rotate(-0 312.6591 234.545541)">G</text>
+   </g>
+   <g id="text_290">
+    <text style="fill: #0b0b0b; font: 6.3px 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Computer Modern Typewriter', 'Andale Mono', 'Nimbus Mono L', 'Courier New', 'Courier', 'Fixed', 'Terminal', monospace; text-anchor: middle" x="318.7134" y="234.545541" transform="rotate(-0 318.7134 234.545541)">C</text>
+   </g>
+   <g id="text_291">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle" x="240.0075" y="11.0304" transform="rotate(-0 240.0075 11.0304)">stop</text>
+   </g>
+   <g id="text_292">
+    <text style="fill: #52514e; font: 5.8px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle" x="261.19755" y="11.0304" transform="rotate(-0 261.19755 11.0304)">+4 to +7</text>
+   </g>
+   <g id="text_293">
+    <text style="fill: #52514e; font: 5.5px 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="2.16" y="263.8368" transform="rotate(-0 2.16 263.8368)">Each record lacking UGA-C (black) is followed by its closest relative with UGA-C (grey); differences in red.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe24d66fa8f">
+   <rect x="2.16" y="2.16" width="345.96" height="255.024"/>
+  </clipPath>
+ </defs>
+</svg>
